@@ -1,0 +1,96 @@
+name: Daily News Update
+
+on:
+  schedule:
+    # 8:00 AM UTC every day (offset from FuelWired to spread load)
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: 'Manual trigger reason'
+        required: false
+        default: 'Manual refresh'
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    name: Fetch & Regenerate News
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          # No cache needed — stdlib only, no dependencies
+
+      - name: Run news updater
+        id: updater
+        run: |
+          echo "Starting Oilers Frontier news update…"
+          python update_news.py
+          echo "News update script finished."
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No changes detected — site is already up to date."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "Changes detected:"
+            git diff --cached --stat
+          fi
+
+      - name: Commit and push changes
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name  "Oilers Frontier Bot"
+          git config user.email "bot@oilersfrontier.com"
+          TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M UTC')
+          ARTICLE_COUNT=$(python -c "
+          import json, os
+          try:
+            with open('articles.json') as f:
+              data = json.load(f)
+            print(data.get('count', 0))
+          except Exception:
+            print('?')
+          ")
+          git commit -m "chore: daily news update ${TIMESTAMP} [${ARTICLE_COUNT} articles]
+
+          Automated update via GitHub Actions.
+          Workflow: ${{ github.workflow }}
+          Run ID:   ${{ github.run_id }}
+          Trigger:  ${{ github.event_name }}"
+
+          git push origin HEAD
+
+      - name: No-op summary
+        if: steps.changes.outputs.changed == 'false'
+        run: echo "✅ Site already up to date — no commit needed."
+
+      - name: Summary
+        if: always()
+        run: |
+          echo "## Oilers Frontier Daily Update" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "| Key | Value |" >> $GITHUB_STEP_SUMMARY
+          echo "|-----|-------|" >> $GITHUB_STEP_SUMMARY
+          echo "| Run time | $(date -u '+%Y-%m-%d %H:%M UTC') |" >> $GITHUB_STEP_SUMMARY
+          echo "| Changes committed | ${{ steps.changes.outputs.changed }} |" >> $GITHUB_STEP_SUMMARY
+          if [ -f articles.json ]; then
+            COUNT=$(python -c "import json; d=json.load(open('articles.json')); print(d.get('count','?'))")
+            echo "| Articles in manifest | ${COUNT} |" >> $GITHUB_STEP_SUMMARY
+          fi
