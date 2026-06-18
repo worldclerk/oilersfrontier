@@ -296,10 +296,10 @@ NAVBAR_HTML = """\
       </a>
       <nav class="main-nav">
         <a href="/">Home</a>
-        <a href="/#exploration">Exploration</a>
-        <a href="/#production">Production</a>
-        <a href="/#markets">Markets</a>
-        <a href="/#pipeline">Pipeline</a>
+        <a href="/#news-grid" onclick="filterCat('exploration');return false;">Exploration</a>
+        <a href="/#news-grid" onclick="filterCat('production');return false;">Production</a>
+        <a href="/#news-grid" onclick="filterCat('markets');return false;">Markets</a>
+        <a href="/#news-grid" onclick="filterCat('pipeline');return false;">Pipeline</a>
         <a href="/#about">About</a>
       </nav>
       <div class="header-actions">
@@ -372,7 +372,7 @@ def build_article_card_html(article: dict) -> str:
     excerpt_esc = html.escape(excerpt)
 
     return f"""\
-            <article class="news-card">
+            <article class="news-card" data-category="{article['category']}">
               <div class="news-card-thumb">
                 <div class="news-card-thumb-placeholder">
                   <svg viewBox="0 0 48 48" fill="none" stroke="#d4a017" stroke-width="1.5" aria-hidden="true">
