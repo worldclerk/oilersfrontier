@@ -82,10 +82,10 @@
 
       <nav class="main-nav" aria-label="Primary navigation">
         <a href="/" class="active">Home</a>
-        <a href="#news-grid" onclick="filterCat('exploration');return false;">Exploration</a>
-        <a href="#news-grid" onclick="filterCat('production');return false;">Production</a>
-        <a href="#news-grid" onclick="filterCat('markets');return false;">Markets</a>
-        <a href="#news-grid" onclick="filterCat('pipeline');return false;">Pipeline</a>
+        <a href="#exploration">Exploration</a>
+        <a href="#production">Production</a>
+        <a href="#markets">Markets</a>
+        <a href="#pipeline">Pipeline</a>
         <a href="#about">About</a>
       </nav>
 
@@ -235,7 +235,7 @@
   <div class="topic-strip">
     <div class="container">
       <div class="topic-grid">
-        <a href="#news-grid" onclick="filterCat('exploration');return false;" class="topic-card">
+        <a href="#exploration" class="topic-card">
           <svg viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true">
             <circle cx="14" cy="14" r="10"/><line x1="14" y1="4" x2="14" y2="10"/>
             <line x1="14" y1="18" x2="14" y2="24"/><line x1="4" y1="14" x2="10" y2="14"/>
@@ -243,7 +243,7 @@
           </svg>
           <span>Exploration</span>
         </a>
-        <a href="#news-grid" onclick="filterCat('production');return false;" class="topic-card">
+        <a href="#production" class="topic-card">
           <svg viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true">
             <rect x="10" y="6" width="8" height="16" rx="1"/><line x1="14" y1="2" x2="14" y2="6"/>
             <line x1="10" y1="22" x2="7" y2="26"/><line x1="18" y1="22" x2="21" y2="26"/>
@@ -251,27 +251,27 @@
           </svg>
           <span>Production</span>
         </a>
-        <a href="#news-grid" onclick="filterCat('markets');return false;" class="topic-card">
+        <a href="#markets" class="topic-card">
           <svg viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true">
             <polyline points="4,22 10,14 15,18 22,8"/><circle cx="22" cy="8" r="2"/>
           </svg>
           <span>Markets</span>
         </a>
-        <a href="#news-grid" onclick="filterCat('pipeline');return false;" class="topic-card">
+        <a href="#pipeline" class="topic-card">
           <svg viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true">
             <path d="M4 14 Q14 6 24 14"/><path d="M4 14 Q14 22 24 14"/>
             <circle cx="4" cy="14" r="2"/><circle cx="24" cy="14" r="2"/>
           </svg>
           <span>Pipeline</span>
         </a>
-        <a href="#news-grid" onclick="filterCat('technology');return false;" class="topic-card">
+        <a href="#technology" class="topic-card">
           <svg viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true">
             <circle cx="14" cy="14" r="4"/><path d="M14 4v3M14 21v3M4 14h3M21 14h3"/>
             <path d="M7.05 7.05l2.12 2.12M18.83 18.83l2.12 2.12"/>
           </svg>
           <span>Technology</span>
         </a>
-        <a href="#news-grid" onclick="filterCat('lng');return false;" class="topic-card">
+        <a href="#lng" class="topic-card">
           <svg viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true">
             <path d="M8 22 C8 16 14 10 14 6 C14 10 20 16 20 22"/><line x1="8" y1="22" x2="20" y2="22"/>
           </svg>
@@ -580,12 +580,12 @@
         <div class="footer-col">
           <h4>Coverage</h4>
           <ul class="footer-links">
-            <li><a href="#news-grid" onclick="filterCat('exploration');return false;">Exploration</a></li>
-            <li><a href="#news-grid" onclick="filterCat('production');return false;">Production</a></li>
-            <li><a href="#news-grid" onclick="filterCat('markets');return false;">Markets &amp; Prices</a></li>
-            <li><a href="#news-grid" onclick="filterCat('pipeline');return false;">Pipelines</a></li>
-            <li><a href="#news-grid" onclick="filterCat('lng');return false;">LNG</a></li>
-            <li><a href="#news-grid" onclick="filterCat('technology');return false;">Technology</a></li>
+            <li><a href="#exploration">Exploration</a></li>
+            <li><a href="#production">Production</a></li>
+            <li><a href="#markets">Markets &amp; Prices</a></li>
+            <li><a href="#pipeline">Pipelines</a></li>
+            <li><a href="#lng">LNG</a></li>
+            <li><a href="#technology">Technology</a></li>
             <li><a href="#offshore">Offshore</a></li>
           </ul>
         </div>
@@ -638,26 +638,6 @@
         });
       }
     })();
-
-
-    // Category filter
-    function filterCat(cat) {
-      var cards = document.querySelectorAll('.news-card');
-      var active = false;
-      cards.forEach(function(c) {
-        var match = c.getAttribute('data-category') === cat;
-        c.style.display = match ? '' : 'none';
-        if (match) active = true;
-      });
-      // If no matches found, show all
-      if (!active) { cards.forEach(function(c){ c.style.display = ''; }); }
-      document.getElementById('news-grid').scrollIntoView({behavior:'smooth'});
-      // Update active nav state
-      document.querySelectorAll('.main-nav a').forEach(function(a){ a.classList.remove('active'); });
-    }
-    function showAll() {
-      document.querySelectorAll('.news-card').forEach(function(c){ c.style.display = ''; });
-    }
 
     // Mobile nav toggle
     const toggle = document.querySelector('.menu-toggle');
