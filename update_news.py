@@ -21,7 +21,7 @@ import time
 FEEDS = [
     {
         "name": "OilPrice.com",
-        "url": "https://feeds.feedburner.com/oilprice/dQgE",
+        "url": "https://oilprice.com/rss/main",
         "default_category": "markets",
     },
     {
