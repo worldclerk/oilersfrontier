@@ -171,7 +171,9 @@ def fetch_feed(feed_cfg: dict) -> list:
 
     for item in items:
         def get(tag, fallback=""):
-            el = item.find(tag) or item.find(f"atom:{tag}", ns)
+            el = item.find(tag)
+            if el is None:
+                el = item.find(f"atom:{tag}", ns)
             if el is not None:
                 return (el.text or "").strip()
             return fallback
