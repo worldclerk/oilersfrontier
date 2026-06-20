@@ -1,7 +1,55 @@
 {
-  "updated": "2026-06-19 17:03:01",
+  "updated": "2026-06-20 13:16:22",
   "count": 24,
   "articles": [
+    {
+      "title": "Scatec Says Solar Project Can Save Egypt $400MM from LNG",
+      "link": "https://www.rigzone.com/news/wire/scatec_says_solar_project_can_save_egypt_400mm_from_lng-20-jun-2026-183959-article/?rss=true",
+      "description": "Scatec's Obelisk solar and battery storage project in Egypt can save the country as much as $400 million a year in liquefied natural gas imports, according to CEO Terje Pilskog.",
+      "pub_date": "2026-06-20T11:00:00Z",
+      "pub_display": "June 20, 2026",
+      "category": "lng",
+      "slug": "scatec-says-solar-project-can-save-egypt-400mm-from-lng",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-scatec-says-solar-project-can-save-egypt-400mm-from-lng.html"
+    },
+    {
+      "title": "Oil Rises as Iran Talks Are Delayed",
+      "link": "https://www.rigzone.com/news/wire/oil_rises_as_iran_talks_are_delayed-19-jun-2026-183960-article/?rss=true",
+      "description": "Oil prices rose as delayed US-Iran negotiations and slower tanker traffic through Hormuz renewed supply concerns.",
+      "pub_date": "2026-06-19T20:44:28Z",
+      "pub_display": "June 19, 2026",
+      "category": "markets",
+      "slug": "oil-rises-as-iran-talks-are-delayed",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-oil-rises-as-iran-talks-are-delayed.html"
+    },
+    {
+      "title": "Solar Is the Cheapest Power in History, But States Are Retreating From It",
+      "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/Solar-Is-the-Cheapest-Power-in-History-But-States-Are-Retreating-From-It.html",
+      "description": "A high-stakes push-and-pull is taking place in the United States clean energy sector as state-level laws, federal-level policy, and that infamous invisible hand all tug in different directions. A staggering amount of different legal actions on the part of the Trump administration, the judicial system, and state politicians have created an incredibly complex landscape for clean energy adoption across the country. And while the economics of renewables are looking better than ever, the political positioning of the clean energy transition is looking…",
+      "pub_date": "2026-06-19T17:00:00Z",
+      "pub_display": "June 19, 2026",
+      "category": "regulations",
+      "slug": "solar-is-the-cheapest-power-in-history-but-states-are-retreating-from-it",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-solar-is-the-cheapest-power-in-history-but-states-are-retreating-from-it.html"
+    },
+    {
+      "title": "Why Lunar Helium-3 Mining Still Can't Compete With Earth",
+      "link": "https://oilprice.com/Energy/Energy-General/Why-Lunar-Helium-3-Mining-Still-Cant-Compete-With-Earth.html",
+      "description": "When it comes to Helium-3, the biggest cost divide is between Earth and the Moon. Potential sources range from tritium decay and terrestrial helium wells on Earth to lunar regolith on the Moon. Today, Earth-based sources remain far easier and cheaper to access. This graphic, created by Visual Capitalist's Cody Good in partnership with Pulsar Helium, compares major potential sources of Helium-3 by cost, scalability, and accessibility. It’s part three of four in the Helium 3: From Theory to Opportunity series, delivering key He-3 insights for…",
+      "pub_date": "2026-06-19T15:00:00Z",
+      "pub_display": "June 19, 2026",
+      "category": "production",
+      "slug": "why-lunar-helium-3-mining-still-cant-compete-with-earth",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-why-lunar-helium-3-mining-still-cant-compete-with-earth.html"
+    },
     {
       "title": "Iran Delays Permanent Peace Talks after Lebanon Clashes",
       "link": "https://www.rigzone.com/news/wire/iran_delays_permanent_peace_talks_after_lebanon_clashes-19-jun-2026-183951-article/?rss=true",
@@ -25,6 +73,18 @@
       "read_time": 1,
       "source": "Rigzone Latest",
       "filename": "article-vitol-supplies-emergency-fuel-to-zambia-in-imf-opposed-deal.html"
+    },
+    {
+      "title": "The Real Reason BP Is Retreating From the North Sea",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Real-Reason-BP-Is-Retreating-From-the-North-Sea.html",
+      "description": "BP is still considering a sale of all or part of its UK upstream portfolio, which could fetch around £2 billion ($2.7 billion), though talks of a sale to Ithaca Energy fell through earlier this month, according to reports by Bloomberg and the Financial Times. We think the information is credible. A sale would fit the group’s strategic direction, and the company is an outlier in the UK, where other majors have either sold down or formed joint ventures. At the same time, BP has been pushing aggressively on the exploration front since…",
+      "pub_date": "2026-06-19T14:00:00Z",
+      "pub_display": "June 19, 2026",
+      "category": "exploration",
+      "slug": "the-real-reason-bp-is-retreating-from-the-north-sea",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-the-real-reason-bp-is-retreating-from-the-north-sea.html"
     },
     {
       "title": "Venture Global Bags New LNG Supply Contract from EnBW",
@@ -51,6 +111,18 @@
       "filename": "article-energy-transfer-to-expand-texas-ngl-export-terminal.html"
     },
     {
+      "title": "Israel and Hezbollah Truce Gives Oil Markets a Reason to Pause",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Israel-and-Hezbollah-Truce-Gives-Oil-Markets-a-Reason-to-Pause.html",
+      "description": "The Middle East's latest peace deal just got a peace deal of its own. Israel and Hezbollah agreed Friday to halt fighting in southern Lebanon after days of escalating clashes threatened to derail the fragile US-Iran peace process, reducing the risk that the first major test of the U.S.-Iran agreement would turn into its first major failure. Negotiations between Washington and Tehran are supposed to begin under a 60-day framework agreement designed to end the war, reopen the Strait of Hormuz, and eventually restore millions of barrels per day of…",
+      "pub_date": "2026-06-19T13:30:00Z",
+      "pub_display": "June 19, 2026",
+      "category": "production",
+      "slug": "israel-and-hezbollah-truce-gives-oil-markets-a-reason-to-pause",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-israel-and-hezbollah-truce-gives-oil-markets-a-reason-to-pause.html"
+    },
+    {
       "title": "Var Energi to Proceed with Balder Next Project",
       "link": "https://www.rigzone.com/news/var_energi_to_proceed_with_balder_next_project-19-jun-2026-183954-article/?rss=true",
       "description": "Expected to begin production 2027, the Jotun FPSO tieback project will develop 86 million barrels of oil equivalent gross proven and probable reserves.",
@@ -61,6 +133,18 @@
       "read_time": 1,
       "source": "Rigzone Latest",
       "filename": "article-var-energi-to-proceed-with-balder-next-project.html"
+    },
+    {
+      "title": "Russia Is Rationing Fuel in Moscow After Drone Strikes",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Is-Rationing-Fuel-in-Moscow-After-Drone-Strikes.html",
+      "description": "Russia, one of the world's largest oil producers and exporters, is now rationing gasoline in its own capital. After months of increasingly successful Ukrainian drone strikes on Russian oil infrastructure, gasoline shortages have emerged in Moscow, forcing major fuel retailers to limit sales while authorities scramble to keep supplies flowing. The shortages follow repeated attacks on refineries and fuel infrastructure that have steadily chipped away at Russia's refining system. The latest blow came this week when Ukraine struck Gazprom Neft's Moscow…",
+      "pub_date": "2026-06-19T12:30:00Z",
+      "pub_display": "June 19, 2026",
+      "category": "production",
+      "slug": "russia-is-rationing-fuel-in-moscow-after-drone-strikes",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-russia-is-rationing-fuel-in-moscow-after-drone-strikes.html"
     },
     {
       "title": "Valeura Energy concludes Nong Yao drilling campaign in Gulf of Thailand",
@@ -205,90 +289,6 @@
       "read_time": 1,
       "source": "Rigzone Latest",
       "filename": "article-repsol-wins-new-deal-to-widen-presence-in-venezuela.html"
-    },
-    {
-      "title": "OPEC Sees Sustained Oil Demand as Policy Prioritizes Energy Security",
-      "link": "https://www.rigzone.com/news/wire/opec_sees_sustained_oil_demand_as_policy_prioritizes_energy_security-19-jun-2026-183952-article/?rss=true",
-      "description": "'The increased focus on energy security and energy affordability has shifted the energy policy landscape across the globe'.",
-      "pub_date": "2026-06-19T08:15:50Z",
-      "pub_display": "June 19, 2026",
-      "category": "markets",
-      "slug": "opec-sees-sustained-oil-demand-as-policy-prioritizes-energy-security",
-      "read_time": 1,
-      "source": "Rigzone Latest",
-      "filename": "article-opec-sees-sustained-oil-demand-as-policy-prioritizes-energy-security.html"
-    },
-    {
-      "title": "Equinor and partners agree Ringvei Vest subsea development plan",
-      "link": "https://www.offshore-technology.com/news/equinor-partners-ringvei-vest-subsea-development/",
-      "description": "Equinor and its partners have finalised a development concept for Ringvei Vest, consolidating several discoveries into one subsea development connected to the Troll B platform in the North Sea.",
-      "pub_date": "2026-06-19T07:52:50Z",
-      "pub_display": "June 19, 2026",
-      "category": "offshore",
-      "slug": "equinor-and-partners-agree-ringvei-vest-subsea-development-plan",
-      "read_time": 1,
-      "source": "Offshore Technology",
-      "filename": "article-equinor-and-partners-agree-ringvei-vest-subsea-development-plan.html"
-    },
-    {
-      "title": "India Receives First Post-Deal LNG Cargo Through Strait Of Hormuz",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Receives-First-Post-Deal-LNG-Cargo-Through-Strait-Of-Hormuz.html",
-      "description": "India on Friday received the first LNG tanker that had passed through the Strait of Hormuz since the U.S. and Iran announced a deal this past weekend. The LNG carrier Disha, flying the flag of Malta, arrived at the Dahej Port on India’s West Coast on Friday, after having crossed the Strait of Hormuz earlier this week. The vessel safely anchored at the Petronet LNG jetty, the Bharuch port authority told Indian media. Petronet LNG had chartered the LNG tanker, which is managed by an India-led shipping consortium. The Disha cleared the Strait…",
-      "pub_date": "2026-06-19T07:30:00Z",
-      "pub_display": "June 19, 2026",
-      "category": "lng",
-      "slug": "india-receives-first-post-deal-lng-cargo-through-strait-of-hormuz",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-india-receives-first-post-deal-lng-cargo-through-strait-of-hormuz.html"
-    },
-    {
-      "title": "Crude Slides Nearly 9% as Traders Bet on Return of Iranian Oil",
-      "link": "https://oilprice.com/Energy/Energy-General/Crude-Slides-Nearly-9-as-Traders-Bet-on-Return-of-Iranian-Oil.html",
-      "description": "August WTI crude oil futures posted a steep decline during the week ending June 19 as traders aggressively removed geopolitical risk premium from the market following a breakthrough agreement between the United States and Iran. The contract traded between a high of $81.00 and a low of $72.83 before settling at $75.22, down $7.22, or 8.73%, from the previous week's close. The selloff extended throughout most of the week as traders shifted their focus from fears of supply disruption in the Persian Gulf to the prospect of additional Iranian barrels…",
-      "pub_date": "2026-06-19T06:30:00Z",
-      "pub_display": "June 19, 2026",
-      "category": "markets",
-      "slug": "crude-slides-nearly-9-as-traders-bet-on-return-of-iranian-oil",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-crude-slides-nearly-9-as-traders-bet-on-return-of-iranian-oil.html"
-    },
-    {
-      "title": "Oil Flows Resume Through Hormuz as Insurers Remain Wary",
-      "link": "https://oilprice.com/Energy/Energy-General/Oil-Flows-Resume-Through-Hormuz-as-Insurers-Remain-Wary.html",
-      "description": "Politics, Geopolitics & Conflict Everyone is hoping the U.S.-Iran deal holds, but Hormuz is still operating on political trust instead of commercial confidence. The U.S. has lifted its naval blockade; Iran and the U.S. have signed the 14-point memorandum; and tankers have started moving again through the strait (including Saudi supertankers carrying millions of barrels of crude). Still, shipping companies and insurers have to decide whether the route is safe enough to normalize operations. The mines can be cleared, but without any guarantees…",
-      "pub_date": "2026-06-19T06:30:00Z",
-      "pub_display": "June 19, 2026",
-      "category": "production",
-      "slug": "oil-flows-resume-through-hormuz-as-insurers-remain-wary",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-oil-flows-resume-through-hormuz-as-insurers-remain-wary.html"
-    },
-    {
-      "title": "Libya Draws Oil Majors Back in First Licensing Round in 17 Years",
-      "link": "https://oilprice.com/Energy/Energy-General/Libya-Draws-Oil-Majors-Back-in-First-Licensing-Round-in-17-Years.html",
-      "description": "Libya is back on the radar of the world’s largest oil companies, and Washington is trying to turn a fragile military thaw into a new source of crude supply. Libya’s National Oil Corporation has formally signed exploration and production-sharing agreements from its 2025 bid round with international companies including Repsol, Turkish Petroleum, Eni, QatarEnergy, and MOL, marking the country’s first major licensing push in 17 years. In the meantime, Libya’s production has climbed to roughly 1.4 million bpd, its highest level…",
-      "pub_date": "2026-06-19T06:30:00Z",
-      "pub_display": "June 19, 2026",
-      "category": "production",
-      "slug": "libya-draws-oil-majors-back-in-first-licensing-round-in-17-years",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-libya-draws-oil-majors-back-in-first-licensing-round-in-17-years.html"
-    },
-    {
-      "title": "India Orders Major Strategic Oil Reserve Expansion After Supply Crisis",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Orders-Major-Strategic-Oil-Reserve-Expansion-After-Supply-Crisis.html",
-      "description": "India’s government has asked state-owned Oil and Natural Gas Corp (ONGC) to build and fill a new site for strategic petroleum reserves, with an estimated investment of $1.6 billion, local outlet the Economic Times reported on Friday, quoting sources with knowledge of the plans. The government is looking to boost India’s energy security in the wake of the Iran war and the following oil supply crisis that India felt firsthand, with a soaring energy import bill and rising prices of fuels. Currently, India’s underground Strategic…",
-      "pub_date": "2026-06-19T05:30:00Z",
-      "pub_display": "June 19, 2026",
-      "category": "markets",
-      "slug": "india-orders-major-strategic-oil-reserve-expansion-after-supply-crisis",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-india-orders-major-strategic-oil-reserve-expansion-after-supply-crisis.html"
     }
   ]
 }
