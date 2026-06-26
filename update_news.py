@@ -303,6 +303,7 @@ NAVBAR_HTML = """\
         <a href="/#news-grid" onclick="filterCat('markets');return false;">Markets</a>
         <a href="/#news-grid" onclick="filterCat('pipeline');return false;">Pipeline</a>
         <a href="/#about">About</a>
+        <a href="leadership-changes.html">Leadership</a>
       </nav>
       <div class="header-actions">
         <a href="/#newsletter" class="btn-subscribe">Subscribe</a>
