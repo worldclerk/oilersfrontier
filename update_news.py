@@ -591,10 +591,47 @@ def main():
     else:
         print("  ⚠ index.html regeneration skipped")
 
+    # Generate sitemap.xml + robots.txt
+    print("\n[5/5] Generating sitemap.xml and robots.txt…")
+    generate_sitemap(articles)
+    generate_robots()
+
     print("\n✅ Update complete!")
     print(f"   Articles: {len(articles)}")
     print(f"   Pages:    {generated}")
     print(f"   Updated:  {timestamp} UTC\n")
+
+
+def generate_sitemap(articles: list) -> None:
+    """Generate sitemap.xml for all pages."""
+    today = datetime.datetime.utcnow().strftime("%Y-%m-%d")
+    urls = [
+        f'  <url><loc>https://oilersfrontier.com/</loc><lastmod>{today}</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>',
+        f'  <url><loc>https://oilersfrontier.com/leadership-changes.html</loc><lastmod>{today}</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>',
+    ]
+    for article in articles:
+        pub = article.get("pub_date", today)[:10]
+        urls.append(
+            f'  <url><loc>https://oilersfrontier.com/{article["filename"]}</loc>'
+            f'<lastmod>{pub}</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>'
+        )
+    content = (
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+        + "\n".join(urls) + "\n</urlset>\n"
+    )
+    sitemap_path = os.path.join(SCRIPT_DIR, "sitemap.xml")
+    with open(sitemap_path, "w", encoding="utf-8") as f:
+        f.write(content)
+    print(f"  ✓ Generated sitemap.xml ({len(urls)} URLs)")
+
+
+def generate_robots() -> None:
+    """Generate robots.txt allowing all crawlers."""
+    robots_path = os.path.join(SCRIPT_DIR, "robots.txt")
+    with open(robots_path, "w", encoding="utf-8") as f:
+        f.write("User-agent: *\nAllow: /\n\nSitemap: https://oilersfrontier.com/sitemap.xml\n")
+    print("  ✓ Generated robots.txt")
 
 
 if __name__ == "__main__":
