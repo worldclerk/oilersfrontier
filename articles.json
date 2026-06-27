@@ -1,7 +1,67 @@
 {
-  "updated": "2026-06-26 16:27:55",
+  "updated": "2026-06-27 12:13:50",
   "count": 24,
   "articles": [
+    {
+      "title": "Panama Canal Sees Revenue Beating Forecast",
+      "link": "https://www.rigzone.com/news/wire/panama_canal_sees_revenue_beating_forecast-27-jun-2026-184000-article/?rss=true",
+      "description": "The Panama Canal expects revenue to exceed its $5.2 billion forecast for fiscal 2026 after the closure of the Strait of Hormuz.",
+      "pub_date": "2026-06-27T12:00:00Z",
+      "pub_display": "June 27, 2026",
+      "category": "technology",
+      "slug": "panama-canal-sees-revenue-beating-forecast",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-panama-canal-sees-revenue-beating-forecast.html"
+    },
+    {
+      "title": "UK Grid Issues Another Supply Warning",
+      "link": "https://www.rigzone.com/news/wire/uk_grid_issues_another_supply_warning-26-jun-2026-184002-article/?rss=true",
+      "description": "The UK grid operator issued a second power supply warning for Friday evening.",
+      "pub_date": "2026-06-26T20:00:00Z",
+      "pub_display": "June 26, 2026",
+      "category": "production",
+      "slug": "uk-grid-issues-another-supply-warning",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-uk-grid-issues-another-supply-warning.html"
+    },
+    {
+      "title": "Crude Falls On Rising Gulf Supplies",
+      "link": "https://www.rigzone.com/news/wire/crude_falls_on_rising_gulf_supplies-26-jun-2026-184005-article/?rss=true",
+      "description": "Oil prices fell sharply as rising Strait of Hormuz traffic and increasing Persian Gulf exports fueled oversupply concerns.",
+      "pub_date": "2026-06-26T19:39:53Z",
+      "pub_display": "June 26, 2026",
+      "category": "markets",
+      "slug": "crude-falls-on-rising-gulf-supplies",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-crude-falls-on-rising-gulf-supplies.html"
+    },
+    {
+      "title": "The Billion-Dollar Debt Deals Exposing an Oil Giant",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Billion-Dollar-Debt-Deals-Exposing-an-Oil-Giant.html",
+      "description": "Last week, Angola's state oil company, Sociedade Nacional de Combustíveis de Angola (Sonangol), secured a $2.65-billion financing deal with a consortium of international banks to fund the company's operating expenses and capital investments. The financing was heavily backed by a syndicate of foreign lenders including Société Générale, First Abu Dhabi Bank, Standard Bank of South Africa and Absa, while local Angolan banks, including Banco Fomento de Angola (BFA), Banco Millennium Atlântico and Banco Angolano…",
+      "pub_date": "2026-06-26T17:00:00Z",
+      "pub_display": "June 26, 2026",
+      "category": "regulations",
+      "slug": "the-billion-dollar-debt-deals-exposing-an-oil-giant",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-the-billion-dollar-debt-deals-exposing-an-oil-giant.html"
+    },
+    {
+      "title": "AI Demand, War, and Climate Pressure Push World Back To Nuclear",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/AI-Demand-War-and-Climate-Pressure-Push-World-Back-To-Nuclear.html",
+      "description": "Global energy markets are in turmoil as energy crises keep piling up. The energy-hungry AI boom, war in Iran, geopolitical instability, and climate pressures are creating a polycrisis for the global energy sector, and it’s just getting started. To solve multiple overlapping crises, we will need multiple overlapping solutions. An all-of-the-above solution to increasing energy security is therefore gaining favor on a global scale as the precariousness of over-reliance on limited energy supply chains becomes dangerously clear. While fossil fuels…",
+      "pub_date": "2026-06-26T15:00:00Z",
+      "pub_display": "June 26, 2026",
+      "category": "markets",
+      "slug": "ai-demand-war-and-climate-pressure-push-world-back-to-nuclear",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-ai-demand-war-and-climate-pressure-push-world-back-to-nuclear.html"
+    },
     {
       "title": "EIA Sees USA Energy Demand Dropping in 2026, Rising in 2027",
       "link": "https://www.rigzone.com/news/eia_sees_usa_energy_demand_dropping_in_2026_rising_in_2027-26-jun-2026-184003-article/?rss=true",
@@ -25,6 +85,54 @@
       "read_time": 1,
       "source": "Rigzone Latest",
       "filename": "article-traffic-flows-through-hormuz-despite-ship-attack.html"
+    },
+    {
+      "title": "China's Battery Giant Bets Big on Sodium as Lithium Volatility Persists",
+      "link": "https://oilprice.com/Energy/Energy-General/Chinas-Battery-Giant-Bets-Big-on-Sodium-as-Lithium-Volatility-Persists.html",
+      "description": "The world’s largest battery maker is taking a step back from the eclectic vehicles sector to refocus its efforts on energy storage. China’s Contemporary Amperex Technology Co. Ltd. (better known as CATL) has been building up its energy storage portfolio for years now, but the company’s transition away from EVs and toward energy systems has been supercharged by the artificial intelligence boom. Five years ago, just 2 percent of CATL’S sales came from battery storage. Today, storage accounts for a full quarter of the megacompany’s…",
+      "pub_date": "2026-06-26T14:00:00Z",
+      "pub_display": "June 26, 2026",
+      "category": "pipeline",
+      "slug": "chinas-battery-giant-bets-big-on-sodium-as-lithium-volatility-persists",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-chinas-battery-giant-bets-big-on-sodium-as-lithium-volatility-persists.html"
+    },
+    {
+      "title": "The IAEA Faces a New Nuclear Puzzle Inside Iran",
+      "link": "https://oilprice.com/Energy/Energy-General/The-IAEA-Faces-a-New-Nuclear-Puzzle-Inside-Iran.html",
+      "description": "Amid an ongoing row between Washington and Tehran over whether international monitors can verify Iranian compliance with its nuclear nonproliferation commitments, former officials have told RFE/RL that the scale, scope, and degree of access are crucial to the success of inspections. Details on those have yet to be determined, though Raffael Grossi, head of the International Atomic Energy Agency (IAEA) said the UN body \"will be working on the modalities -- dates, procedures, places -- very soon.\" That doesn't mean, according to experts, that the…",
+      "pub_date": "2026-06-26T13:00:00Z",
+      "pub_display": "June 26, 2026",
+      "category": "technology",
+      "slug": "the-iaea-faces-a-new-nuclear-puzzle-inside-iran",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-the-iaea-faces-a-new-nuclear-puzzle-inside-iran.html"
+    },
+    {
+      "title": "US Drillers Add Oil, Gas Rigs As Hormuz Transit Resumes",
+      "link": "https://oilprice.com/Energy/Crude-Oil/US-Drillers-Add-Oil-Gas-Rigs-As-Hormuz-Transit-Resumes.html",
+      "description": "The total number of active drilling rigs for oil and gas in the United States rose this week, according to new data that Baker Hughes published on Friday, bringing the total rig count in the US to 573, up 26 from this same time last year. The number of active oil rigs rose by 7 to 440 during the latest reporting period, according to the data. This is 8 above this same time last year. The number of gas rigs rose by 3 to 125, which is 16 more than this time last year. The miscellaneous rig stayed the same at 8. The latest EIA data showed that weekly…",
+      "pub_date": "2026-06-26T12:44:27Z",
+      "pub_display": "June 26, 2026",
+      "category": "exploration",
+      "slug": "us-drillers-add-oil-gas-rigs-as-hormuz-transit-resumes",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-us-drillers-add-oil-gas-rigs-as-hormuz-transit-resumes.html"
+    },
+    {
+      "title": "Equinor Pulls Out of Japan’s Offshore Wind Market",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Equinor-Pulls-Out-of-Japans-Offshore-Wind-Market.html",
+      "description": "Equinor is ending its offshore wind business activities in Japan and will close its Tokyo office by the end of the year as the Norwegian energy major is realigning its non-oil and gas strategy to focus on power markets. “This decision reflects a reassessment of Equinor’s strategic direction, with a strengthened focus on integrated power markets,” the Norwegian company said on Friday. While Equinor is ending its Japanese presence, Japan will remain an important country for Equinor, which will continue to invest in its longstanding…",
+      "pub_date": "2026-06-26T12:30:00Z",
+      "pub_display": "June 26, 2026",
+      "category": "markets",
+      "slug": "equinor-pulls-out-of-japan-s-offshore-wind-market",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-equinor-pulls-out-of-japan-s-offshore-wind-market.html"
     },
     {
       "title": "Aker Solutions secures five-year engineering deal for White Rose field",
@@ -61,6 +169,18 @@
       "read_time": 1,
       "source": "Rigzone Latest",
       "filename": "article-doe-plans-17-5b-loans-for-westinghouse-backed-nuclear-projects.html"
+    },
+    {
+      "title": "Canada and Japan Consider Joint Critical Mineral Projects to Counter China",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Canada-and-Japan-Consider-Joint-Critical-Mineral-Projects-to-Counter-China.html",
+      "description": "Canada and Japan are considering cooperation in critical mineral projects and a potential plan of joint stockpiling of key metals as the two G7 economies look to reduce China’s outsized dominance in the market, Canada’s Minister of International Trade, Maninder Sidhu, told Reuters in an interview published on Friday. “We're offering Japan that avenue to do more with Canada in terms of critical minerals,” said Sidhu, who led a Canadian delegation on a visit to Japan. Japanese and Canadian companies signed more than C$1 billion,…",
+      "pub_date": "2026-06-26T11:30:00Z",
+      "pub_display": "June 26, 2026",
+      "category": "markets",
+      "slug": "canada-and-japan-consider-joint-critical-mineral-projects-to-counter-china",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-canada-and-japan-consider-joint-critical-mineral-projects-to-counter-china.html"
     },
     {
       "title": "Brent Erases Iran War Premium as Hormuz Flows Show Signs of Recovery",
@@ -169,126 +289,6 @@
       "read_time": 1,
       "source": "Rigzone Latest",
       "filename": "article-naftogaz-orlen-ink-new-lng-decarbonization-agreements.html"
-    },
-    {
-      "title": "What Happened to Big Oil's Green Pivot?",
-      "link": "https://oilprice.com/Energy/Energy-General/What-Happened-to-Big-Oils-Green-Pivot.html",
-      "description": "Over the past 20 years, the story seemed straightforward. Big Oil would gradually become Big Energy. Over time, oil majors would use their balance sheets, engineering expertise, and global project-management skills to build wind farms, solar projects, hydrogen hubs, carbon capture networks, and renewable power businesses. Big Oil did make major investments in renewables. And that transition is still happening in parts of the energy sector. But among the oil majors, the strategy has become far more selective. The latest example is Equinor. The Norwegian…",
-      "pub_date": "2026-06-26T09:00:00Z",
-      "pub_display": "June 26, 2026",
-      "category": "pipeline",
-      "slug": "what-happened-to-big-oils-green-pivot",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-what-happened-to-big-oils-green-pivot.html"
-    },
-    {
-      "title": "Strike Averted as Norway Onshore Support Workers Agree New Terms",
-      "link": "https://www.rigzone.com/news/strike_averted_as_norway_onshore_support_workers_agree_new_terms-26-jun-2026-183994-article/?rss=true",
-      "description": "The Offshore Norge oil and gas association and the union Styrke agreed pay increases and other changes in the Supply Base Agreement, averting a planned strike by about 875 workers.",
-      "pub_date": "2026-06-26T08:18:34Z",
-      "pub_display": "June 26, 2026",
-      "category": "markets",
-      "slug": "strike-averted-as-norway-onshore-support-workers-agree-new-terms",
-      "read_time": 1,
-      "source": "Rigzone Latest",
-      "filename": "article-strike-averted-as-norway-onshore-support-workers-agree-new-terms.html"
-    },
-    {
-      "title": "Output at Key Field in Kazakhstan Takes Hit from Attack on Russian Plant",
-      "link": "https://www.rigzone.com/news/wire/output_at_key_field_in_kazakhstan_takes_hit_from_attack_on_russian_plant-26-jun-2026-183993-article/?rss=true",
-      "description": "Kazakhstan's giant Karachaganak oil and gas field cut crude production by more than a quarter after a drone attack forced the shutdown of a processing plant in Russia that handles its gas.",
-      "pub_date": "2026-06-26T08:01:27Z",
-      "pub_display": "June 26, 2026",
-      "category": "production",
-      "slug": "output-at-key-field-in-kazakhstan-takes-hit-from-attack-on-russian-plant",
-      "read_time": 1,
-      "source": "Rigzone Latest",
-      "filename": "article-output-at-key-field-in-kazakhstan-takes-hit-from-attack-on-russian-plant.html"
-    },
-    {
-      "title": "Saudi Arabia Set to Slash Oil Prices as Hormuz Reopens",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Set-to-Slash-Oil-Prices-as-Hormuz-Reopens.html",
-      "description": "Saudi Arabia is expected to slash the official selling prices of its crude loading for Asia in August, as Middle East’s crude benchmarks crashed amid the tentative reopening of the Strait of Hormuz and the oil supply increase from the region. Saudi oil giant Aramco, the world’s single-biggest crude oil exporter, is expected to slash the OSP of its flagship Arab Light crude by between $6.50 and $8.00 per barrel, a Reuters survey of industry sources showed on Friday. Refiners polled by Reuters expect the prices of all other Saudi grades,…",
-      "pub_date": "2026-06-26T08:00:00Z",
-      "pub_display": "June 26, 2026",
-      "category": "markets",
-      "slug": "saudi-arabia-set-to-slash-oil-prices-as-hormuz-reopens",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-saudi-arabia-set-to-slash-oil-prices-as-hormuz-reopens.html"
-    },
-    {
-      "title": "ONGC signs technical services deal with bp for Western Offshore Basin",
-      "link": "https://www.offshore-technology.com/news/ongc-technical-services-bp-western-offshore/",
-      "description": "Oil and Natural Gas Corporation Limited (ONGC), an Indian central public sector undertaking, has awarded a technical services contract to BP to help boost production from its fields in the Western Offshore Basin.",
-      "pub_date": "2026-06-26T07:21:55Z",
-      "pub_display": "June 26, 2026",
-      "category": "production",
-      "slug": "ongc-signs-technical-services-deal-with-bp-for-western-offshore-basin",
-      "read_time": 1,
-      "source": "Offshore Technology",
-      "filename": "article-ongc-signs-technical-services-deal-with-bp-for-western-offshore-basin.html"
-    },
-    {
-      "title": "Kazakhstan Cuts Gas Output after Drone Strike on Russian Processing Plant",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Kazakhstan-Cuts-Gas-Output-after-Drone-Strike-on-Russian-Processing-Plant.html",
-      "description": "Kazakhstan has slashed by a quarter natural gas production at the huge Karachaganak oil and gas field after Ukraine earlier this week hit with drones a Russian plant processing part of the gas, Kazakhstan’s Energy Minister Yerlan Akkenzhenov said on Friday. “Naturally, we have reduced the gas intake,” Reuters quoted the minister as telling reporters today. Gas supply to Kazakhstan hasn’t been disrupted, Akkenzhenov added. Oil production at Karachaganak, which is operated by international supermajors,…",
-      "pub_date": "2026-06-26T07:00:00Z",
-      "pub_display": "June 26, 2026",
-      "category": "production",
-      "slug": "kazakhstan-cuts-gas-output-after-drone-strike-on-russian-processing-plant",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-kazakhstan-cuts-gas-output-after-drone-strike-on-russian-processing-plant.html"
-    },
-    {
-      "title": "Crude Prices Sink as Traders Bet on More Iranian Oil",
-      "link": "https://oilprice.com/Energy/Energy-General/Crude-Prices-Sink-as-Traders-Bet-on-More-Iranian-Oil.html",
-      "description": "August WTI crude oil futures kept falling sharply during the week ending June 26. Traders continued to take out the extra price they had added earlier because they worried about possible supply problems in the Middle East. The contract moved between a high of $78.14 and a low of $68.90 before finishing at $71.53. That was down $3.99, or 5.28 percent, from the week before. The selling went on for most of the week. Traders stopped focusing as much on the chance of oil supplies getting cut off in the Persian Gulf. Instead, they paid more attention…",
-      "pub_date": "2026-06-26T06:30:00Z",
-      "pub_display": "June 26, 2026",
-      "category": "markets",
-      "slug": "crude-prices-sink-as-traders-bet-on-more-iranian-oil",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-crude-prices-sink-as-traders-bet-on-more-iranian-oil.html"
-    },
-    {
-      "title": "China’s Crude Imports Set to Hit Weakest Level Since 2016",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Crude-Imports-Set-to-Hit-Weakest-Level-Since-2016.html",
-      "description": "Chinese crude oil imports this month are on course to book an even weaker month than May, according to Kpler data, which sees the daily average at just 6.4 million barrels, as cited by Bloomberg. Data from Vortexa suggests a similar daily import level, the publication added. This would be the weakest import rate since October 2016, Bloomberg noted, and an 8% decline on May volumes. Those averaged 7.82 million barrels, according to customs data, down by 29% on the year and 17% on April. The May average was also a 38% drop on February volumes, before…",
-      "pub_date": "2026-06-26T06:00:00Z",
-      "pub_display": "June 26, 2026",
-      "category": "technology",
-      "slug": "china-s-crude-imports-set-to-hit-weakest-level-since-2016",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-china-s-crude-imports-set-to-hit-weakest-level-since-2016.html"
-    },
-    {
-      "title": "Hormuz Shipping Confidence Is Still Shaky",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Shipping-Confidence-Is-Still-Shaky.html",
-      "description": "Traffic through the Strait of Hormuz has picked up over the past week but shipowners remain cautious about transiting, especially after the Thursday attack in the Gulf of Oman on a vessel that had just cleared the chokepoint. On Friday morning local time, two tankers carrying crude were moving out of the Strait while four empty supertankers were traveling inbound near the Omani coast, according to vessel-tracking data monitored by Bloomberg. While some traffic has been observed on Friday, the Thursday attack on the container ship Ever Lovely prompted…",
-      "pub_date": "2026-06-26T05:30:00Z",
-      "pub_display": "June 26, 2026",
-      "category": "technology",
-      "slug": "hormuz-shipping-confidence-is-still-shaky",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-hormuz-shipping-confidence-is-still-shaky.html"
-    },
-    {
-      "title": "Qatar Offers First Crude Loadings to Buyers Since War Began",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Qatar-Offers-First-Crude-Loadings-to-Buyers-Since-War-Began.html",
-      "description": "Qatar is tendering crude for loading outside the Strait of Hormuz in July and August, in what is likely the first Qatari crude offering to buyers since the Iran war began on February 28, trade sources told Reuters on Friday. Qatar’s state firm QatarEnergy has issued a tender, which closes on June 29, offering buyers to load or lift Marine Qatar, Marine Land, and al-Shaheen crude grades via ship-to-ship (STS) transfers between the offshore waters of Fujairah in the United Arab Emirates and Sohar in Oman, per a tender document Reuters has seen.…",
-      "pub_date": "2026-06-26T05:00:00Z",
-      "pub_display": "June 26, 2026",
-      "category": "markets",
-      "slug": "qatar-offers-first-crude-loadings-to-buyers-since-war-began",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-qatar-offers-first-crude-loadings-to-buyers-since-war-began.html"
     }
   ]
 }
