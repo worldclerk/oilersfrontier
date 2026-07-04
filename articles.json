@@ -1,7 +1,67 @@
 {
-  "updated": "2026-07-03 15:35:05",
+  "updated": "2026-07-04 11:57:53",
   "count": 24,
   "articles": [
+    {
+      "title": "Refiner Profits Are Soaring",
+      "link": "https://www.rigzone.com/news/wire/refiner_profits_are_soaring-03-jul-2026-184059-article/?rss=true",
+      "description": "U.S. crude refiners are enjoying some of the best profit margins in years.",
+      "pub_date": "2026-07-03T20:00:00Z",
+      "pub_display": "July 3, 2026",
+      "category": "markets",
+      "slug": "refiner-profits-are-soaring",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-refiner-profits-are-soaring.html"
+    },
+    {
+      "title": "Colombia's Oil and Gas Reserves Keep Shrinking",
+      "link": "https://oilprice.com/Energy/Energy-General/Colombias-Oil-and-Gas-Reserves-Keep-Shrinking.html",
+      "description": "For a decade, Colombia's economically vital oil industry has been caught in a death spiral. A combination of sharply weaker oil prices, rising geopolitical risk and anti-petroleum industry reforms implemented by Colombia's first leftist president Gustavo Petro deterred investment, causing the operational tempo to decline. The main issue weighing heavily on the oil patch's outlook is a dire lack of proven petroleum reserves. These are the result of a lack of spending on wildcat drilling and a poor exploration success rate. After a lengthy delay,…",
+      "pub_date": "2026-07-03T18:00:00Z",
+      "pub_display": "July 3, 2026",
+      "category": "exploration",
+      "slug": "colombias-oil-and-gas-reserves-keep-shrinking",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-colombias-oil-and-gas-reserves-keep-shrinking.html"
+    },
+    {
+      "title": "Texas Oil Regulator Directs DOGE to Enhance RRC Efficiency",
+      "link": "https://www.rigzone.com/news/texas_oil_regulator_directs_doge_to_enhance_rrc_efficiency-03-jul-2026-184060-article/?rss=true",
+      "description": "'Our goal is simple', RRC Commissioner Wayne Christian said.",
+      "pub_date": "2026-07-03T14:34:17Z",
+      "pub_display": "July 3, 2026",
+      "category": "technology",
+      "slug": "texas-oil-regulator-directs-doge-to-enhance-rrc-efficiency",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-texas-oil-regulator-directs-doge-to-enhance-rrc-efficiency.html"
+    },
+    {
+      "title": "OPEC Oil Production Jumps, But Gulf Supply Is Still Far From Normal",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/OPEC-Oil-Production-Jumps-But-Gulf-Supply-Is-Still-Far-From-Normal.html",
+      "description": "OPEC's oil production rebounded sharply in June as Gulf producers finally began bringing shut-in barrels back online after months of war-induced disruptions. But despite the impressive headline number, the cartel is still pumping nowhere near where it was before the Strait of Hormuz crisis turned Middle East oil flows upside down. According to Reuters' monthly survey, the 11 OPEC members produced 19.43 million barrels per day in June, up 3.3 million bpd from May, when output plunged to the lowest level recorded by the survey since at least 2000.…",
+      "pub_date": "2026-07-03T14:30:00Z",
+      "pub_display": "July 3, 2026",
+      "category": "production",
+      "slug": "opec-oil-production-jumps-but-gulf-supply-is-still-far-from-normal",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-opec-oil-production-jumps-but-gulf-supply-is-still-far-from-normal.html"
+    },
+    {
+      "title": "China Urges 'Unimpeded Passage' of Hormuz",
+      "link": "https://www.rigzone.com/news/wire/china_urges_unimpeded_passage_of_hormuz-03-jul-2026-184057-article/?rss=true",
+      "description": "China called for the unhindered flow of shipping through the Strait of Hormuz.",
+      "pub_date": "2026-07-03T14:16:07Z",
+      "pub_display": "July 3, 2026",
+      "category": "technology",
+      "slug": "china-urges-unimpeded-passage-of-hormuz",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-china-urges-unimpeded-passage-of-hormuz.html"
+    },
     {
       "title": "Alberta Advances West Coast Oil Pipeline Project",
       "link": "https://www.rigzone.com/news/alberta_advances_west_coast_oil_pipeline_project-03-jul-2026-184056-article/?rss=true",
@@ -15,6 +75,30 @@
       "filename": "article-alberta-advances-west-coast-oil-pipeline-project.html"
     },
     {
+      "title": "Copper's Next Move Depends On Washington, Not The Strait Of Hormuz",
+      "link": "https://oilprice.com/Metals/Commodities/Coppers-Next-Move-Depends-On-Washington-Not-The-Strait-Of-Hormuz.html",
+      "description": "Six months after Operation Epic Fury upended the metals complex, the Strait of Hormuz still can't decide if it's open. Days after the two countries signed a memorandum of understanding on June 17, Iran's military declared the strait closed again, only for Iran's own foreign ministry to tell state media shipping was “operating normally.” Under that same agreement, Washington has until July 19 to fully lift its naval blockade, while Tehran is only committed to its “best efforts” to restore pre-war traffic. Base metals…",
+      "pub_date": "2026-07-03T14:00:00Z",
+      "pub_display": "July 3, 2026",
+      "category": "technology",
+      "slug": "coppers-next-move-depends-on-washington-not-the-strait-of-hormuz",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-coppers-next-move-depends-on-washington-not-the-strait-of-hormuz.html"
+    },
+    {
+      "title": "Hormuz Turns Oil Outlooks Into a Guessing Game",
+      "link": "https://oilprice.com/Energy/Energy-General/Hormuz-Turns-Oil-Outlooks-Into-a-Guessing-Game.html",
+      "description": "Numbers Report – July 03, 2026 In the latest edition of the Numbers Report, we will take a look at some of the most interesting figures put out this week in the energy and metals sectors. Each week we’ll dig into some data and provide a bit of explanation on what drives the numbers. Let’s take a look. 1. Hormuz Turns Oil Outlooks Into a Guessing Game - Energy market research organizations have started to recalibrate their global supply outlooks for 2026 and 2027, with the US Energy Information Administration seeing a much slower…",
+      "pub_date": "2026-07-03T13:51:36Z",
+      "pub_display": "July 3, 2026",
+      "category": "markets",
+      "slug": "hormuz-turns-oil-outlooks-into-a-guessing-game",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-hormuz-turns-oil-outlooks-into-a-guessing-game.html"
+    },
+    {
       "title": "Which Country is the Biggest Oil Consumer?",
       "link": "https://www.rigzone.com/news/which_country_is_the_biggest_oil_consumer-03-jul-2026-184055-article/?rss=true",
       "description": "Rigzone examines the Energy Institute's latest statistical review of world energy report, which was released recently.",
@@ -25,6 +109,54 @@
       "read_time": 1,
       "source": "Rigzone Latest",
       "filename": "article-which-country-is-the-biggest-oil-consumer.html"
+    },
+    {
+      "title": "Russia Scrambles for Asian Jet Fuel as Crisis Deepens",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Scrambles-for-Asian-Jet-Fuel-as-Crisis-Deepens.html",
+      "description": "Russia's fuel crisis has reached the point where one of the world's biggest oil producers is preparing to import jet fuel. According to Reuters, Russia is set to receive at least 200,000 barrels of jet fuel originating in Japan through a complex chain of traders and ship-to-ship transfers via South Korea, underscoring just how badly Ukrainian drone strikes have disrupted the country's refining system. The cargo is expected to load from Chiba, Japan, in the first half of July before heading to South Korea's Yeosu port for a ship-to-ship transfer.…",
+      "pub_date": "2026-07-03T12:30:00Z",
+      "pub_display": "July 3, 2026",
+      "category": "production",
+      "slug": "russia-scrambles-for-asian-jet-fuel-as-crisis-deepens",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-russia-scrambles-for-asian-jet-fuel-as-crisis-deepens.html"
+    },
+    {
+      "title": "DOJ Urges States to Enforce Fuel Price-Gouging Laws",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/DOJ-Urges-States-to-Enforce-Fuel-Price-Gouging-Laws.html",
+      "description": "The Trump administration is taking its campaign against high gasoline prices to the states, and it’s doing it formally. A little more than a week after President Donald Trump ordered the Justice Department to investigate possible price gouging at the pump, federal antitrust regulators have formally asked state attorneys general to join the effort, warning that oil market volatility is no excuse for anticompetitive behavior. In a letter sent Friday seen by CBS News, the Justice Department and the Federal Trade Commission said they are actively…",
+      "pub_date": "2026-07-03T11:30:00Z",
+      "pub_display": "July 3, 2026",
+      "category": "regulations",
+      "slug": "doj-urges-states-to-enforce-fuel-price-gouging-laws",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-doj-urges-states-to-enforce-fuel-price-gouging-laws.html"
+    },
+    {
+      "title": "Oil Markets Grow Numb to U.S.-Iran Ceasefire Drama",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Markets-Grow-Numb-to-US-Iran-Ceasefire-Drama.html",
+      "description": "Oil prices remain stuck in a tight range as traders look past geopolitical headlines and wait for clarity on the fragile U.S.-Iran ceasefire. Friday, July 03, 2026 Following weeks of extremely volatile and geopolitics-driven trading, oil prices have been exceptionally calm this week, with ICE Brent trending within a narrow range of $71-73 per barrel. This partly stems from pre-holiday liquidity dips; however, it could also be seen as the oil markets’ general fatigue with gauging the current status of the US-Iran ceasefire. Iraq Mends Its…",
+      "pub_date": "2026-07-03T11:01:00Z",
+      "pub_display": "July 3, 2026",
+      "category": "markets",
+      "slug": "oil-markets-grow-numb-to-u-s-iran-ceasefire-drama",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-oil-markets-grow-numb-to-u-s-iran-ceasefire-drama.html"
+    },
+    {
+      "title": "Russia Escalates Kyiv Strikes Days Before NATO Summit Showdown",
+      "link": "https://oilprice.com/Geopolitics/International/Russia-Escalates-Kyiv-Strikes-Days-Before-NATO-Summit-Showdown.html",
+      "description": "Russia carried out one of its largest attacks on Ukraine's capital this year, reigniting demands in the United States and Europe for tougher military and economic measures against Moscow.Ukrainian officials said at least 27 people were killed and scores of others wounded in the large-scale attack on Kyiv on July 2, which caused fires and extensive damage to civilian infrastructure and residential buildings across several districts.The scale of the assault drew swift condemnation from lawmakers in Washington, where debate over future aid to Ukraine…",
+      "pub_date": "2026-07-03T11:00:00Z",
+      "pub_display": "July 3, 2026",
+      "category": "markets",
+      "slug": "russia-escalates-kyiv-strikes-days-before-nato-summit-showdown",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-russia-escalates-kyiv-strikes-days-before-nato-summit-showdown.html"
     },
     {
       "title": "Woodside Assumes Operatorship of Aussie Gas Assets from ExxonMobil",
@@ -157,138 +289,6 @@
       "read_time": 1,
       "source": "Offshore Technology",
       "filename": "article-totalenergies-sells-8-5-stake-in-marjoram-gas-field-to-inpex.html"
-    },
-    {
-      "title": "Citi: Oil Could Sink to $60 as Hormuz Traffic Normalizes",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Citi-Oil-Could-Sink-to-60-as-Hormuz-Traffic-Normalizes.html",
-      "description": "Brent Crude prices could plunge to as low as $60 per barrel by the end of the year, says Citigroup, which expects flows through the Strait of Hormuz to soon normalize and the U.S. and Iran to reach a deal in the coming months. “We continue to recommend selling any summer rallies and forecast Brent reaching $60 to $65 a barrel by the turn of the year,” Citi analysts said in a note carried by Bloomberg. “We expect the MOU to hold and turn into a deal over the coming months as incentives to de-escalate outweigh the alternative for…",
-      "pub_date": "2026-07-03T07:00:00Z",
-      "pub_display": "July 3, 2026",
-      "category": "markets",
-      "slug": "citi-oil-could-sink-to-60-as-hormuz-traffic-normalizes",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-citi-oil-could-sink-to-60-as-hormuz-traffic-normalizes.html"
-    },
-    {
-      "title": "India Denies Directly Exporting Fuel to Russia, But Admits Traders May Be",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Denies-Directly-Exporting-Fuel-to-Russia-But-Admits-Traders-May-Be.html",
-      "description": "Indian refiners are not directly exporting any refined petroleum products to fuel-starved Russia, although some supplies from traders are likely reaching Russia, India’s Oil Minister, Hardeep Singh Puri, has said. Reports emerged earlier this week that Russia had started importing fuel from India by sea in a bid to ease the fuel shortages triggered by Ukrainian drone attacks on Russian refineries. In an exclusive Reuters report, industry sources revealed that an initial shipment of at least 60,000 metric tons (510,000 barrels) of gasoline…",
-      "pub_date": "2026-07-03T06:00:00Z",
-      "pub_display": "July 3, 2026",
-      "category": "production",
-      "slug": "india-denies-directly-exporting-fuel-to-russia-but-admits-traders-may-be",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-india-denies-directly-exporting-fuel-to-russia-but-admits-traders-may-be.html"
-    },
-    {
-      "title": "Oil Set for Fourth Straight Weekly Loss as Hormuz Flows Return",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Set-for-Fourth-Straight-Weekly-Loss-as-Hormuz-Flows-Return.html",
-      "description": "Oil futures were on track to post their fourth consecutive weekly loss early on Friday as the tentative reopening of the Strait of Hormuz and the uptick in oil flows weigh down prices. In Asian trade early on Friday, with U.S. markets closed for the July 4 weekend, both benchmarks, Brent and WTI, were gaining about 0.5% on some profit-taking. Over the past three weeks, prices have slumped to nearly pre-war levels, with Brent now in the low $70s per barrel and WTI Crude trading below $70. The U.S.-Iran memorandum to negotiate a deal and the reopening…",
-      "pub_date": "2026-07-03T05:00:00Z",
-      "pub_display": "July 3, 2026",
-      "category": "markets",
-      "slug": "oil-set-for-fourth-straight-weekly-loss-as-hormuz-flows-return",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-oil-set-for-fourth-straight-weekly-loss-as-hormuz-flows-return.html"
-    },
-    {
-      "title": "PJM on Maximum Alert to Prevent Outages Amid Extreme Heat Wave",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/PJM-on-Maximum-Alert-to-Prevent-Outages-Amid-Extreme-Heat-Wave.html",
-      "description": "PJM Interconnection, the operator of the largest U.S. electric grid, has issued a maximum generation alert for July 3 asking power producers to maximize electricity generation amid soaring demand in the current extreme heat wave. PJM had a Maximum Generation Alert and Load Management Alert in effect for July 2 across its footprint in the eastern U.S. and Midwest. These alerts have now been issued for the PJM footprint for July 3, too. While the alert does not require any action from customers, generators and transmission owners are asked to maximize…",
-      "pub_date": "2026-07-03T04:00:00Z",
-      "pub_display": "July 3, 2026",
-      "category": "production",
-      "slug": "pjm-on-maximum-alert-to-prevent-outages-amid-extreme-heat-wave",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-pjm-on-maximum-alert-to-prevent-outages-amid-extreme-heat-wave.html"
-    },
-    {
-      "title": "Japan's LNG Imports Fall 7% as Utilities Chase Cheaper Coal",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japans-LNG-Imports-Fall-7-as-Utilities-Chase-Cheaper-Coal.html",
-      "description": "Japan last month reduced gas-fired generation in favor of coal as the price of liquefied natural gas remained elevated despite multiple reports of energy flows out of the Strait of Hormuz improving. The country generated 17.3 terawatt-hours from gas-fired power plants in June, Bloomberg reported, which was down by 16% on June 2025. Coal-fired generation, meanwhile, went up by 4.6%, according to data from the nine largest Japanese power utilities. Japan has been burning more coal and less gas for power generation since the war in the Middle East…",
-      "pub_date": "2026-07-03T03:00:00Z",
-      "pub_display": "July 3, 2026",
-      "category": "lng",
-      "slug": "japans-lng-imports-fall-7-as-utilities-chase-cheaper-coal",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-japans-lng-imports-fall-7-as-utilities-chase-cheaper-coal.html"
-    },
-    {
-      "title": "Alberta and Ottawa Greenlight New Pacific Pipeline",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Alberta-and-Ottawa-Greenlight-New-Pacific-Pipeline.html",
-      "description": "Alberta’s Premier Danielle Smith and federal Prime Minister Mark Carney have made the official announcement of a new oil pipeline, to be built to Canada’s Pacific coast, broadening the access of Canadian oil producers to the Asian market. The decision is a departure from previous Liberal governments’ energy agenda, which excluded the expansion of oil pipelines due to pressure from environmentalist groups and a focus on the energy transition away from hydrocarbons. Despite his firm support for the transition in past year, Prime…",
-      "pub_date": "2026-07-03T02:00:00Z",
-      "pub_display": "July 3, 2026",
-      "category": "pipeline",
-      "slug": "alberta-and-ottawa-greenlight-new-pacific-pipeline",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-alberta-and-ottawa-greenlight-new-pacific-pipeline.html"
-    },
-    {
-      "title": "India Coal Power Generation Jumps 14% in June",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Coal-Power-Generation-Jumps-14-in-June.html",
-      "description": "India's coal-powered electricity generation last month surged by 14% on the year to 120.20 billion kWh as drier, hotter weather prompted a significant increase in demand. Reuters noted in a report on the news that this is the highest portion of coal-fired generation since November 2023. Wind and solar, meanwhile, also rose as percentage of India's electricity mix, to 19% of the total in June, according to data from the country's grid operator. On an annual basis, wind and solar rose by 23%, the data also showed. Coal power generation is expected…",
-      "pub_date": "2026-07-03T01:00:59Z",
-      "pub_display": "July 3, 2026",
-      "category": "production",
-      "slug": "india-coal-power-generation-jumps-14-in-june",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-india-coal-power-generation-jumps-14-in-june.html"
-    },
-    {
-      "title": "Saudi Oil Exports Approach Pre-War Levels",
-      "link": "https://www.rigzone.com/news/wire/saudi_oil_exports_approach_prewar_levels-02-jul-2026-184045-article/?rss=true",
-      "description": "Saudi Arabia's crude oil exports have surged close to their pre-war levels as the kingdom starts getting its tankers through the Strait of Hormuz again.",
-      "pub_date": "2026-07-02T20:00:00Z",
-      "pub_display": "July 2, 2026",
-      "category": "markets",
-      "slug": "saudi-oil-exports-approach-pre-war-levels",
-      "read_time": 1,
-      "source": "Rigzone Latest",
-      "filename": "article-saudi-oil-exports-approach-pre-war-levels.html"
-    },
-    {
-      "title": "Oil Holds Near Prewar Lows",
-      "link": "https://www.rigzone.com/news/wire/oil_holds_near_prewar_lows-02-jul-2026-184049-article/?rss=true",
-      "description": "Oil prices steadied as rising exports through Hormuz reinforced concerns about a growing global supply surplus.",
-      "pub_date": "2026-07-02T19:56:56Z",
-      "pub_display": "July 2, 2026",
-      "category": "markets",
-      "slug": "oil-holds-near-prewar-lows",
-      "read_time": 1,
-      "source": "Rigzone Latest",
-      "filename": "article-oil-holds-near-prewar-lows.html"
-    },
-    {
-      "title": "UAE Rewrites Offshore Oil Pricing To Capture Asian Markets",
-      "link": "https://oilprice.com/Energy/Crude-Oil/UAE-Rewrites-Offshore-Oil-Pricing-To-Capture-Asian-Markets.html",
-      "description": "Previously, we reported that Abu Dhabi’s flagship crude, Murban crude, has rapidly risen to prominence, with Murban crude futures having rapidly evolved from a regional benchmark into a primary global pricing standard. Known for its high API gravity and low sulfur content, Murban serves as a globally recognized energy benchmark traded on the ICE Futures Abu Dhabi (IFAD) exchange. By offering continuous screen-trading, deep liquidity and the removal of destination restrictions, Murban has bypassed older, restricted benchmarks like Platts Dubai,…",
-      "pub_date": "2026-07-02T19:00:00Z",
-      "pub_display": "July 2, 2026",
-      "category": "markets",
-      "slug": "uae-rewrites-offshore-oil-pricing-to-capture-asian-markets",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-uae-rewrites-offshore-oil-pricing-to-capture-asian-markets.html"
-    },
-    {
-      "title": "Tehran Is Racing the Clock to Export as Much Oil as Possible",
-      "link": "https://oilprice.com/Energy/Energy-General/Tehran-Is-Racing-the-Clock-to-Export-as-Much-Oil-as-Possible.html",
-      "description": "Iran is wasting no time in returning full steam to the oil export market after the Islamic Republic and the United States agreed in mid-June on a 60-day window to negotiate a deal. Since the memorandum of understanding was signed and the U.S. blockade aimed at preventing Iranian oil exports was lifted, Tehran has exported millions of barrels of its oil and has probably raised more revenues from these sales as the discounts of the Iranian crude to benchmarks have narrowed. In the memorandum of understanding, Iran won several key concessions for…",
-      "pub_date": "2026-07-02T17:00:00Z",
-      "pub_display": "July 2, 2026",
-      "category": "markets",
-      "slug": "tehran-is-racing-the-clock-to-export-as-much-oil-as-possible",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-tehran-is-racing-the-clock-to-export-as-much-oil-as-possible.html"
     }
   ]
 }
