@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-10 16:34:45",
+  "updated": "2026-07-11 11:32:18",
   "count": 24,
   "articles": [
+    {
+      "title": "IEA Says UAE Oil Output Surged to Record High in June",
+      "link": "https://www.rigzone.com/news/wire/iea_says_uae_oil_output_surged_to_record_high_in_june-10-jul-2026-184115-article/?rss=true",
+      "description": "The country pumped 4.1 million barrels a day on average in June, the International Energy Agency said in its monthly report.",
+      "pub_date": "2026-07-10T20:00:00Z",
+      "pub_display": "July 10, 2026",
+      "category": "production",
+      "slug": "iea-says-uae-oil-output-surged-to-record-high-in-june",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-iea-says-uae-oil-output-surged-to-record-high-in-june.html"
+    },
+    {
+      "title": "Europe’s Nuclear Plants Can’t Beat the Heat",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Europes-Nuclear-Plants-Cant-Beat-the-Heat.html",
+      "description": "Europe’s blistering heat wave is threatening energy security across the continent as power plants shut down and the risk of rolling blackouts rises. Electric grids are overstressed, and ecosystems are too. Rivers are greatly affected by soaring temperatures, which in turn impacts the energy industry and power plants that rely on that water supply for their cooling systems. Just this week, France announced that it will reduce production at as many as five nuclear power plants, with two already curbing output this week. France is expected to…",
+      "pub_date": "2026-07-10T18:00:00Z",
+      "pub_display": "July 10, 2026",
+      "category": "production",
+      "slug": "europe-s-nuclear-plants-can-t-beat-the-heat",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-europe-s-nuclear-plants-can-t-beat-the-heat.html"
+    },
+    {
+      "title": "Kazakhstan Extends Petroleum Export Ban Six Months as Hormuz Tensions Flare",
+      "link": "https://oilprice.com/Energy/Energy-General/Kazakhstan-Extends-Petroleum-Export-Ban-Six-Months-as-Hormuz-Tensions-Flare.html",
+      "description": "Kazakhstan is growing more possessive of its petroleum products as a gasoline shortage tightens its grip in Russia and the US-Iran conflict reignites. Kazakh officials have established new police checkpoints on almost 60 roads along the country’s lengthy border with Russia to curb ‘gasoline tourism,’ according to local news reports. In addition, new restrictions have been introduced at border checkpoints, limiting trucks and cars to one crossing per day. In recent weeks, as gasoline shortages have spread across Russia caused by…",
+      "pub_date": "2026-07-10T16:00:00Z",
+      "pub_display": "July 10, 2026",
+      "category": "production",
+      "slug": "kazakhstan-extends-petroleum-export-ban-six-months-as-hormuz-tensions-flare",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-kazakhstan-extends-petroleum-export-ban-six-months-as-hormuz-tensions-flare.html"
+    },
     {
       "title": "BOEM Explores Potential for OCS Space Launch and Recovery",
       "link": "https://www.rigzone.com/news/boem_explores_potential_for_ocs_space_launch_and_recovery-10-jul-2026-184116-article/?rss=true",
@@ -25,6 +61,30 @@
       "read_time": 1,
       "source": "Rigzone Latest",
       "filename": "article-venezuela-breaks-up-oil-monopoly-under-new-rules.html"
+    },
+    {
+      "title": "Summer Heatwaves Are Rewriting the Rules for Britain's Power Grid",
+      "link": "https://oilprice.com/Energy/Energy-General/Summer-Heatwaves-Are-Rewriting-the-Rules-for-Britains-Power-Grid.html",
+      "description": "The energy grid operator has warned that the “extreme temperatures” from this week’s heatwave could hit power supplies on Thursday night, as households’ use of fans and air conditioner place a record strain on our electricity system. The National Energy System Operator (Neso) issued a rare overnight notice calling on energy companies to generate additional supplies to satisfy demand from cooling devices during what Britain’s third heatwave of the summer. It is Neso’s second warning in as many months. The group…",
+      "pub_date": "2026-07-10T14:00:00Z",
+      "pub_display": "July 10, 2026",
+      "category": "production",
+      "slug": "summer-heatwaves-are-rewriting-the-rules-for-britains-power-grid",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-summer-heatwaves-are-rewriting-the-rules-for-britains-power-grid.html"
+    },
+    {
+      "title": "US Oil, Gas Drillers Hang Back in Volatile Market",
+      "link": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Gas-Drillers-Hang-Back-in-Volatile-Market.html",
+      "description": "The total number of active drilling rigs for oil and gas in the United States rose this week, according to new data that Baker Hughes published on Friday, bringing the total rig count in the US to 581, up 44 from this same time last year. The number of active oil rigs stayed at 445 during the latest reporting period, according to the data. This is 21 above this same time last year. The number of gas rigs also stayed the same, at 126, which is 18 more than this time last year. The gain was courtesy of the miscellaneous rig count, which gained 1,…",
+      "pub_date": "2026-07-10T13:00:00Z",
+      "pub_display": "July 10, 2026",
+      "category": "technology",
+      "slug": "us-oil-gas-drillers-hang-back-in-volatile-market",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-us-oil-gas-drillers-hang-back-in-volatile-market.html"
     },
     {
       "title": "Chevron to Continue Supplying Gas to Australian Utility Alinta",
@@ -229,66 +289,6 @@
       "read_time": 1,
       "source": "Offshore Technology",
       "filename": "article-halliburton-deploys-logix-platform-on-eni-deepwater-well-in-indonesia.html"
-    },
-    {
-      "title": "Oil Prices Rally on Renewed Hormuz Supply Risks",
-      "link": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Rally-on-Renewed-Hormuz-Supply-Risks.html",
-      "description": "August WTI crude oil traded higher during the week ending July 10, with prices last at $71.84 through Thursday evening, up $3.38, or 4.94%. The contract posted a wide weekly range, climbing from a low of $67.82 to a high of $76.08 before pulling back late Thursday. The week's advance was driven by one dominant theme: growing concern over global oil supplies. Traders added a larger risk premium to crude prices as renewed geopolitical tensions in the Middle East raised questions about the security of oil shipments through the Strait of Hormuz. Those…",
-      "pub_date": "2026-07-10T06:30:00Z",
-      "pub_display": "July 10, 2026",
-      "category": "markets",
-      "slug": "oil-prices-rally-on-renewed-hormuz-supply-risks",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-oil-prices-rally-on-renewed-hormuz-supply-risks.html"
-    },
-    {
-      "title": "Nord Stream Loses Landmark Insurance Case as War Exclusion Prevails",
-      "link": "https://oilprice.com/Energy/Energy-General/Nord-Stream-Loses-Landmark-Insurance-Case-as-War-Exclusion-Prevails.html",
-      "description": "Politics, Geopolitics & Conflict A UK High Court ruling has ended Nord Stream AG’s attempt to recover $662 million in insurance claims from the September 2022 sabotage of the Nord Stream 1 gas pipeline, with a judge ruling it a standard war-risk exclusion and relieving insurers of liability (Lloyd’s and Arch). The court also rejected Nord Stream AG’s argument that separate damage to one section of the pipeline had been caused by a ship’s anchor rather than explosives. This ruling establishes an important legal precedent…",
-      "pub_date": "2026-07-10T06:30:00Z",
-      "pub_display": "July 10, 2026",
-      "category": "regulations",
-      "slug": "nord-stream-loses-landmark-insurance-case-as-war-exclusion-prevails",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-nord-stream-loses-landmark-insurance-case-as-war-exclusion-prevails.html"
-    },
-    {
-      "title": "U.S. Strikes Fail to Break Iran’s Grip on the Strait of Hormuz",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Strikes-Fail-to-Break-Irans-Grip-on-the-Strait-of-Hormuz.html",
-      "description": "The U.S. launched another major round of strikes across Iran this week, targeting roughly 90 military sites, including coastal radar installations, anti-ship missile batteries, drone launch positions, command networks and IRGC naval assets around Hormuz. Tehran responded within hours with missile and drone attacks against U.S. military facilities in Bahrain, Kuwait, and Qatar while insisting it will continue enforcing its own navigation regime through the Strait. For Tehran, control of Hormuz is now the top strategic objective. Western…",
-      "pub_date": "2026-07-10T06:30:00Z",
-      "pub_display": "July 10, 2026",
-      "category": "technology",
-      "slug": "u-s-strikes-fail-to-break-iran-s-grip-on-the-strait-of-hormuz",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-u-s-strikes-fail-to-break-iran-s-grip-on-the-strait-of-hormuz.html"
-    },
-    {
-      "title": "ADNOC Orders $900 Million in New LNG Carriers to Expand Global Fleet",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Orders-900-Million-in-New-LNG-Carriers-to-Expand-Global-Fleet.html",
-      "description": "ADNOC Logistics and Services has placed a $900-million order for four newbuild LNG carriers to expand its fleet as Abu Dhabi’s national oil company seeks to boost gas exports to seize the global rise in LNG demand. ADNOC Logistics and Services on Friday announced a newbuilding order for an additional four next-generation LNG carriers with a total value of approximately $900 million, or 3.3 billion UAE dirhams. The newly-built vessels will be constructed at Jiangnan Shipyard in Shanghai, China, and are expected to be delivered in 2029. This…",
-      "pub_date": "2026-07-10T06:30:00Z",
-      "pub_display": "July 10, 2026",
-      "category": "lng",
-      "slug": "adnoc-orders-900-million-in-new-lng-carriers-to-expand-global-fleet",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-adnoc-orders-900-million-in-new-lng-carriers-to-expand-global-fleet.html"
-    },
-    {
-      "title": "IEA Warns Renewed U.S.-Iran Conflict Could Upend Oil Surplus Forecast",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/IEA-Warns-Renewed-US-Iran-Conflict-Could-Upend-Oil-Surplus-Forecast.html",
-      "description": "Despite the tentative recovery of oil flows through the Strait of Hormuz and the first build-up in global stocks since the war began, this week’s re-escalation of the U.S.-Iran hostilities could flip the outlook for an oil market surplus for next year, the International Energy Agency said on Friday. Oil prices have plunged since the United States and Iran signed the memorandum of understanding (MoU) in the middle of June, with North Sea Dated prices down by $31 per barrel in June to $68 a barrel by early July, their lowest since January and…",
-      "pub_date": "2026-07-10T05:30:00Z",
-      "pub_display": "July 10, 2026",
-      "category": "markets",
-      "slug": "iea-warns-renewed-u-s-iran-conflict-could-upend-oil-surplus-forecast",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-iea-warns-renewed-u-s-iran-conflict-could-upend-oil-surplus-forecast.html"
     }
   ]
 }
