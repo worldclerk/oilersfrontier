@@ -1,7 +1,91 @@
 {
-  "updated": "2026-07-11 11:32:18",
+  "updated": "2026-07-12 11:43:45",
   "count": 24,
   "articles": [
+    {
+      "title": "TotalEnergies Sells Small-Scale Solar Assets in Europe",
+      "link": "https://www.rigzone.com/news/totalenergies_sells_smallscale_solar_assets_in_europe-12-jul-2026-184112-article/?rss=true",
+      "description": "The sale is part of TotalEnergies' efforts 'to refocus its renewable development on large utility-scale solar and wind farms in order to benefit from economies of scale', the French energy giant said.",
+      "pub_date": "2026-07-12T11:00:00Z",
+      "pub_display": "July 12, 2026",
+      "category": "technology",
+      "slug": "totalenergies-sells-small-scale-solar-assets-in-europe",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-totalenergies-sells-small-scale-solar-assets-in-europe.html"
+    },
+    {
+      "title": "The Next Bull Market Could Be Built on Inventory Replenishment",
+      "link": "https://oilprice.com/Energy/Crude-Oil/The-Next-Bull-Market-Could-Be-Built-on-Inventory-Replenishment.html",
+      "description": "The Middle East is once again at the center of global energy markets due to the renewed military confrontation involving Iran. Markets, however, should recognize that, unlike in previous crises, the world is entering this new phase with a significantly weaker strategic safety net. At present, crude oil prices still respond to headlines surrounding military operations, shipping incidents, and diplomatic statements. Still, it is now time that markets should no longer overlook the structural consequences of the past months. The world’s emergency…",
+      "pub_date": "2026-07-11T18:00:00Z",
+      "pub_display": "July 11, 2026",
+      "category": "markets",
+      "slug": "the-next-bull-market-could-be-built-on-inventory-replenishment",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-the-next-bull-market-could-be-built-on-inventory-replenishment.html"
+    },
+    {
+      "title": "Kansas Becomes Testing Ground for a Radical Nuclear Reactor Design",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Kansas-Becomes-Testing-Ground-for-a-Radical-Nuclear-Reactor-Design.html",
+      "description": "An unconventional approach to nuclear energy production just got one step closer to reality. A prototype reactor canister just arrived at its installation site in Kansas, where it will soon be part of a proof of concept for a first-of-its-kind underground small modular reactor system. California-based startup Deep Fission believes that by burying a small nuclear reactor deep under the ground, they can make nuclear energy cheaper and safer at a time when round-the-clock carbon-free energy is needed more than ever before. “The prototype has…",
+      "pub_date": "2026-07-11T16:00:00Z",
+      "pub_display": "July 11, 2026",
+      "category": "production",
+      "slug": "kansas-becomes-testing-ground-for-a-radical-nuclear-reactor-design",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-kansas-becomes-testing-ground-for-a-radical-nuclear-reactor-design.html"
+    },
+    {
+      "title": "The Escalating Energy War Between California and the White House",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Escalating-Energy-War-Between-California-and-the-White-House.html",
+      "description": "In recent years, California has grown increasingly progressive in its energy policy, shifting away from fossil fuels toward renewable alternatives. The state has invested heavily in developing its renewable energy capacity over the last decade, in a bid to decrease reliance on oil, coal, and gas. This has helped it reduce emissions as many other U.S. states struggle to decarbonise. While the move is seen as positive by millions of Californians, President Trump is not so sure. The Trump administration has doubled down on its support for fossil fuels…",
+      "pub_date": "2026-07-11T14:00:00Z",
+      "pub_display": "July 11, 2026",
+      "category": "regulations",
+      "slug": "the-escalating-energy-war-between-california-and-the-white-house",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-the-escalating-energy-war-between-california-and-the-white-house.html"
+    },
+    {
+      "title": "Can Colombia’s New Government Reverse the Nation’s Oil and Gas Decline?",
+      "link": "https://oilprice.com/Energy/Energy-General/Can-Colombias-New-Government-Reverse-the-Nations-Oil-and-Gas-Decline.html",
+      "description": "In a closely contested presidential election in Colombia, controversial far-right candidate Abelardo de la Espriella emerged victorious. After an official recount, his opponent, left-wing senator Ivan Cepeda, conceded defeat. This was a hard-fought campaign which split the community, sparking much controversy across Colombia. While debate rages over De la Espriella’s policies and ascension to power, it is clear his presidency will be a godsend for Colombia’s beaten-down, economically critical oil industry. After the closest election…",
+      "pub_date": "2026-07-11T12:00:00Z",
+      "pub_display": "July 11, 2026",
+      "category": "production",
+      "slug": "can-colombia-s-new-government-reverse-the-nation-s-oil-and-gas-decline",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-can-colombia-s-new-government-reverse-the-nation-s-oil-and-gas-decline.html"
+    },
+    {
+      "title": "Birol Urges EU to Reconsider Arctic Drilling Moratorium",
+      "link": "https://www.rigzone.com/news/wire/birol_urges_eu_to_reconsider_arctic_drilling_moratorium-11-jul-2026-184113-article/?rss=true",
+      "description": "International Energy Agency Executive Director Fatih Birol pressed the European Union to revisit its moratorium on drilling for oil and gas in the Arctic.",
+      "pub_date": "2026-07-11T12:00:00Z",
+      "pub_display": "July 11, 2026",
+      "category": "exploration",
+      "slug": "birol-urges-eu-to-reconsider-arctic-drilling-moratorium",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-birol-urges-eu-to-reconsider-arctic-drilling-moratorium.html"
+    },
+    {
+      "title": "Can Europe Beat the Heat Without More Air Conditioners?",
+      "link": "https://oilprice.com/Energy/Energy-General/Can-Europe-Beat-the-Heat-Without-More-Air-Conditioners.html",
+      "description": "With Europe facing more frequent and hotter heatwaves, the uptake of air conditioning systems has soared across the region in recent years. This trend is driving energy demand and making it more difficult for countries to reduce reliance on fossil fuels in favour of renewable alternatives. Several countries across Europe have made ambitious green transition pledges, which is why many governments, companies, and researchers are exploring alternative, less carbon-intensive methods for cooling. Researchers have been investigating alternative cooling…",
+      "pub_date": "2026-07-11T10:00:00Z",
+      "pub_display": "July 11, 2026",
+      "category": "exploration",
+      "slug": "can-europe-beat-the-heat-without-more-air-conditioners",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-can-europe-beat-the-heat-without-more-air-conditioners.html"
+    },
     {
       "title": "IEA Says UAE Oil Output Surged to Record High in June",
       "link": "https://www.rigzone.com/news/wire/iea_says_uae_oil_output_surged_to_record_high_in_june-10-jul-2026-184115-article/?rss=true",
@@ -205,90 +289,6 @@
       "read_time": 1,
       "source": "OilPrice.com",
       "filename": "article-uae-oil-output-hits-all-time-high-doubling-pre-crisis-levels.html"
-    },
-    {
-      "title": "ADNOC, Mitsui Ink Broad Energy Partnership",
-      "link": "https://www.rigzone.com/news/adnoc_mitsui_ink_broad_energy_partnership-10-jul-2026-184107-article/?rss=true",
-      "description": "ADNOC and Mitsui will explore collaboration in 'crude oil market development and long-term supply, LNG sales and optimization, sulfur procurement and logistics, and shipping solutions for LNG, ammonia, sulfur and other commodities', ADNOC said.",
-      "pub_date": "2026-07-10T09:05:41Z",
-      "pub_display": "July 10, 2026",
-      "category": "markets",
-      "slug": "adnoc-mitsui-ink-broad-energy-partnership",
-      "read_time": 1,
-      "source": "Rigzone Latest",
-      "filename": "article-adnoc-mitsui-ink-broad-energy-partnership.html"
-    },
-    {
-      "title": "Bureaucracy Is Strangling America's Clean Energy Buildout",
-      "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Bureaucracy-Is-Strangling-Americas-Clean-Energy-Buildout.html",
-      "description": "The global energy system is facing a polycrisis. Consecutive and escalating geopolitical crises have thrown the world’s oil and gas markets into turmoil, the artificial intelligence boom is placing unprecedented stress on power grids and threatens to drive a major energy supply deficit in the near future, and all of this is taking place against the backdrop of dangerous heat waves, underscoring the cost of our energy system and the urgency of the global clean energy transition. So what is standing in the way of decarbonization? The answer,…",
-      "pub_date": "2026-07-10T09:00:00Z",
-      "pub_display": "July 10, 2026",
-      "category": "markets",
-      "slug": "bureaucracy-is-strangling-americas-clean-energy-buildout",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-bureaucracy-is-strangling-americas-clean-energy-buildout.html"
-    },
-    {
-      "title": "IEA Cuts Russia's Oil Production Forecast Due to Ukrainian Attacks",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/IEA-Cuts-Russias-Oil-Production-Forecast-Due-to-Ukrainian-Attacks.html",
-      "description": "Russia's oil production in 2026 and 2027 is set to be lower than previously expected, due to intensified Ukrainian drone attacks on Russia's energy infrastructure, the International Energy Agency said in its monthly oil market report on Friday. Russia produced on average 9.2 million barrels per day (bpd) in 2025. The forecasts for this year and next, however, has been downgraded from previous projections as Ukraine continues to inflict damage on Russia's storage, refining, and transportation assets. “Continued strikes on refineries, storage…",
-      "pub_date": "2026-07-10T08:30:00Z",
-      "pub_display": "July 10, 2026",
-      "category": "production",
-      "slug": "iea-cuts-russias-oil-production-forecast-due-to-ukrainian-attacks",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-iea-cuts-russias-oil-production-forecast-due-to-ukrainian-attacks.html"
-    },
-    {
-      "title": "New Pipeline Paves Way for Increased Israeli Gas Exports to Egypt",
-      "link": "https://www.rigzone.com/news/new_pipeline_paves_way_for_increased_israeli_gas_exports_to_egypt-10-jul-2026-184106-article/?rss=true",
-      "description": "State-owned Israel Natural Gas Lines completed a project to expand the pipeline system that delivers Israeli natural gas to Egypt.",
-      "pub_date": "2026-07-10T08:14:47Z",
-      "pub_display": "July 10, 2026",
-      "category": "lng",
-      "slug": "new-pipeline-paves-way-for-increased-israeli-gas-exports-to-egypt",
-      "read_time": 1,
-      "source": "Rigzone Latest",
-      "filename": "article-new-pipeline-paves-way-for-increased-israeli-gas-exports-to-egypt.html"
-    },
-    {
-      "title": "India’s State Nuclear Firm In Search of Global Uranium Assets",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-State-Nuclear-Firm-In-Search-of-Global-Uranium-Assets.html",
-      "description": "Indian state-owned NTPC Ltd, the biggest utility in the country, is looking to acquire stakes in uranium assets globally to secure fuel for the expected massive expansion of India’s nuclear power capacity. NTPC, currently the only nuclear power generator in the country, has issued a tender to hire consultants to help it identify potential uranium mines in which it could invest in uranium-producing countries, including Australia, Canada, Kazakhstan, and South Africa. Bids are due by July 16, according to the tender document cited by Bloomberg.…",
-      "pub_date": "2026-07-10T07:30:00Z",
-      "pub_display": "July 10, 2026",
-      "category": "production",
-      "slug": "india-s-state-nuclear-firm-in-search-of-global-uranium-assets",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-india-s-state-nuclear-firm-in-search-of-global-uranium-assets.html"
-    },
-    {
-      "title": "India to Expand Crude Reserves",
-      "link": "https://www.rigzone.com/news/wire/india_to_expand_crude_reserves-10-jul-2026-184105-article/?rss=true",
-      "description": "The board of the country's largest oil-and-gas producer gave the green light to add 1.75 million tons of capacity in Mangalore, Karnataka, to national crude reserves.",
-      "pub_date": "2026-07-10T07:00:01Z",
-      "pub_display": "July 10, 2026",
-      "category": "exploration",
-      "slug": "india-to-expand-crude-reserves",
-      "read_time": 1,
-      "source": "Rigzone Latest",
-      "filename": "article-india-to-expand-crude-reserves.html"
-    },
-    {
-      "title": "Halliburton deploys LOGIX platform on Eni deepwater well in Indonesia",
-      "link": "https://www.offshore-technology.com/news/halliburton-deploys-logix-platform-eni-well-indonesia/",
-      "description": "Halliburton has deployed its LOGIX automation and remote operations technology on a deepwater exploration well operated by Eni offshore Indonesia.",
-      "pub_date": "2026-07-10T06:58:19Z",
-      "pub_display": "July 10, 2026",
-      "category": "offshore",
-      "slug": "halliburton-deploys-logix-platform-on-eni-deepwater-well-in-indonesia",
-      "read_time": 1,
-      "source": "Offshore Technology",
-      "filename": "article-halliburton-deploys-logix-platform-on-eni-deepwater-well-in-indonesia.html"
     }
   ]
 }
