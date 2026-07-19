@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-18 09:15:08",
+  "updated": "2026-07-19 09:43:49",
   "count": 24,
   "articles": [
+    {
+      "title": "Europe's Heatwave Is Becoming an Energy Crisis",
+      "link": "https://oilprice.com/Energy/Energy-General/Europes-Heatwave-Is-Becoming-an-Energy-Crisis.html",
+      "description": "The intense early summer heatwave in Europe is warming the biggest rivers and drying up their water levels, disrupting energy deliveries, power generation, and key supply chain routes. The heatwaves in Europe started as early as June, with record-breaking temperatures for weeks on end in Europe’s biggest economies, Germany and France. As a result, rainfall was severely limited, and key inland transportation river routes were affected by navigation restrictions, with curbs on the freight volumes a barge can ship. This, in turn, has raised…",
+      "pub_date": "2026-07-18T18:00:00Z",
+      "pub_display": "July 18, 2026",
+      "category": "markets",
+      "slug": "europes-heatwave-is-becoming-an-energy-crisis",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-europes-heatwave-is-becoming-an-energy-crisis.html"
+    },
+    {
+      "title": "What Is a Microgrid? How They Work and Why They're Suddenly Everywhere",
+      "link": "https://oilprice.com/Energy/Energy-General/What-Is-a-Microgrid-How-They-Work-and-Why-Theyre-Suddenly-Everywhere.html",
+      "description": "When Hurricane Maria flattened Puerto Rico's power grid in 2017, one building in the mountain town of Adjuntas never went dark. Casa Pueblo, a local environmental group, had already wired its headquarters with solar panels and batteries. That system kept the lights on while the rest of the island waited close to a year for power. It also became the seed for one of the country's most closely watched community microgrids. Nine years and several storms later, microgrids have moved well past the disaster-recovery story. They're showing up on military…",
+      "pub_date": "2026-07-18T16:00:00Z",
+      "pub_display": "July 18, 2026",
+      "category": "production",
+      "slug": "what-is-a-microgrid-how-they-work-and-why-theyre-suddenly-everywhere",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-what-is-a-microgrid-how-they-work-and-why-theyre-suddenly-everywhere.html"
+    },
+    {
+      "title": "Canada Unveils New Pipeline to Cut Reliance on U.S. Oil Routes",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Canada-Unveils-New-Pipeline-to-Cut-Reliance-on-US-Oil-Routes.html",
+      "description": "A new oil pipeline could connect eastern and western Canada as the oil-rich country seeks to become more self-reliant and reduce its energy dependence on the United States. However, not everyone is in support of the project, which is at odds with Canada’s climate targets. Alberta is home to vast oil reserves, totalling around 158.9 billion barrels. At present, the United States is the main importer of Canadian crude, which accounted for 63.4 per cent of U.S. crude imports in 2025. In recent years, as Canada’s federal government has…",
+      "pub_date": "2026-07-18T14:00:00Z",
+      "pub_display": "July 18, 2026",
+      "category": "exploration",
+      "slug": "canada-unveils-new-pipeline-to-cut-reliance-on-u-s-oil-routes",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-canada-unveils-new-pipeline-to-cut-reliance-on-u-s-oil-routes.html"
+    },
+    {
+      "title": "Forgotten Shale Gas Play Reemerges as Oil Hot Spot",
+      "link": "https://www.rigzone.com/news/wire/forgotten_shale_gas_play_reemerges_as_oil_hot_spot-18-jul-2026-184155-article/?rss=true",
+      "description": "Companies including Obsidian Energy Ltd. and Yangarra Resources Corp. are breathing new life into a long-dormant gas reservoir - except now they're drilling for oil.",
+      "pub_date": "2026-07-18T12:00:00Z",
+      "pub_display": "July 18, 2026",
+      "category": "exploration",
+      "slug": "forgotten-shale-gas-play-reemerges-as-oil-hot-spot",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-forgotten-shale-gas-play-reemerges-as-oil-hot-spot.html"
+    },
     {
       "title": "Oil Jumps on Fears of Wider Iran War",
       "link": "https://www.rigzone.com/news/wire/oil_jumps_on_fears_of_wider_iran_war-17-jul-2026-184159-article/?rss=true",
@@ -13,18 +61,6 @@
       "read_time": 1,
       "source": "Rigzone Latest",
       "filename": "article-oil-jumps-on-fears-of-wider-iran-war.html"
-    },
-    {
-      "title": "Bangladesh's $12.65 Billion Nuclear Bet Faces Its Biggest Test Yet",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Bangladeshs-1265-Billion-Nuclear-Bet-Faces-Its-Biggest-Test-Yet.html",
-      "description": "The world is turning toward nuclear power as a solution to the increasingly dire energy trilemma – the tricky issue of sourcing energy that is simultaneously affordable, sustainable, and secure. As the artificial intelligence boom pushes energy demand into the stratosphere in rich nations, and back-to-back oil shocks and soaring temperatures leave poor nations scrambling for alternative energy sources, the nuclear option is looking increasingly appealing for a broad range of national contexts. “With energy security now ranking alongside…",
-      "pub_date": "2026-07-17T18:00:00Z",
-      "pub_display": "July 17, 2026",
-      "category": "markets",
-      "slug": "bangladeshs-12-65-billion-nuclear-bet-faces-its-biggest-test-yet",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-bangladeshs-12-65-billion-nuclear-bet-faces-its-biggest-test-yet.html"
     },
     {
       "title": "Colombia's New Government Prepares Fossil Fuel Comeback",
@@ -253,42 +289,6 @@
       "read_time": 1,
       "source": "OilPrice.com",
       "filename": "article-baghdad-bets-on-syria-and-turkey-pipelines-to-secure-oil-exports.html"
-    },
-    {
-      "title": "Iran Expands Oil Chokepoint Threat as Houthis Eye Red Sea Shipping",
-      "link": "https://oilprice.com/Energy/Energy-General/Iran-Expands-Oil-Chokepoint-Threat-as-Houthis-Eye-Red-Sea-Shipping.html",
-      "description": "Iran has instructed Yemen’s Houthis to prepare to disrupt the Red Sea oil route if the United States attacks Iranian power infrastructure. Missiles and drones have reportedly been deployed near the Bab el-Mandeb Strait, with Houthi forces awaiting an order (reportedly from the IRGC itself) to begin attacks on shipping as of late Thursday. This is a pincer movement by Tehran on the oil routes, building on Hormuz leverage by adding the Houthis into the mix to threaten the southern entrance to the Red Sea and the Bab El-Mandeb Strait that the…",
-      "pub_date": "2026-07-17T08:30:00Z",
-      "pub_display": "July 17, 2026",
-      "category": "technology",
-      "slug": "iran-expands-oil-chokepoint-threat-as-houthis-eye-red-sea-shipping",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-iran-expands-oil-chokepoint-threat-as-houthis-eye-red-sea-shipping.html"
-    },
-    {
-      "title": "China to Hike Retail Gasoline and Diesel Prices as Oil Jumps 12% in a Week",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-to-Hike-Retail-Gasoline-and-Diesel-Prices-as-Oil-Jumps-12-in-a-Week.html",
-      "description": "Following the surge in international crude oil prices in the past week, China will raise the domestic retail prices of gasoline and diesel, effective July 18, the state economic planning commission said on Friday. The National Development and Reform Commission, which regularly adjusts the caps on retail prices based on the price of oil on the global market, today announced that the gasoline price would go up by 300 Chinese yuan, or by $44.29, per ton, as of Saturday. The retail diesel price will rise by 290 yuan, or $42.82, per…",
-      "pub_date": "2026-07-17T08:30:00Z",
-      "pub_display": "July 17, 2026",
-      "category": "markets",
-      "slug": "china-to-hike-retail-gasoline-and-diesel-prices-as-oil-jumps-12-in-a-week",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-china-to-hike-retail-gasoline-and-diesel-prices-as-oil-jumps-12-in-a-week.html"
-    },
-    {
-      "title": "Baker Hughes wraps up $13.6bn Chart Industries acquisition",
-      "link": "https://www.offshore-technology.com/news/baker-hughes-13-6bn-chart-industries-acquisition/",
-      "description": "Baker Hughes has completed its $13.6bn acquisition of Chart Industries, expanding its industrial portfolio and establishing Chart as its third operating segment.",
-      "pub_date": "2026-07-17T08:00:35Z",
-      "pub_display": "July 17, 2026",
-      "category": "upstream",
-      "slug": "baker-hughes-wraps-up-13-6bn-chart-industries-acquisition",
-      "read_time": 1,
-      "source": "Offshore Technology",
-      "filename": "article-baker-hughes-wraps-up-13-6bn-chart-industries-acquisition.html"
     }
   ]
 }
