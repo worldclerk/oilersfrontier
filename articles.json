@@ -1,7 +1,67 @@
 {
-  "updated": "2026-07-25 09:27:28",
+  "updated": "2026-07-26 09:49:57",
   "count": 24,
   "articles": [
+    {
+      "title": "Can an AI Black Box Be Trusted to Run a Nuclear Reactor?",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Can-an-AI-Black-Box-Be-Trusted-to-Run-a-Nuclear-Reactor.html",
+      "description": "China has unveiled a daring new plan to integrate artificial intelligence throughout the nuclear energy life cycle. This week, at the World Artificial Intelligence Conference (WAIC) in Shanghai, researchers at the Chinese Academy of Sciences (CAS) revealed a new plan for safely integrating artificial intelligence into the nuclear sector, called ADANES – the Accelerator-Driven Advanced Nuclear Energy System. The system “fundamentally changes the safety logic that governs conventional nuclear reactors” and marks a major turning…",
+      "pub_date": "2026-07-25T16:00:00Z",
+      "pub_display": "July 25, 2026",
+      "category": "technology",
+      "slug": "can-an-ai-black-box-be-trusted-to-run-a-nuclear-reactor",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-can-an-ai-black-box-be-trusted-to-run-a-nuclear-reactor.html"
+    },
+    {
+      "title": "The Carbon Capture Boom Is Starting to Crack",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Carbon-Capture-Boom-Is-Starting-to-Crack.html",
+      "description": "Carbon capture and storage (CCS) technology grew in popularity during the Covid-19 pandemic as several governments and private companies pledged to support a green transition. The use of CCS was expected to help decarbonise hard-to-abate industries until a long-term transition to clean energy could be achieved. However, in recent years, many have become more sceptical about the effectiveness of CCS technologies, as several projects have failed to perform. CCS technology is used to capture carbon dioxide at emission sources, so it can be transported…",
+      "pub_date": "2026-07-25T14:00:00Z",
+      "pub_display": "July 25, 2026",
+      "category": "pipeline",
+      "slug": "the-carbon-capture-boom-is-starting-to-crack",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-the-carbon-capture-boom-is-starting-to-crack.html"
+    },
+    {
+      "title": "Global Inflation Angst Is Back",
+      "link": "https://www.rigzone.com/news/wire/global_inflation_angst_is_back-25-jul-2026-184211-article/?rss=true",
+      "description": "Spiking energy prices, more U.S. tariffs, and mushrooming spending on artificial intelligence are reawakening investors' inflation fears.",
+      "pub_date": "2026-07-25T12:00:01Z",
+      "pub_display": "July 25, 2026",
+      "category": "markets",
+      "slug": "global-inflation-angst-is-back",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-global-inflation-angst-is-back.html"
+    },
+    {
+      "title": "UCLA Scientists Turn Plastic Waste Into Pure Hydrogen Fuel",
+      "link": "https://oilprice.com/Energy/Energy-General/UCLA-Scientists-Turn-Plastic-Waste-Into-Pure-Hydrogen-Fuel.html",
+      "description": "Green hydrogen was supposed to be a silver bullet solution for decarbonizing hard-to-abate sectors like shipping and steelmaking. It was the buzziest technology out there – and then it fizzled out completely. But after years of languishing in labs without reaching any meaningful level of commercialization, hydrogen is making a roaring comeback thanks to back-to-back scientific breakthroughs and renewed interest in the fossil fuel alternative against the backdrop of the global oil and gas crisis brought on by the United States’ and Israel’s…",
+      "pub_date": "2026-07-25T12:00:00Z",
+      "pub_display": "July 25, 2026",
+      "category": "technology",
+      "slug": "ucla-scientists-turn-plastic-waste-into-pure-hydrogen-fuel",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-ucla-scientists-turn-plastic-waste-into-pure-hydrogen-fuel.html"
+    },
+    {
+      "title": "EU Backs Off Methane Rules as Energy Security Fears Mount",
+      "link": "https://oilprice.com/Energy/Energy-General/EU-Backs-Off-Methane-Rules-as-Energy-Security-Fears-Mount.html",
+      "description": "The European Commission (EC) has informed EU governments that they should waive penalties for oil and gas companies that breach its methane emissions law for the next three years, owing to pressure from the United States government to scrap the rules. While the decision is not binding, many member states are expected to follow the EC’s advice. The EC made the move after the U.S. and ‌Qatar, as well as oil and gas industry groups and most EU member states, voiced concerns about the strict rules and demanded change. Several states feared…",
+      "pub_date": "2026-07-25T10:00:00Z",
+      "pub_display": "July 25, 2026",
+      "category": "regulations",
+      "slug": "eu-backs-off-methane-rules-as-energy-security-fears-mount",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-eu-backs-off-methane-rules-as-energy-security-fears-mount.html"
+    },
     {
       "title": "Brent Pulls Back From $100",
       "link": "https://www.rigzone.com/news/wire/brent_pulls_back_from_100-24-jul-2026-184215-article/?rss=true",
@@ -229,66 +289,6 @@
       "read_time": 1,
       "source": "OilPrice.com",
       "filename": "article-india-scours-angola-venezuela-for-crude-as-mideast-supply-dries-up.html"
-    },
-    {
-      "title": "Matador Resources to acquire Paloma Permian for $1.3bn",
-      "link": "https://www.offshore-technology.com/news/matador-resources-acquire-paloma-permian/",
-      "description": "Matador Resources has entered a definitive agreement to acquire Paloma Permian from EnCap Investments in a deal valued at $1.27bn.",
-      "pub_date": "2026-07-24T10:03:23Z",
-      "pub_display": "July 24, 2026",
-      "category": "upstream",
-      "slug": "matador-resources-to-acquire-paloma-permian-for-1-3bn",
-      "read_time": 1,
-      "source": "Offshore Technology",
-      "filename": "article-matador-resources-to-acquire-paloma-permian-for-1-3bn.html"
-    },
-    {
-      "title": "Searah begins work on Indonesia floating gas plant for North Hub",
-      "link": "https://www.offshore-technology.com/news/searah-work-indonesia-floating-gas-plant-north-hub/",
-      "description": "Searah, a joint venture between Eni and Petronas, has commenced development of a floating gas processing facility as part of its $11.8bn North Hub project in Indonesia.",
-      "pub_date": "2026-07-24T09:48:14Z",
-      "pub_display": "July 24, 2026",
-      "category": "upstream",
-      "slug": "searah-begins-work-on-indonesia-floating-gas-plant-for-north-hub",
-      "read_time": 1,
-      "source": "Offshore Technology",
-      "filename": "article-searah-begins-work-on-indonesia-floating-gas-plant-for-north-hub.html"
-    },
-    {
-      "title": "Aphrodite Group Secures MOU for Sale of Cypriot Gas to Egypt",
-      "link": "https://www.rigzone.com/news/aphrodite_group_secures_mou_for_sale_of_cypriot_gas_to_egypt-24-jul-2026-184206-article/?rss=true",
-      "description": "The Chevron-led Aphrodite consortium, Cyprus Hydrocarbons and Egyptian Natural Gas signed a memorandum of understanding to enable the piped export of 100 percent of production from the Aphrodite field to Egypt.",
-      "pub_date": "2026-07-24T09:38:47Z",
-      "pub_display": "July 24, 2026",
-      "category": "lng",
-      "slug": "aphrodite-group-secures-mou-for-sale-of-cypriot-gas-to-egypt",
-      "read_time": 1,
-      "source": "Rigzone Latest",
-      "filename": "article-aphrodite-group-secures-mou-for-sale-of-cypriot-gas-to-egypt.html"
-    },
-    {
-      "title": "ADNOC Issues Seventh Crude Tender Since June Despite Hormuz, Red Sea Risks",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Issues-Seventh-Crude-Tender-Since-June-Despite-Hormuz-Red-Sea-Risks.html",
-      "description": "Abu Dhabi National Oil Company ADNOC has issued its seventh tender offering crude from the United Arab Emirates since the beginning of June, expecting to sell millions of barrels of oil between August and October, both from within and outside the Persian Gulf. Despite the renewed threats to supply from the Strait of Hormuz and the new threats to shipping in the Red Sea by the Iran-aligned Houthis in Yemen, ADNOC is inviting interested buyers to bid by the middle of next week for crude loading between August and October, Reuters reported on Friday,…",
-      "pub_date": "2026-07-24T09:30:00Z",
-      "pub_display": "July 24, 2026",
-      "category": "markets",
-      "slug": "adnoc-issues-seventh-crude-tender-since-june-despite-hormuz-red-sea-risks",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-adnoc-issues-seventh-crude-tender-since-june-despite-hormuz-red-sea-risks.html"
-    },
-    {
-      "title": "No Breakthrough as Top U.S. and Russian Diplomats Meet Over Ukraine",
-      "link": "https://oilprice.com/Geopolitics/Europe/No-Breakthrough-as-Top-US-and-Russian-Diplomats-Meet-Over-Ukraine.html",
-      "description": "The top US and Russian diplomats met in a new push to find an end to Moscow's more-than-four-year-old war on Ukraine, but both sides signaled no new breakthroughs or cause for optimism. The July 23 meeting between US Secretary of State Marco Rubio and Russian Foreign Minister Sergei Lavrov came with US efforts to broker a peace deal frozen as the Trump administration shifts focus to the Iran war, and the Kremlin shows no sign of softening its maximalist war demands. Following their meeting, which lasted just 35 minutes, Rubio described the talks…",
-      "pub_date": "2026-07-24T09:00:00Z",
-      "pub_display": "July 24, 2026",
-      "category": "markets",
-      "slug": "no-breakthrough-as-top-u-s-and-russian-diplomats-meet-over-ukraine",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-no-breakthrough-as-top-u-s-and-russian-diplomats-meet-over-ukraine.html"
     }
   ]
 }
