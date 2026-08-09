@@ -1,7 +1,91 @@
 {
-  "updated": "2026-08-08 08:27:23",
+  "updated": "2026-08-09 08:29:46",
   "count": 24,
   "articles": [
+    {
+      "title": "U.S. Energy Helps Cushion Global Supply Shock From Hormuz",
+      "link": "https://oilprice.com/Energy/Energy-General/US-Energy-Helps-Cushion-Global-Supply-Shock-From-Hormuz.html",
+      "description": "The U.S. energy system has helped mitigate the shock loss of oil and LNG supply from the Middle East when the Strait of Hormuz closed to traffic and sent refiners and gas importers worldwide scrambling for alternative supply. The record American crude oil production and huge natural gas production and rising LNG exports were decades in the making, during which companies invested billions of dollars every year to increase oil, natural gas, and fuel supply, the American Petroleum Institute (API) said in an analysis this week. But the role of “the…",
+      "pub_date": "2026-08-08T18:00:00Z",
+      "pub_display": "August 8, 2026",
+      "category": "lng",
+      "slug": "u-s-energy-helps-cushion-global-supply-shock-from-hormuz",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-u-s-energy-helps-cushion-global-supply-shock-from-hormuz.html"
+    },
+    {
+      "title": "Why Southeast Asia's Clean Energy Surge Could Stall Before It Starts",
+      "link": "https://oilprice.com/Energy/Energy-General/Why-Southeast-Asias-Clean-Energy-Surge-Could-Stall-Before-It-Starts.html",
+      "description": "Southeast Asia has been hit harder than anywhere else on Earth by the energy crisis stemming from the War in Iran, leaving many nations scrambling to shore up localized energy supply chains. The newfound volatility in global energy markets has catalyzed the clean energy transition worldwide, but particularly in cash-strapped, import-dependent nations, of which there are many in Southeast Asia. But the rapidly developing region’s ageing and overburdened grids are ill prepared for a quick build-out of indigenous renewable energy capacity, threatening…",
+      "pub_date": "2026-08-08T16:00:00Z",
+      "pub_display": "August 8, 2026",
+      "category": "markets",
+      "slug": "why-southeast-asias-clean-energy-surge-could-stall-before-it-starts",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-why-southeast-asias-clean-energy-surge-could-stall-before-it-starts.html"
+    },
+    {
+      "title": "Airlines Scramble for Jet Fuel as Hormuz Disruption Drags On",
+      "link": "https://oilprice.com/Energy/Energy-General/Airlines-Scramble-for-Jet-Fuel-as-Hormuz-Disruption-Drags-On.html",
+      "description": "The months-long closure of the Strait of Hormuz has led to severe fuel shortages around the globe, as companies battle to continue operations. Airlines have been hit hard as they struggle to obtain enough jet fuel to maintain their regular flight schedules. The U.S.-Israeli war on Iran led to the closure of the Strait of Hormuz – a key trade corridor connecting the Persian Gulf with the Gulf of Oman and the Arabian Sea, via which roughly 20 per cent of the world’s oil is transported when fully operational. Several months of closures…",
+      "pub_date": "2026-08-08T14:00:00Z",
+      "pub_display": "August 8, 2026",
+      "category": "pipeline",
+      "slug": "airlines-scramble-for-jet-fuel-as-hormuz-disruption-drags-on",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-airlines-scramble-for-jet-fuel-as-hormuz-disruption-drags-on.html"
+    },
+    {
+      "title": "Berkeley Lab's New Fusion Materials Breakthrough, Explained",
+      "link": "https://oilprice.com/Energy/Energy-General/Berkeley-Labs-New-Fusion-Materials-Breakthrough-Explained.html",
+      "description": "Scientists at UC Davis and Lawrence Berkeley National Laboratory just made a major breakthrough in the design of nuclear fusion reactors. The team is at the vanguard of a new field of nuclear fusion research known as materials-driven fusion, which focuses on what the reactors are made up of in order to maximize efficiency and lower the temperature at which fusion can reliably occur. “Instead of designing materials just to survive the harsh conditions of fusion, researchers might be able to design materials that boost the reaction in specific…",
+      "pub_date": "2026-08-08T12:00:00Z",
+      "pub_display": "August 8, 2026",
+      "category": "technology",
+      "slug": "berkeley-labs-new-fusion-materials-breakthrough-explained",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-berkeley-labs-new-fusion-materials-breakthrough-explained.html"
+    },
+    {
+      "title": "Trump Refunds to Cancel Offshore Wind Projects Total $4B",
+      "link": "https://www.rigzone.com/news/wire/trump_refunds_to_cancel_offshore_wind_projects_total_4b-08-aug-2026-184323-article/?rss=true",
+      "description": "The Trump administration has agreed to roughly $4 billion in settlements this year to cancel planned offshore wind projects.",
+      "pub_date": "2026-08-08T12:00:00Z",
+      "pub_display": "August 8, 2026",
+      "category": "offshore",
+      "slug": "trump-refunds-to-cancel-offshore-wind-projects-total-4b",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-trump-refunds-to-cancel-offshore-wind-projects-total-4b.html"
+    },
+    {
+      "title": "Iran Says Hormuz Stays Closed Until U.S. Meets Six Sweeping Demands",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Says-Hormuz-Stays-Closed-Until-US-Meets-Six-Sweeping-Demands.html",
+      "description": "Iran has effectively rejected expectations of an imminent reopening of the Strait of Hormuz, laying out sweeping conditions that would require the United States to fundamentally change its policy toward Tehran. In a statement issued by Mohammad Baqer Zolghadr, secretary of Iran's Supreme National Security Council, Tehran said the strait would remain closed until Washington ends what Iran described as its hostile behavior. The six demands include an end to U.S. threats and military action, a permanent end to the war, withdrawal of U.S. naval and…",
+      "pub_date": "2026-08-08T11:36:03Z",
+      "pub_display": "August 8, 2026",
+      "category": "regulations",
+      "slug": "iran-says-hormuz-stays-closed-until-u-s-meets-six-sweeping-demands",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-iran-says-hormuz-stays-closed-until-u-s-meets-six-sweeping-demands.html"
+    },
+    {
+      "title": "Europe Bets Billions on North Africa’s Clean Energy Potential",
+      "link": "https://oilprice.com/Energy/Energy-General/Europe-Bets-Billions-on-North-Africas-Clean-Energy-Potential.html",
+      "description": "Europe is deepening its ties with North Africa to develop stronger clean energy connections between the two regions in support of a green transition. The European Union and several European countries have invested in Morocco and Egypt in recent years to support renewable energy development in countries with favourable climate conditions for energy production. Over the coming decade, Europe and North Africa are expected to establish a stronger clean energy trade corridor that will help both regions decrease reliance on fossil fuels. In June,…",
+      "pub_date": "2026-08-08T10:00:00Z",
+      "pub_display": "August 8, 2026",
+      "category": "production",
+      "slug": "europe-bets-billions-on-north-africa-s-clean-energy-potential",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-europe-bets-billions-on-north-africa-s-clean-energy-potential.html"
+    },
     {
       "title": "Oil Steadies as Hormuz Tensions Flare",
       "link": "https://www.rigzone.com/news/wire/oil_steadies_as_hormuz_tensions_flare-07-aug-2026-184329-article/?rss=true",
@@ -205,90 +289,6 @@
       "read_time": 1,
       "source": "Rigzone Latest",
       "filename": "article-al-mazrui-invests-in-petrofac.html"
-    },
-    {
-      "title": "Is Iran Preparing to Permanently Block the Strait of Hormuz?",
-      "link": "https://oilprice.com/Energy/Energy-General/Is-Iran-Preparing-to-Permanently-Block-the-Strait-of-Hormuz.html",
-      "description": "Conflicting signals from Washington and Tehran keep oil markets on edge as Iran weighs a permanent Hormuz shipping ban while Trump insists a deal is within reach. Friday, August 07, 2026 The oil market’s very own schizophrenia – trying to read into the contradicting claims of US President Trump and Iranian officials seeking to escalate the blockade of Hormuz even further – continues to puzzle industry analysts and traders. Iran’s Parliament is reviewing a bill to permanently ban US, Israeli and other hostile vessels from…",
-      "pub_date": "2026-08-07T11:04:46Z",
-      "pub_display": "August 7, 2026",
-      "category": "markets",
-      "slug": "is-iran-preparing-to-permanently-block-the-strait-of-hormuz",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-is-iran-preparing-to-permanently-block-the-strait-of-hormuz.html"
-    },
-    {
-      "title": "ADNOC Reports 15 Vessel Attacks as Hormuz Risks Mount",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Reports-15-Vessel-Attacks-as-Hormuz-Risks-Mount.html",
-      "description": "Abu Dhabi National Oil Company said attacks on its vessels and employees are having a significant impact on operations as the company tries to keep crude, gas and refined products moving through the Strait of Hormuz. Fifteen ADNOC vessels have been hit by missiles or drones since the war began, including three this week, the company said Friday. One crew member has been killed and 20 others injured. The Strait of Hormuz carried roughly one-fifth of global oil consumption before the U.S.-Israeli war against Iran expanded into a broader regional…",
-      "pub_date": "2026-08-07T10:45:00Z",
-      "pub_display": "August 7, 2026",
-      "category": "production",
-      "slug": "adnoc-reports-15-vessel-attacks-as-hormuz-risks-mount",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-adnoc-reports-15-vessel-attacks-as-hormuz-risks-mount.html"
-    },
-    {
-      "title": "Libya Aims to Boost Oil Production to 2 Million Bpd by Early 2030s",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Libya-Aims-to-Boost-Oil-Production-to-2-Million-Bpd-by-Early-2030s.html",
-      "description": "Libya's National Oil Corporation (NOC) is confident the country could raise oil production to 2 million barrels per day (bpd) by early next decade from about 1.4 million bpd now, NOC chairman Masoud Suleman told Bloomberg in an interview published on Friday. A 2026 unified budget for Libya, brokered with the help of the United States, gives the NOC a “lifeline” of more than $2 billion (13 billion Libyan dinars) as an operating budget, the official told Bloomberg. The national oil company did not receive any funding in the 2025 budget.…",
-      "pub_date": "2026-08-07T10:30:00Z",
-      "pub_display": "August 7, 2026",
-      "category": "production",
-      "slug": "libya-aims-to-boost-oil-production-to-2-million-bpd-by-early-2030s",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-libya-aims-to-boost-oil-production-to-2-million-bpd-by-early-2030s.html"
-    },
-    {
-      "title": "DNO Plans to Pursue Genel Offer despite Rejection",
-      "link": "https://www.rigzone.com/news/dno_plans_to_pursue_genel_offer_despite_rejection-07-aug-2026-184318-article/?rss=true",
-      "description": "The Norwegian company revealed it had made a rejected acquisition proposal to Britain's Genel but said it remains willing to pursue negotiations with the latter's board.",
-      "pub_date": "2026-08-07T10:25:41Z",
-      "pub_display": "August 7, 2026",
-      "category": "technology",
-      "slug": "dno-plans-to-pursue-genel-offer-despite-rejection",
-      "read_time": 1,
-      "source": "Rigzone Latest",
-      "filename": "article-dno-plans-to-pursue-genel-offer-despite-rejection.html"
-    },
-    {
-      "title": "JPM Now Expects Fed to Hike Rates in December",
-      "link": "https://www.rigzone.com/news/jpm_now_expects_fed_to_hike_rates_in_december-07-aug-2026-184319-article/?rss=true",
-      "description": "What does this mean for oil?",
-      "pub_date": "2026-08-07T10:24:01Z",
-      "pub_display": "August 7, 2026",
-      "category": "production",
-      "slug": "jpm-now-expects-fed-to-hike-rates-in-december",
-      "read_time": 1,
-      "source": "Rigzone Latest",
-      "filename": "article-jpm-now-expects-fed-to-hike-rates-in-december.html"
-    },
-    {
-      "title": "Saudi Arabia’s $5 Oil Detour Is Expensive—and Worth It",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Saudi-Arabias-5-Oil-Detour-Is-Expensiveand-Worth-It.html",
-      "description": "The latest Saudi oil route looks absurd on a map. Crude moves west across Saudi Arabia to Yanbu, north through the Red Sea to Egypt, across the SUMED pipeline from Ain Sokhna to Sidi Kerir, then west through the Mediterranean before tankers sail around the Cape of Good Hope to reach customers in Asia. Oil that started relatively close to Asia first travels thousands of kilometres in the opposite direction. The detour reportedly adds around $5 per barrel once extra freight, fuel, insurance and pipeline charges are included. For a two-million-barrel…",
-      "pub_date": "2026-08-07T09:49:00Z",
-      "pub_display": "August 7, 2026",
-      "category": "production",
-      "slug": "saudi-arabia-s-5-oil-detour-is-expensive-and-worth-it",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-saudi-arabia-s-5-oil-detour-is-expensive-and-worth-it.html"
-    },
-    {
-      "title": "McDermott wins ExxonMobil LoI for Rovuma LNG engineering work",
-      "link": "https://www.offshore-technology.com/news/mcdermott-exxonmobil-loi-rovuma-lng/",
-      "description": "ExxonMobil Moçambique has issued McDermott Energy Solutions (UK) a letter of intent (LoI) covering limited engineering and procurement services for the continuation of the Rovuma LNG Phase 1 midstream project.",
-      "pub_date": "2026-08-07T09:43:15Z",
-      "pub_display": "August 7, 2026",
-      "category": "pipeline",
-      "slug": "mcdermott-wins-exxonmobil-loi-for-rovuma-lng-engineering-work",
-      "read_time": 1,
-      "source": "Offshore Technology",
-      "filename": "article-mcdermott-wins-exxonmobil-loi-for-rovuma-lng-engineering-work.html"
     }
   ]
 }
