@@ -1,7 +1,79 @@
 {
-  "updated": "2026-08-15 08:15:14",
+  "updated": "2026-08-16 08:16:19",
   "count": 24,
   "articles": [
+    {
+      "title": "Electric Aviation Won't Kill Jet Fuel - But It Could Take the Best Routes First",
+      "link": "https://oilprice.com/Energy/Energy-General/Electric-Aviation-Wont-Kill-Jet-Fuel-But-It-Could-Take-the-Best-Routes-First.html",
+      "description": "Aviation is often treated as one of oil's safest remaining markets. In 2026 that still looks like a reasonable assumption. Airlines are expected to consume around 104 billion gallons of fuel this year, sustainable aviation fuel remains below 1% of total use, and virtually every commercial passenger aircraft in service still depends on liquid hydrocarbons. But that view risks making the same mistake the oil industry made with cars: looking at the installed fleet rather than at the technology competing for the next route. On July 30, Archer's all-electric…",
+      "pub_date": "2026-08-15T18:00:00Z",
+      "pub_display": "August 15, 2026",
+      "category": "technology",
+      "slug": "electric-aviation-wont-kill-jet-fuel-but-it-could-take-the-best-routes-first",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-electric-aviation-wont-kill-jet-fuel-but-it-could-take-the-best-routes-first.html"
+    },
+    {
+      "title": "Just 7% of America’s Nuclear Fuel Comes From Home",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Just-7-of-Americas-Nuclear-Fuel-Comes-From-Home.html",
+      "description": "The Trump administration is pushing for a homegrown nuclear power renaissance. The United States is still the largest producer of nuclear energy in the world, but that won’t last long without drastic changes in energy policy and investment at the state and federal level. The United States’ nuclear energy fleet, while sizable, is aging out, with far more plants being decommissioned than coming online. Moreover, the country is heavily dependent on foreign imports of nuclear fuel, presenting another major challenge for Trump’s goal…",
+      "pub_date": "2026-08-15T16:00:00Z",
+      "pub_display": "August 15, 2026",
+      "category": "production",
+      "slug": "just-7-of-america-s-nuclear-fuel-comes-from-home",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-just-7-of-america-s-nuclear-fuel-comes-from-home.html"
+    },
+    {
+      "title": "The Battle Over North Sea Oil Is Heating Up Under Britain’s New PM",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Battle-Over-North-Sea-Oil-Is-Heating-Up-Under-Britains-New-PM.html",
+      "description": "With a new Prime Minister in office, it is uncertain whether the United Kingdom will continue accelerating its green transition or backtrack on climate pledges to support fossil fuel development. Many have speculated that the new Labour Party PM Andy Burnham will back North Sea oil and gas projects. However, since taking power in 2024, the Labour Party has introduced a wide range of energy policies supporting renewable energy development and grid infrastructure updates, as well as restrictions on new oil and gas drilling. Before taking over as…",
+      "pub_date": "2026-08-15T14:00:00Z",
+      "pub_display": "August 15, 2026",
+      "category": "exploration",
+      "slug": "the-battle-over-north-sea-oil-is-heating-up-under-britain-s-new-pm",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-the-battle-over-north-sea-oil-is-heating-up-under-britain-s-new-pm.html"
+    },
+    {
+      "title": "Russia's Oil Industry Is Running Out of Room to Absorb More Shocks",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Russias-Oil-Industry-Is-Running-Out-of-Room-to-Absorb-More-Shocks.html",
+      "description": "Following a year of tighter sanctions and Ukrainian attacks on refineries, ports and tankers, Russia’s crude output has fallen further in the second half of 2026, severely affecting the nation’s crude production outlook. Factoring in these disruptions, Rystad Energy has revised its Russian crude production forecast to average 8.95 million barrels per day (bpd) in 2026, before declining to around 8.6 million bpd in 2027. This represents a decline of 90,000 bpd compared with our previous forecast, reflecting the continued impact of renewed…",
+      "pub_date": "2026-08-15T12:00:00Z",
+      "pub_display": "August 15, 2026",
+      "category": "production",
+      "slug": "russias-oil-industry-is-running-out-of-room-to-absorb-more-shocks",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-russias-oil-industry-is-running-out-of-room-to-absorb-more-shocks.html"
+    },
+    {
+      "title": "Shell Loses Long Court Fight for South African Exploration",
+      "link": "https://www.rigzone.com/news/wire/shell_loses_long_court_fight_for_south_african_exploration-15-aug-2026-184381-article/?rss=true",
+      "description": "The oil major won't be allowed to renew an exploration right off South Africa's rugged Indian Ocean Wild Coast, the Constitutional Court ruled.",
+      "pub_date": "2026-08-15T11:00:00Z",
+      "pub_display": "August 15, 2026",
+      "category": "exploration",
+      "slug": "shell-loses-long-court-fight-for-south-african-exploration",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-shell-loses-long-court-fight-for-south-african-exploration.html"
+    },
+    {
+      "title": "Mexico Is Betting on Biofuel to Tackle Its Seaweed Crisis",
+      "link": "https://oilprice.com/Energy/Energy-General/Mexico-Is-Betting-on-Biofuel-to-Tackle-Its-Seaweed-Crisis.html",
+      "description": "Over the past 15 years, Mexico has faced a severe seaweed problem, with vast quantities of a brown seaweed known as sargassum washing up on beaches along the Caribbean coast and hitting the tourism industry hard. Researchers are yet to find an effective way to prevent the seaweed from washing ashore or to effectively predict its movement. As the Mexican government attempts to manage the huge quantities of seaweed each year, researchers are exploring potential uses for the algae, such as biofuel or fertiliser. As much as 9,000 tons of seaweed is…",
+      "pub_date": "2026-08-15T10:00:00Z",
+      "pub_display": "August 15, 2026",
+      "category": "exploration",
+      "slug": "mexico-is-betting-on-biofuel-to-tackle-its-seaweed-crisis",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-mexico-is-betting-on-biofuel-to-tackle-its-seaweed-crisis.html"
+    },
     {
       "title": "Oil Rises as US Threatens Iran",
       "link": "https://www.rigzone.com/news/wire/oil_rises_as_us_threatens_iran-14-aug-2026-184383-article/?rss=true",
@@ -217,78 +289,6 @@
       "read_time": 1,
       "source": "Rigzone Latest",
       "filename": "article-bp-wins-new-venezuela-license.html"
-    },
-    {
-      "title": "Kazakhstan Accuses Big Oil of $10.7 Billion Corruption in Kashagan Oil Project",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Kazakhstan-Accuses-Big-Oil-of-107-Billion-Corruption-in-Kashagan-Oil-Project.html",
-      "description": "Kazakhstan has alleged in a confidential arbitration case that some of the biggest international oil firms that have developed the giant Kashagan oilfield awarded $10.7 billion worth of contracts with unjustified cost increases or through bribes, the International Consortium of Investigative Journalists (ICIJ) team reported on Friday, citing multiple sources. The Kashagan oilfield was developed by the North Caspian Project consortium of international majors and Kazakhstan's state oil firm KazMunayGas. The shareholders in the consortium include…",
-      "pub_date": "2026-08-14T09:30:00Z",
-      "pub_display": "August 14, 2026",
-      "category": "markets",
-      "slug": "kazakhstan-accuses-big-oil-of-10-7-billion-corruption-in-kashagan-oil-project",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-kazakhstan-accuses-big-oil-of-10-7-billion-corruption-in-kashagan-oil-project.html"
-    },
-    {
-      "title": "Oil climbs amid US warning of prolonged Iranian naval blockade",
-      "link": "https://www.offshore-technology.com/news/oil-climbs-us-warning-iranian-naval-blockade/",
-      "description": "Oil prices increased on Friday, 14 August, after the US warned it could impose an indefinite naval blockade on Iran, heightening concerns about crude supply disruptions in the Middle East.",
-      "pub_date": "2026-08-14T09:00:10Z",
-      "pub_display": "August 14, 2026",
-      "category": "markets",
-      "slug": "oil-climbs-amid-us-warning-of-prolonged-iranian-naval-blockade",
-      "read_time": 1,
-      "source": "Offshore Technology",
-      "filename": "article-oil-climbs-amid-us-warning-of-prolonged-iranian-naval-blockade.html"
-    },
-    {
-      "title": "Iran’s Economy Is Buckling Under the Weight of War",
-      "link": "https://oilprice.com/Geopolitics/Middle-East/Irans-Economy-Is-Buckling-Under-the-Weight-of-War.html",
-      "description": "Every week, the shopping lists of Iranians become shorter as inflation soars and purchasing power plunges. “As things disappear from the dining table, fruit goes first, then dairy products, then anything considered non-essential,” a woman in the Iranian capital, Tehran, said in an audio message sent to RFE/RL’s Radio Farda. “Ultimately, everything we buy is only essentials, but even then, nothing is affordable,” added the woman, who spoke on condition of anonymity for security reasons. She is among the millions of…",
-      "pub_date": "2026-08-14T09:00:00Z",
-      "pub_display": "August 14, 2026",
-      "category": "production",
-      "slug": "iran-s-economy-is-buckling-under-the-weight-of-war",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-iran-s-economy-is-buckling-under-the-weight-of-war.html"
-    },
-    {
-      "title": "US to Soon Unveil Unprecedented Sanctions on Iran",
-      "link": "https://www.rigzone.com/news/wire/us_to_soon_unveil_unprecedented_sanctions_on_iran-14-aug-2026-184374-article/?rss=true",
-      "description": "The move will be part of a 'one-two punch' that includes the continued blockade of Iran's ports, Treasury Secretary Scott Bessent said.",
-      "pub_date": "2026-08-14T08:34:47Z",
-      "pub_display": "August 14, 2026",
-      "category": "regulations",
-      "slug": "us-to-soon-unveil-unprecedented-sanctions-on-iran",
-      "read_time": 1,
-      "source": "Rigzone Latest",
-      "filename": "article-us-to-soon-unveil-unprecedented-sanctions-on-iran.html"
-    },
-    {
-      "title": "India's Coal Demand Set to Hit 1.6 Billion Tons by 2030",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Coal-Demand-Set-to-Hit-16-Billion-Tons-by-2030.html",
-      "description": "India’s coal demand is set to jump to 1.6 billion tons in 2030, from about 1.2 billion tons now, due to higher electricity generation and industrial activity, Indian Coal Secretary Vikram Dev Dutt said on Friday. India, which is the world’s second-biggest coal consumer behind China, plans to create a coal trade exchange and raise in its domestic coal supply to boost market transparency and energy security, respectively. A local coal exchange will create a transparent marketplace for buyers and sellers and could later lead to the establishment…",
-      "pub_date": "2026-08-14T08:30:00Z",
-      "pub_display": "August 14, 2026",
-      "category": "markets",
-      "slug": "indias-coal-demand-set-to-hit-1-6-billion-tons-by-2030",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-indias-coal-demand-set-to-hit-1-6-billion-tons-by-2030.html"
-    },
-    {
-      "title": "XRG secures stake in Venezuela’s offshore Loran gas licence",
-      "link": "https://www.offshore-technology.com/news/xrg-stake-venezuelas-loran-gas-licence/",
-      "description": "ADNOC’s international investment arm, XRG, has been awarded an interest in Venezuela’s offshore Loran licence.",
-      "pub_date": "2026-08-14T07:43:18Z",
-      "pub_display": "August 14, 2026",
-      "category": "offshore",
-      "slug": "xrg-secures-stake-in-venezuela-s-offshore-loran-gas-licence",
-      "read_time": 1,
-      "source": "Offshore Technology",
-      "filename": "article-xrg-secures-stake-in-venezuela-s-offshore-loran-gas-licence.html"
     }
   ]
 }
