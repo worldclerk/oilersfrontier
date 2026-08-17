@@ -1,7 +1,115 @@
 {
-  "updated": "2026-08-16 08:16:19",
+  "updated": "2026-08-17 08:31:05",
   "count": 24,
   "articles": [
+    {
+      "title": "Indian Oil Giant Secures U.S. License to Return to Venezuela",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indian-Oil-Giant-Secures-US-License-to-Return-to-Venezuela.html",
+      "description": "India’s Oil and Natural Gas Corporation has secured a license from the U.S. Office of Foreign Assets Control to return to Venezuela, Indian media have reported. India’s largest oil and gas company has a 40% stake in the San Cristobal oil project and an 11% stake in the Carabobo project but was forced to curb activity significantly amid a barrage of U.S. sanctions on the South American country. ONGC’s return to Venezuela could open up access to over $500 million in outstanding dividends from its stakes in the two oil projects.…",
+      "pub_date": "2026-08-17T02:50:00Z",
+      "pub_display": "August 17, 2026",
+      "category": "regulations",
+      "slug": "indian-oil-giant-secures-u-s-license-to-return-to-venezuela",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-indian-oil-giant-secures-u-s-license-to-return-to-venezuela.html"
+    },
+    {
+      "title": "India Lets Delayed Renewable Projects Pay to Keep Grid Access",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Lets-Delayed-Renewable-Projects-Pay-to-Keep-Grid-Access.html",
+      "description": "India’s authorities have given solar developers missing their deadlines the option to pay to keep their grid connectivity instead of losing it, Reuters has reported, citing the country’s Central Electricity Regulatory Commission. With grid connectivity a limited resource, space should not be kept unused, the regulator said. According to the regulator, if a solar or wind developer misses its own project deadline, they can remain on the list for a grid connection, but they would have to pay the equivalent of $10.48 per megawatt per day…",
+      "pub_date": "2026-08-17T01:45:00Z",
+      "pub_display": "August 17, 2026",
+      "category": "technology",
+      "slug": "india-lets-delayed-renewable-projects-pay-to-keep-grid-access",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-india-lets-delayed-renewable-projects-pay-to-keep-grid-access.html"
+    },
+    {
+      "title": "Hormuz Tanker Traffic Slows to a Trickle",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Traffic-Slows-to-a-Trickle.html",
+      "description": "Tanker traffic via the Strait of Hormuz slowed further over the weekend, maintaining upward pressure on oil prices. At the time of writing, Brent crude was trading at $88.62 per barrel, with West Texas Intermediate at $82.18 per barrel. Earlier in the session, Brent crude broke above $89 per barrel before falling back. Only five commodity vessels passed the Strait of Hormuz on Saturday, and none were scheduled to transit the waterway on Sunday, data from Kpler cited by Reuters showed. The data, however, does not include tankers that transit Hormuz…",
+      "pub_date": "2026-08-17T00:30:00Z",
+      "pub_display": "August 17, 2026",
+      "category": "markets",
+      "slug": "hormuz-tanker-traffic-slows-to-a-trickle",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-hormuz-tanker-traffic-slows-to-a-trickle.html"
+    },
+    {
+      "title": "Have Middle East Oil Flows Rebounded to 15 Million Bpd as U.S. Claims?",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Have-Middle-East-Oil-Flows-Rebounded-to-15-Million-Bpd-as-US-Claims.html",
+      "description": "U.S. Energy Secretary Chris Wright this week said that the oil exports from the Middle East have rebounded to 15 million barrels per day (bpd) and even topped the pre-war average of 20 million bpd on Sunday. Vessel-tracking services and commodity analysts are baffled and struggling to reconcile these numbers with their observations of tanker loadings and traffic in the region. Ship-tracking data shows oil flows out of the Strait of Hormuz are, at best, half the volume cited by Secretary Wright. Of all oil exports out of the Middle East,…",
+      "pub_date": "2026-08-16T18:00:00Z",
+      "pub_display": "August 16, 2026",
+      "category": "production",
+      "slug": "have-middle-east-oil-flows-rebounded-to-15-million-bpd-as-u-s-claims",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-have-middle-east-oil-flows-rebounded-to-15-million-bpd-as-u-s-claims.html"
+    },
+    {
+      "title": "Europe’s Gas Storage Crunch Deepens Ahead of Heating Season",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Europes-Gas-Storage-Crunch-Deepens-Ahead-of-Heating-Season.html",
+      "description": "With less than three full months left until the start of heating season in much of Europe, the issue of gas inventories is becoming increasingly pressing. Current inventory levels are at the lowest in 17 years, and supply available for purchase is tighter than it was back in 2022. Yet Europe needs to start buying gas now—or risk shortages. The energy import dependence of most of Europe has been in the spotlight for the past four years. The sanction barrage against Russia led the European Union—and Germany specifically, as Russia’s…",
+      "pub_date": "2026-08-16T16:00:00Z",
+      "pub_display": "August 16, 2026",
+      "category": "markets",
+      "slug": "europe-s-gas-storage-crunch-deepens-ahead-of-heating-season",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-europe-s-gas-storage-crunch-deepens-ahead-of-heating-season.html"
+    },
+    {
+      "title": "Oil Majors Reap $93 Billion Windfall From the Iran War",
+      "link": "https://oilprice.com/Energy/Energy-General/Oil-Majors-Reap-93-Billion-Windfall-From-the-Iran-War.html",
+      "description": "Oil prices have soared in recent months as a result of the almost complete closure of the Strait of Hormuz, a key trade corridor connecting Asia and Europe. High fossil fuel prices have helped to drive up the profits of oil and gas companies around the globe, particularly in the United States and Europe. As a few companies boost production to fill the gap, some oil majors have seen record earnings in the first half of the year, a trend that is expected to continue for as long as Hormuz trade remains restricted. Eight of the largest oil firms achieved…",
+      "pub_date": "2026-08-16T14:00:00Z",
+      "pub_display": "August 16, 2026",
+      "category": "production",
+      "slug": "oil-majors-reap-93-billion-windfall-from-the-iran-war",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-oil-majors-reap-93-billion-windfall-from-the-iran-war.html"
+    },
+    {
+      "title": "AI Set to Extend Fossil Fuel Dominance",
+      "link": "https://oilprice.com/Energy/Energy-General/AI-Set-to-Extend-Fossil-Fuel-Dominance.html",
+      "description": "AI's energy footprint is out of control. Hyperscalers are building out data centers faster than the energy industry can keep up with, pushing for the rapid buildout of any form of energy we have at our disposal, clean or dirty. Silicon Valley's leadership in the decarbonization movement and bold net-zero pledges are a thing of the past. But a new study warns that the biggest issue with AI's carbon footprint may not even be its own energy consumption, but rather the industries it is used to support and expand. Instead of reducing emissions, Big…",
+      "pub_date": "2026-08-16T12:00:00Z",
+      "pub_display": "August 16, 2026",
+      "category": "technology",
+      "slug": "ai-set-to-extend-fossil-fuel-dominance",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-ai-set-to-extend-fossil-fuel-dominance.html"
+    },
+    {
+      "title": "Diversified Said to Close In on Birch Deal",
+      "link": "https://www.rigzone.com/news/wire/diversified_said_to_close_in_on_birch_deal-16-aug-2026-184382-article/?rss=true",
+      "description": "Diversified Energy is in advanced talks to acquire Elliott Investment Management-backed oil and gas company Birch Resources for more than $1.7 billion in cash, according to people familiar with the matter.",
+      "pub_date": "2026-08-16T11:00:01Z",
+      "pub_display": "August 16, 2026",
+      "category": "technology",
+      "slug": "diversified-said-to-close-in-on-birch-deal",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-diversified-said-to-close-in-on-birch-deal.html"
+    },
+    {
+      "title": "The Trillion-Dollar Problem at the Heart of the AI Boom",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Trillion-Dollar-Problem-at-the-Heart-of-the-AI-Boom.html",
+      "description": "Take your pick of alarmist projections about the future of the global economy from top tech leaders. Monzo’s founder, Tom Blomfield, reckons unemployment will surge over the next five years as more and more human output is replaced by AI. Elon Musk reckons it will be near 100 per cent in a decade. But projections are one thing. What is actually happening on the ground right now? I’ve been sent some fascinating data on AI spend by Capital on Tap, one of the UK’s biggest SME lenders. The firm tracks spending patterns among…",
+      "pub_date": "2026-08-16T10:00:00Z",
+      "pub_display": "August 16, 2026",
+      "category": "production",
+      "slug": "the-trillion-dollar-problem-at-the-heart-of-the-ai-boom",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-the-trillion-dollar-problem-at-the-heart-of-the-ai-boom.html"
+    },
     {
       "title": "Electric Aviation Won't Kill Jet Fuel - But It Could Take the Best Routes First",
       "link": "https://oilprice.com/Energy/Energy-General/Electric-Aviation-Wont-Kill-Jet-Fuel-But-It-Could-Take-the-Best-Routes-First.html",
@@ -111,30 +219,6 @@
       "filename": "article-ranked-how-dirty-are-the-eight-biggest-names-in-ai.html"
     },
     {
-      "title": "Why a Record-Strength El Niño Still Might Not Save Europe's Gas Market",
-      "link": "https://oilprice.com/Energy/Energy-General/Why-a-Record-Strength-El-Nio-Still-Might-Not-Save-Europes-Gas-Market.html",
-      "description": "Only an exceptionally strong El Niño will meaningfully ease Europe's LNG needs this winter, and forecasters currently rate that outcome as a long shot. Rystad Energy's analysis indicates that European winter temperatures would need to be at least 2 degrees Celsius above the historical average before the region's LNG demand could fall to or below last winter's level. Current forecasts point to a strong El Niño event forming through the winter of 2026-2027, potentially the most intense since 2015, however a strong El Niño event…",
-      "pub_date": "2026-08-14T15:00:00Z",
-      "pub_display": "August 14, 2026",
-      "category": "markets",
-      "slug": "why-a-record-strength-el-ni-o-still-might-not-save-europes-gas-market",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-why-a-record-strength-el-ni-o-still-might-not-save-europes-gas-market.html"
-    },
-    {
-      "title": "Oracle’s $165 Billion Data Center Plan Hits a Gas Pipeline Delay",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oracles-165-Billion-Data-Center-Plan-Hits-a-Gas-Pipeline-Delay.html",
-      "description": "Oracle’s proposed $165 billion data center project in New Mexico has run into a decidedly low-tech problem: the natural gas pipeline meant to help power it won’t be ready on time. Energy Transfer subsidiary Transwestern Pipeline pushed the expected in-service date for its Green Chile Project from August 15 to February 1, 2027, according to a regulatory filing Friday. That six-month delay threatens the schedule for Oracle’s Project Jupiter, a proposed data center development in Doña Ana County near the U.S.-Mexico border.…",
-      "pub_date": "2026-08-14T14:39:00Z",
-      "pub_display": "August 14, 2026",
-      "category": "pipeline",
-      "slug": "oracle-s-165-billion-data-center-plan-hits-a-gas-pipeline-delay",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-oracle-s-165-billion-data-center-plan-hits-a-gas-pipeline-delay.html"
-    },
-    {
       "title": "Indian Refiners in Panic Buying Mode",
       "link": "https://www.rigzone.com/news/wire/indian_refiners_in_panic_buying_mode-14-aug-2026-184380-article/?rss=true",
       "description": "Indian state-owned refiners are rushing to procure spot crude unusually far in advance as Ukrainian attacks on Russian energy assets and a stalemate over the Strait of Hormuz make supplies increasingly uncertain.",
@@ -171,18 +255,6 @@
       "filename": "article-bernhard-completes-acquisition-of-new-mexico-gas-from-emera.html"
     },
     {
-      "title": "Trump’s Tougher Russia Stance Puts Kazakhstan in a Difficult Position",
-      "link": "https://oilprice.com/Geopolitics/Asia/Trumps-Tougher-Russia-Stance-Puts-Kazakhstan-in-a-Difficult-Position.html",
-      "description": "Since returning to the White House in early 2025, President Donald Trump has consistently argued that the war in Ukraine should end through negotiations. He initially believed that direct engagement with Russian President Vladimir Putin could create conditions for a political settlement and that Moscow would ultimately be willing to compromise. Recent developments, however, indicate that Washington’s assessment of Putin has become noticeably less optimistic, and the US approach toward Ukraine may be evolving. According to The Wall Street…",
-      "pub_date": "2026-08-14T13:00:00Z",
-      "pub_display": "August 14, 2026",
-      "category": "technology",
-      "slug": "trump-s-tougher-russia-stance-puts-kazakhstan-in-a-difficult-position",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-trump-s-tougher-russia-stance-puts-kazakhstan-in-a-difficult-position.html"
-    },
-    {
       "title": "ConocoPhillips Starts Production at New Alaska Oil Project",
       "link": "https://www.rigzone.com/news/conocophillips_starts_production_at_new_alaska_oil_project-14-aug-2026-184377-article/?rss=true",
       "description": "'ConocoPhillips Alaska invests approximately $1 billion each year to sustain and grow its Alaska legacy assets through projects such as Coyote'.",
@@ -193,18 +265,6 @@
       "read_time": 1,
       "source": "Rigzone Latest",
       "filename": "article-conocophillips-starts-production-at-new-alaska-oil-project.html"
-    },
-    {
-      "title": "US Oil Drillers Add Even More Rigs As Oil Prices Stay Higher",
-      "link": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Drillers-Add-Even-More-Rigs-As-Oil-Prices-Stay-Higher.html",
-      "description": "The total number of active drilling rigs for oil and gas in the United States rose this week, according to new data that Baker Hughes published on Friday, with the total rig count in the US rising to 593, up 54 from this same time last year. The number of active oil rigs rose by 1, reaching 455 during the latest reporting period, according to the data. This is 43 above this same time last year. The number of gas rigs rose by 4 to 128, which is 6 more than this time last year. Miscellaneous rigs stayed at 10. The latest EIA data showed that weekly…",
-      "pub_date": "2026-08-14T12:07:38Z",
-      "pub_display": "August 14, 2026",
-      "category": "exploration",
-      "slug": "us-oil-drillers-add-even-more-rigs-as-oil-prices-stay-higher",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-us-oil-drillers-add-even-more-rigs-as-oil-prices-stay-higher.html"
     },
     {
       "title": "Argentina LNG Seeks Government Incentives",
@@ -229,66 +289,6 @@
       "read_time": 1,
       "source": "Offshore Technology",
       "filename": "article-tgs-and-gti-to-team-up-on-offshore-seismic-projects.html"
-    },
-    {
-      "title": "South Africa’s Top Court Blocks Shell Wild Coast Exploration",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/South-Africas-Top-Court-Blocks-Shell-Wild-Coast-Exploration.html",
-      "description": "South Africa’s Constitutional Court has blocked Shell-led exploration along the country’s Wild Coast, adding another legal setback to an offshore sector already struggling to keep pace with neighboring Namibia. The country’s highest court on Friday overturned a 2024 Supreme Court of Appeal ruling that had preserved a pathway for Shell and Impact Africa to conduct seismic surveys off South Africa’s east coast under an exploration right granted in 2014. Local communities and environmental groups had challenged the plans partly…",
-      "pub_date": "2026-08-14T11:30:00Z",
-      "pub_display": "August 14, 2026",
-      "category": "exploration",
-      "slug": "south-africa-s-top-court-blocks-shell-wild-coast-exploration",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-south-africa-s-top-court-blocks-shell-wild-coast-exploration.html"
-    },
-    {
-      "title": "Hormuz Attacks Push Oil Toward $100 Despite US Crude Build",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Hormuz-Attacks-Push-Oil-Toward-100-Despite-US-Crude-Build.html",
-      "description": "Brent heads toward a 5% weekly gain as stalled US-Iran talks and Hormuz attacks push oil prices toward $100. Friday, August 14, 2026 Crude oil prices are set to post a 5% weekly gain after this week quashed hopes (for the umpteenth time) of a negotiated US-Iran settlement, with Tehran ratcheting up its strikes on ships attempting to transit the Strait of Hormuz, whilst the White House doubled down on its maritime blockade of Iranian crude. The unusually high, 17-million-barrel build in US crude inventories has offset a little part of the overall…",
-      "pub_date": "2026-08-14T11:21:21Z",
-      "pub_display": "August 14, 2026",
-      "category": "markets",
-      "slug": "hormuz-attacks-push-oil-toward-100-despite-us-crude-build",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-hormuz-attacks-push-oil-toward-100-despite-us-crude-build.html"
-    },
-    {
-      "title": "U.S. West Coast Refiners Tap Malaysian Supply",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-West-Coast-Refiners-Tap-Malaysian-Supply.html",
-      "description": "A cargo of fuel oil from Malaysia is making its way to a refinery on the U.S. West Coast in the first such shipment in three years as global supply of feedstock for refineries has tightened in recent months due to the closure of the Strait of Hormuz. The Solomon Sea tanker, laden with more than 540,000 barrels of low-sulfur and straight-run (LSSR) fuel oil, departed from Malaysia’s PRefChem refinery operated by state oil and gas giant Petronas last week, tanker data on MarineTraffic shows. The cargo is set to arrive in the United States in…",
-      "pub_date": "2026-08-14T10:30:00Z",
-      "pub_display": "August 14, 2026",
-      "category": "technology",
-      "slug": "u-s-west-coast-refiners-tap-malaysian-supply",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-u-s-west-coast-refiners-tap-malaysian-supply.html"
-    },
-    {
-      "title": "Underground LDES: turning mines and caverns into energy storage",
-      "link": "https://www.offshore-technology.com/news/underground-ldes-turning-mines-and-caverns-into-energy-storage-2/",
-      "description": "This episode of Energy Technology considers how repurposed mines and salt caverns can provide long duration energy storage.",
-      "pub_date": "2026-08-14T10:04:22Z",
-      "pub_display": "August 14, 2026",
-      "category": "technology",
-      "slug": "underground-ldes-turning-mines-and-caverns-into-energy-storage",
-      "read_time": 1,
-      "source": "Offshore Technology",
-      "filename": "article-underground-ldes-turning-mines-and-caverns-into-energy-storage.html"
-    },
-    {
-      "title": "BP Wins New Venezuela License",
-      "link": "https://www.rigzone.com/news/bp_wins_new_venezuela_license-14-aug-2026-184375-article/?rss=true",
-      "description": "BP estimates four trillion cubic feet of recoverable gas resources in the project, part of the Plataforma Deltana area, and expects to deliver it 'in parallel with phase 1'.",
-      "pub_date": "2026-08-14T10:03:36Z",
-      "pub_display": "August 14, 2026",
-      "category": "production",
-      "slug": "bp-wins-new-venezuela-license",
-      "read_time": 1,
-      "source": "Rigzone Latest",
-      "filename": "article-bp-wins-new-venezuela-license.html"
     }
   ]
 }
