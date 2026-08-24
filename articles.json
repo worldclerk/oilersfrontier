@@ -1,7 +1,127 @@
 {
-  "updated": "2026-08-23 08:17:37",
+  "updated": "2026-08-24 08:35:49",
   "count": 24,
   "articles": [
+    {
+      "title": "Petrobras begins talks for four offshore exploration blocks in Ghana",
+      "link": "https://www.offshore-technology.com/news/petrobras-talks-four-offshore-exploration-blocks-ghana/",
+      "description": "Petrobras has started direct negotiations for exploration contracts in four offshore blocks in Ghana’s Keta Basin, after the country’s Ministry of Energy and Green Transition approved its application.",
+      "pub_date": "2026-08-24T08:23:33Z",
+      "pub_display": "August 24, 2026",
+      "category": "exploration",
+      "slug": "petrobras-begins-talks-for-four-offshore-exploration-blocks-in-ghana",
+      "read_time": 1,
+      "source": "Offshore Technology",
+      "filename": "article-petrobras-begins-talks-for-four-offshore-exploration-blocks-in-ghana.html"
+    },
+    {
+      "title": "Iran Unveils Huge New Gas Discovery Amid U.S. Economic Pressure",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Unveils-Huge-New-Gas-Discovery-Amid-US-Economic-Pressure.html",
+      "description": "Iran has made a new gas discovery in the southern province of Fars, with the oil ministry reporting estimates of 7.5 trillion cubic feet of gas, of which 73% is recoverable, or 5.7 trillion cu ft. Iran has the world’s second-largest natural gas reserves, after Russia. “This amount of gas is equivalent to one block of South Pars, which can supply gas for 15 years,” oil minister Mohsen Paknejad said, as quoted by Iranian media. “This volume of gas has the special characteristic of being sweet, which reduces both development…",
+      "pub_date": "2026-08-24T03:30:00Z",
+      "pub_display": "August 24, 2026",
+      "category": "exploration",
+      "slug": "iran-unveils-huge-new-gas-discovery-amid-u-s-economic-pressure",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-iran-unveils-huge-new-gas-discovery-amid-u-s-economic-pressure.html"
+    },
+    {
+      "title": "Exxon Eyes Shell’s $8 Billion U.S. Chemicals Business",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Exxon-Eyes-Shells-8-Billion-US-Chemicals-Business.html",
+      "description": "Exxon is in the running for Shell’s U.S. chemicals business that could fetch $8 billion, the Financial Times reported today, citing unnamed sources familiar with developments. The U.S. supermajor is competing with LyondellBasell, Apollo Global Management, and the Kuwait Petroleum Corporation, the unnamed sources also told the publication. The potential buyers have submitted non-binding offers to Shell, with these ranging from offers to buy parts of the business to offers for the whole division. Shell’s chemicals business in the United…",
+      "pub_date": "2026-08-24T02:15:00Z",
+      "pub_display": "August 24, 2026",
+      "category": "technology",
+      "slug": "exxon-eyes-shell-s-8-billion-u-s-chemicals-business",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-exxon-eyes-shell-s-8-billion-u-s-chemicals-business.html"
+    },
+    {
+      "title": "Hormuz Tanker Traffic Slumps as U.S. and Iran Trade Threats",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Traffic-Slumps-as-US-and-Iran-Trade-Threats.html",
+      "description": "Tanker traffic via the Strait of Hormuz remained weak over the weekend, with fewer than 20 vessels traversing the chokepoint as Iran and the United States traded threats again. Some 13 tankers passed through the strait on Saturday, with only four making the journey on Sunday, Kpler data cited by Reuters showed. That compares to 16 passing through the strait on Friday and one very large crude carrier exiting Hormuz on Thursday, the data also showed. Over the week to August 21, a total of 103 vessels entered the Strait of Hormuz while 89 exited it,…",
+      "pub_date": "2026-08-24T01:00:00Z",
+      "pub_display": "August 24, 2026",
+      "category": "technology",
+      "slug": "hormuz-tanker-traffic-slumps-as-u-s-and-iran-trade-threats",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-hormuz-tanker-traffic-slumps-as-u-s-and-iran-trade-threats.html"
+    },
+    {
+      "title": "Oil Prices Slide 2% as Markets Brace for Bessent’s ‘Economic D-Day’",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Slide-2-as-Markets-Brace-for-Bessents-Economic-D-Day.html",
+      "description": "Oil prices fell by more than 2% in early Asian trade on Monday as traders took profits and markets awaited details of a new U.S. sanctions package against Iran. At the time of writing, WTI futures were trading at $85.18 per barrel, down 2.16%, while Brent futures were trading at $92.32 per barrel, down 2.19%. Both benchmarks gained more than 5% last week as the U.S. and Iran continued to trade threats, Iranian crude exports dropped, and tanker traffic through the Strait of Hormuz slowed to a trickle. Today’s pullback appears to be driven…",
+      "pub_date": "2026-08-23T21:18:19Z",
+      "pub_display": "August 23, 2026",
+      "category": "markets",
+      "slug": "oil-prices-slide-2-as-markets-brace-for-bessent-s-economic-d-day",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-oil-prices-slide-2-as-markets-brace-for-bessent-s-economic-d-day.html"
+    },
+    {
+      "title": "Diesel Crisis Threatens to Outlast the Middle East War",
+      "link": "https://oilprice.com/Energy/Energy-General/Diesel-Crisis-Threatens-to-Outlast-the-Middle-East-War.html",
+      "description": "The outlook for the Middle East war remains grim, the U.S. just threatened Iran with the “toughest sanctions in history,” and the world is running out of stored fuels. To make matters worse, refining capacity is down considerably, and even if the outlook for the war suddenly changed and the U.S. and Iran made peace, the fuel squeeze will last for months—and so will its adverse effects on the global economy. Watching crude oil prices, one would think everything is under control. Both Brent crude and West Texas Intermediate are…",
+      "pub_date": "2026-08-23T18:00:00Z",
+      "pub_display": "August 23, 2026",
+      "category": "markets",
+      "slug": "diesel-crisis-threatens-to-outlast-the-middle-east-war",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-diesel-crisis-threatens-to-outlast-the-middle-east-war.html"
+    },
+    {
+      "title": "Pemex and Petrobras Bet Big on High-Risk High-Reward Drilling Off Mexico",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Pemex-and-Petrobras-Bet-Big-on-High-Risk-High-Reward-Drilling-Off-Mexico.html",
+      "description": "Mexico’s state oil firm Pemex and Brazil’s national oil company Petrobras are joining efforts and expertise to drill prospects in Mexican waters in the Gulf of Mexico, hoping to unlock huge oil resources from source rock formations that are miles deeper and eight times older than the currently producing formations in the U.S. Gulf. Exploration in the Jurassic formations deep under the Mexican Gulf seabed in the Campeche Bay carries high risks, but the reward in case of a discovery could be enormous, geologists and analysts tell Bloomberg.…",
+      "pub_date": "2026-08-23T16:00:00Z",
+      "pub_display": "August 23, 2026",
+      "category": "exploration",
+      "slug": "pemex-and-petrobras-bet-big-on-high-risk-high-reward-drilling-off-mexico",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-pemex-and-petrobras-bet-big-on-high-risk-high-reward-drilling-off-mexico.html"
+    },
+    {
+      "title": "Super El Niño Threatens Food, Water and Trade Worldwide",
+      "link": "https://oilprice.com/Energy/Energy-General/Super-El-Nio-Threatens-Food-Water-and-Trade-Worldwide.html",
+      "description": "The world is set to experience an extremely intense El Niño weather event this year, with warmer-than-normal sea surface temperatures in the tropical Pacific. This could disrupt typical weather patterns and lead to heavy rainfall in some regions and severe drought in others. While it is unclear whether the more frequent occurrence of El Niño is directly linked to human-caused climate change, it is certainly exacerbating extreme weather patterns in some parts of the world. El Niño occurs every few years, but this year…",
+      "pub_date": "2026-08-23T14:00:00Z",
+      "pub_display": "August 23, 2026",
+      "category": "technology",
+      "slug": "super-el-ni-o-threatens-food-water-and-trade-worldwide",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-super-el-ni-o-threatens-food-water-and-trade-worldwide.html"
+    },
+    {
+      "title": "Private Equity Is Circling Utilities as AI Reshapes the Grid",
+      "link": "https://oilprice.com/Energy/Energy-General/Private-Equity-Is-Circling-Utilities-as-AI-Reshapes-the-Grid.html",
+      "description": "While it seems that Democrats and Republicans can’t agree on much of anything these days, there’s at least one common enemy that’s bringing both sides of the aisle together: data centers. Representatives on both sides of the aisle are increasingly pushing back against hyperscalers who are developing massive data center campuses on local energy grids, driving up energy demand and therefore causing electricity prices to skyrocket for everyone, whether they benefit from the artificial intelligence boom or not. The Trump administration…",
+      "pub_date": "2026-08-23T13:00:00Z",
+      "pub_display": "August 23, 2026",
+      "category": "markets",
+      "slug": "private-equity-is-circling-utilities-as-ai-reshapes-the-grid",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-private-equity-is-circling-utilities-as-ai-reshapes-the-grid.html"
+    },
+    {
+      "title": "ExxonMobil Warns of Looming Decline at Kazakhstan's Top Oilfield",
+      "link": "https://www.rigzone.com/news/wire/exxonmobil_warns_of_looming_decline_at_kazakhstans_top_oilfield-23-aug-2026-184436-article/?rss=true",
+      "description": "The Spring, Texas-based supermajor is seeking to invest billions of dollars in a new oil project at the nation's Kashagan development, a step that would help to cushion a slide in production at Tengiz, its top deposit.",
+      "pub_date": "2026-08-23T11:00:00Z",
+      "pub_display": "August 23, 2026",
+      "category": "production",
+      "slug": "exxonmobil-warns-of-looming-decline-at-kazakhstans-top-oilfield",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-exxonmobil-warns-of-looming-decline-at-kazakhstans-top-oilfield.html"
+    },
     {
       "title": "Europe Dodges a Rhine Crisis for the Worst Possible Reason",
       "link": "https://oilprice.com/Energy/Energy-General/Europe-Dodges-a-Rhine-Crisis-for-the-Worst-Possible-Reason.html",
@@ -15,42 +135,6 @@
       "filename": "article-europe-dodges-a-rhine-crisis-for-the-worst-possible-reason.html"
     },
     {
-      "title": "The Gas Turbine Shortage Just Became AI’s Biggest Constraint",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Gas-Turbine-Shortage-Just-Became-AIs-Biggest-Constraint.html",
-      "description": "Order a heavy-duty gas turbine from GE Vernova today and it won’t arrive until 2031. That’s the company’s actual production schedule, confirmed on its July 22 earnings call, and it’s the fact sitting underneath every AI data center power plan announced in the last two years. It comes up far less often than the announcements do. Goldman Sachs put hard numbers on the demand side in May. U.S. data center power demand climbs from 31 gigawatts in 2025 to 41 GW this year and 66 GW in 2027. Year-over-year capacity additions accelerate…",
-      "pub_date": "2026-08-22T16:00:00Z",
-      "pub_display": "August 22, 2026",
-      "category": "technology",
-      "slug": "the-gas-turbine-shortage-just-became-ai-s-biggest-constraint",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-the-gas-turbine-shortage-just-became-ai-s-biggest-constraint.html"
-    },
-    {
-      "title": "Clean Energy Spending Tracking Toward Record $180 Billion in 2026",
-      "link": "https://oilprice.com/Energy/Energy-General/Clean-Energy-Spending-Tracking-Toward-Record-180-Billion-in-2026.html",
-      "description": "Donald Trump is accidentally overseeing a massive buildout of the country’s renewable energy capacity and infrastructure. Not only are investments in renewable technologies soaring to new highs, the national energy grid is rapidly transforming to accommodate an increasingly solar- and wind-powered energy mix. Despite massive rollbacks of Biden- and Obama-era clean energy incentives and financial supports, investment in clean energy tech keeps soaring to new heights, buoyed by market forces far outside of the federal government’s…",
-      "pub_date": "2026-08-22T14:00:00Z",
-      "pub_display": "August 22, 2026",
-      "category": "markets",
-      "slug": "clean-energy-spending-tracking-toward-record-180-billion-in-2026",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-clean-energy-spending-tracking-toward-record-180-billion-in-2026.html"
-    },
-    {
-      "title": "Every Chokepoint That Isn't Hormuz",
-      "link": "https://oilprice.com/Energy/Energy-General/Every-Chokepoint-That-Isnt-Hormuz.html",
-      "description": "For six months the entire conversation about oil logistics has been about one strait, and you can hardly blame anyone for that. Hormuz has been effectively closed since late February, when the war between Iran and the U.S. and Israel started, and the EIA reckons only 4.9 million barrels a day of crude and liquids made it through in the second quarter. In the last quarter of 2025 that number was 21.6 million. Parliament Speaker Mohammad Baqer Qalibaf said in June that management of the strait “will never return to the way it was before the…",
-      "pub_date": "2026-08-22T12:00:00Z",
-      "pub_display": "August 22, 2026",
-      "category": "production",
-      "slug": "every-chokepoint-that-isnt-hormuz",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-every-chokepoint-that-isnt-hormuz.html"
-    },
-    {
       "title": "US Refiners Face Import Crunch from Top Crude Seller",
       "link": "https://www.rigzone.com/news/wire/us_refiners_face_import_crunch_from_top_crude_seller-22-aug-2026-184435-article/?rss=true",
       "description": "U.S. refiners are facing a looming supply drop from their biggest foreign crude supplier at a time when they need the oil the most.",
@@ -61,18 +145,6 @@
       "read_time": 1,
       "source": "Rigzone Latest",
       "filename": "article-us-refiners-face-import-crunch-from-top-crude-seller.html"
-    },
-    {
-      "title": "IEA: Southeast Asia Needs Grid Investment to Nearly Quadruple by 2050",
-      "link": "https://oilprice.com/Energy/Energy-General/IEA-Southeast-Asia-Needs-Grid-Investment-to-Nearly-Quadruple-by-2050.html",
-      "description": "Southeast Asia needs to invest heavily in upgrading and modernising its transmission networks if countries across the region hope to deploy larger quantities of renewable energy over the next decade. With investment in green energy growing ever higher, the grid systems in countries such as Indonesia, India, and Vietnam simply cannot keep up with capacity growth, creating a bottleneck in power distribution. Upgrading and expanding transmission networks would respond to the growth in regional power demand while reducing dependence on fossil fuels. …",
-      "pub_date": "2026-08-22T10:00:00Z",
-      "pub_display": "August 22, 2026",
-      "category": "markets",
-      "slug": "iea-southeast-asia-needs-grid-investment-to-nearly-quadruple-by-2050",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-iea-southeast-asia-needs-grid-investment-to-nearly-quadruple-by-2050.html"
     },
     {
       "title": "Oil Rises as US Targets Iran's Economy",
@@ -217,78 +289,6 @@
       "read_time": 1,
       "source": "OilPrice.com",
       "filename": "article-us-oil-drillers-see-pullback-as-oil-prices-rise.html"
-    },
-    {
-      "title": "India Boosts Battery Investment to Cut Solar Power Waste",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Boosts-Battery-Investment-to-Cut-Solar-Power-Waste.html",
-      "description": "Solar power developers in India have started to add battery storage to photovoltaic projects to attract buyers and reduce the large share of curtailments for power supply that the grids are unable to absorb, Santosh Sarangi, Secretary of India’s Ministry of New and Renewable Energy, said on Friday. As much as 42 gigawatts (GW) of solar projects are still struggling to find offtakers, with about 18 GW of solar-only projects without batteries most at risk of continuing to struggle, Sarangi said at the BNEF Summit in New Delhi, as carried by…",
-      "pub_date": "2026-08-21T12:00:00Z",
-      "pub_display": "August 21, 2026",
-      "category": "markets",
-      "slug": "india-boosts-battery-investment-to-cut-solar-power-waste",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-india-boosts-battery-investment-to-cut-solar-power-waste.html"
-    },
-    {
-      "title": "America’s Next Strategic Partner Is Hiding in Plain Sight",
-      "link": "https://oilprice.com/Geopolitics/Asia/Americas-Next-Strategic-Partner-Is-Hiding-in-Plain-Sight.html",
-      "description": "When Uzbekistan celebrates 35 years of independence on September 1st, Washington should do more than congratulate its people and government. It should recognize a strategic opportunity and make Uzbekistan the anchor of its policy in Central Asia. Uzbekistan is Central Asia's most populous country, strategically located between Russia, China, Iran, Afghanistan, and the Caspian Sea. It is opening its economy, improving relations with its neighbors, and seeking greater integration with global markets. A remarkable transformation. When Uzbekistan became…",
-      "pub_date": "2026-08-21T11:15:00Z",
-      "pub_display": "August 21, 2026",
-      "category": "markets",
-      "slug": "america-s-next-strategic-partner-is-hiding-in-plain-sight",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-america-s-next-strategic-partner-is-hiding-in-plain-sight.html"
-    },
-    {
-      "title": "China’s Teapots Look Beyond Iranian Oil amid U.S. Blockade",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Teapots-Look-Beyond-Iranian-Oil-amid-US-Blockade.html",
-      "description": "China’s refiners have imported lower volumes of Iranian crude in August compared to July as the U.S. blockade reinstated in mid-July is squeezing crude supply to Iran’s top oil customer. So far this month, China is estimated to have imported about 534,000 barrels per day (bpd) of Iranian crude oil, down from an estimated 823,000 bpd in July, according to preliminary data by Kpler cited by Reuters. The reinstated U.S. blockade on Iranian oil exports is preventing new supply from Iran to leave the Persian Gulf, while the…",
-      "pub_date": "2026-08-21T10:30:00Z",
-      "pub_display": "August 21, 2026",
-      "category": "production",
-      "slug": "china-s-teapots-look-beyond-iranian-oil-amid-u-s-blockade",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-china-s-teapots-look-beyond-iranian-oil-amid-u-s-blockade.html"
-    },
-    {
-      "title": "Corinth Pipeworks wins Rovuma LNG pipe contract",
-      "link": "https://www.offshore-technology.com/news/corinth-pipeworks-rovuma-lng-pipe-contract/",
-      "description": "Corinth Pipeworks (CPW), the steel pipe business of Cenergy, has been awarded a contract to supply linepipe for phase one of the Rovuma LNG project in Cabo Delgado, Mozambique.",
-      "pub_date": "2026-08-21T10:09:50Z",
-      "pub_display": "August 21, 2026",
-      "category": "markets",
-      "slug": "corinth-pipeworks-wins-rovuma-lng-pipe-contract",
-      "read_time": 1,
-      "source": "Offshore Technology",
-      "filename": "article-corinth-pipeworks-wins-rovuma-lng-pipe-contract.html"
-    },
-    {
-      "title": "Oil Nears $100 as Trump’s ‘Economic D-Day’ Raises the Stakes",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Nears-100-as-Trumps-Economic-D-Day-Raises-the-Stakes.html",
-      "description": "Hormuz traffic remains near a standstill as Trump’s ‘Economic D-Day’ campaign pushes Brent closer to $100. Friday, August 21, 2026 Transits through the Strait of Hormuz have been in single digits the entire week, with Trump’s announcement of an ‘Economic D-Day’ campaign against Iran increasing geopolitical risk premia in the markets. With ICE Brent at $94 per barrel, Asian LNG prices at $24 per MMBtu and VLCC freight rates at exorbitant levels, this week’s gradual upward creeping momentum towards $100-per-barrel…",
-      "pub_date": "2026-08-21T10:01:15Z",
-      "pub_display": "August 21, 2026",
-      "category": "markets",
-      "slug": "oil-nears-100-as-trump-s-economic-d-day-raises-the-stakes",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-oil-nears-100-as-trump-s-economic-d-day-raises-the-stakes.html"
-    },
-    {
-      "title": "Ukrainian Drone Attack Hits Lukoil Refinery Deep in Russia",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukrainian-Drone-Attack-Hits-Lukoil-Refinery-Deep-in-Russia.html",
-      "description": "Ukraine overnight hit with drones an oil refinery in the Perm region, deep into Russian territory, as the Ukrainian military has been targeting Russia’s oil processing and exporting facilities on a nearly daily basis in the past few weeks. Ukrainian forces launched a drone attack on Perm, which is over 1,600 kilometers, or 1,000 miles, from the Ukraine-Russia border, hitting an oil refinery, Ukrainian President Volodymyr Zelenskyy said on Friday. “Last night, our deep strikes hit an oil refinery in Perm, more than 1,600 kilometers…",
-      "pub_date": "2026-08-21T10:00:00Z",
-      "pub_display": "August 21, 2026",
-      "category": "lng",
-      "slug": "ukrainian-drone-attack-hits-lukoil-refinery-deep-in-russia",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-ukrainian-drone-attack-hits-lukoil-refinery-deep-in-russia.html"
     }
   ]
 }
