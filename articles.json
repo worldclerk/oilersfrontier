@@ -1,7 +1,43 @@
 {
-  "updated": "2026-08-28 19:46:03",
+  "updated": "2026-08-29 13:27:59",
   "count": 24,
   "articles": [
+    {
+      "title": "Venezuela Weighs OPEC Exit",
+      "link": "https://www.rigzone.com/news/wire/venezuela_weighs_opec_exit-29-aug-2026-184484-article/?rss=true",
+      "description": "Venezuela is considering whether it should quit OPEC, according to people familiar with the matter.",
+      "pub_date": "2026-08-29T12:00:00Z",
+      "pub_display": "August 29, 2026",
+      "category": "markets",
+      "slug": "venezuela-weighs-opec-exit",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-venezuela-weighs-opec-exit.html"
+    },
+    {
+      "title": "Petrobras Considers Exporting LNG",
+      "link": "https://www.rigzone.com/news/wire/petrobras_considers_exporting_lng-28-aug-2026-184485-article/?rss=true",
+      "description": "Brazil's national oil company is exploring the prospect of exporting liquefied natural gas from its giant offshore fields.",
+      "pub_date": "2026-08-28T20:00:00Z",
+      "pub_display": "August 28, 2026",
+      "category": "lng",
+      "slug": "petrobras-considers-exporting-lng",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-petrobras-considers-exporting-lng.html"
+    },
+    {
+      "title": "Europe’s Russia Sanctions Have a Major Blind Spot",
+      "link": "https://oilprice.com/Energy/Energy-General/Europes-Russia-Sanctions-Have-a-Major-Blind-Spot.html",
+      "description": "Over the last two years, the EU and UK have emerged as leading actors in imposing sanctions on Russia. But people like Maria Demertzis, Professor at the European University Institute in Italy, have raised questions around the effectiveness of the sanctions campaign, as European institutions continue to operate profitable subsidiaries in the country with little scrutiny. UK and EU regulators should broaden their sanctions campaign by increasing scrutiny of European businesses that remain economically exposed to Russia. The new UK Foreign Secretary,…",
+      "pub_date": "2026-08-28T15:00:00Z",
+      "pub_display": "August 28, 2026",
+      "category": "regulations",
+      "slug": "europe-s-russia-sanctions-have-a-major-blind-spot",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-europe-s-russia-sanctions-have-a-major-blind-spot.html"
+    },
     {
       "title": "USA Crude Oil Stocks Rise Slightly",
       "link": "https://www.rigzone.com/news/usa_crude_oil_stocks_rise_slightly-28-aug-2026-184489-article/?rss=true",
@@ -253,42 +289,6 @@
       "read_time": 1,
       "source": "Offshore Technology",
       "filename": "article-enbridge-kkr-form-joint-venture-for-westcoast-pipeline-expansion.html"
-    },
-    {
-      "title": "Hormuz Shipping Remains Subdued Despite Apparent Reopening",
-      "link": "https://oilprice.com/Energy/Energy-General/Hormuz-Shipping-Remains-Subdued-Despite-Apparent-Reopening.html",
-      "description": "Politics, Geopolitics & Conflict Hormuz is “open”, but nowhere close to functioning normally. The U.S. has cleared mines from the internationally recognized shipping lanes and can technically get vessels through, but Iran’s military capability will still keep most commercial operators away. Only five commodity vessels crossed on Tuesday, compared to some 130 ships a day before the war. Iran is offering a temporary and limited corridor while making full normalization conditional on sanctions relief, an end to the U.S. blockade…",
-      "pub_date": "2026-08-28T07:30:00Z",
-      "pub_display": "August 28, 2026",
-      "category": "production",
-      "slug": "hormuz-shipping-remains-subdued-despite-apparent-reopening",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-hormuz-shipping-remains-subdued-despite-apparent-reopening.html"
-    },
-    {
-      "title": "The Iran War Has Handed Russia a Strategic Opening in Europe",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Iran-War-Has-Handed-Russia-a-Strategic-Opening-in-Europe.html",
-      "description": "The war with Iran has handed Russia a strategic advantage in Ukraine. Washington is burning through the weapons Europe needs to deter Russia, moving military capacity into the Gulf and simultaneously telling NATO governments to take over more of their own defense. CIA Director John Ratcliffe flew to Moscow this week precisely because of the connected nature of these two problems. He met Russian foreign intelligence chief Sergei Naryshkin in the first known visit by a CIA director since William Burns traveled there in late 2021, just before…",
-      "pub_date": "2026-08-28T07:30:00Z",
-      "pub_display": "August 28, 2026",
-      "category": "offshore",
-      "slug": "the-iran-war-has-handed-russia-a-strategic-opening-in-europe",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-the-iran-war-has-handed-russia-a-strategic-opening-in-europe.html"
-    },
-    {
-      "title": "Oil Selloff Outruns Reality in Hormuz",
-      "link": "https://oilprice.com/Energy/Energy-General/Oil-Selloff-Outruns-Reality-in-Hormuz.html",
-      "description": "WTI crude oil futures were trading at $83.51 late Thursday, down $3.13, or 3.61%, for the week. The market opened near the weekly high at $86.57, then broke to $79.62 as traders sold on reports that Iran, Oman and the United States were moving toward a workable shipping arrangement through the Strait of Hormuz. Thursday changed the tone. WTI bounced after Iran fired on a vessel near Oman and President Trump rejected terms tied to reviving the June Iran ceasefire agreement. The market stopped trading a Hormuz reopening and started trading the fact…",
-      "pub_date": "2026-08-28T07:30:00Z",
-      "pub_display": "August 28, 2026",
-      "category": "markets",
-      "slug": "oil-selloff-outruns-reality-in-hormuz",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-oil-selloff-outruns-reality-in-hormuz.html"
     }
   ]
 }
