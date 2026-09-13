@@ -1,7 +1,91 @@
 {
-  "updated": "2026-09-12 11:47:12",
+  "updated": "2026-09-13 12:55:44",
   "count": 24,
   "articles": [
+    {
+      "title": "Harvester Energy Bags New Malaysian PSC",
+      "link": "https://www.rigzone.com/news/harvester_energy_bags_new_malaysian_psc-13-sep-2026-184598-article/?rss=true",
+      "description": "The Estuary Cluster 'is expected to unlock stranded marginal oil resources through a technology-led development concept centered on a novel shallow-water subsea development approach', Petronas said.",
+      "pub_date": "2026-09-13T11:00:00Z",
+      "pub_display": "September 13, 2026",
+      "category": "technology",
+      "slug": "harvester-energy-bags-new-malaysian-psc",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-harvester-energy-bags-new-malaysian-psc.html"
+    },
+    {
+      "title": "Oil Industry Braces for Years-Long Iran War",
+      "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Industry-Braces-for-Years-Long-Iran-War.html",
+      "description": "Oil producers, traders, and refiners are bracing for a prolonged war between the United States and Iran in the Persian Gulf with little to no hope of a quick resolution. By extension, they are also preparing for higher prices for longer, a theme present at this year’s edition of the Asia Pacific Petroleum Conference. Reuters’ Clyde Russell reported this week that the mood at APPEC was not particularly cheerful as hostilities in the Middle East escalate once again, suggesting achieving peace would be quite a challenge. The Reuters columnist…",
+      "pub_date": "2026-09-12T18:00:00Z",
+      "pub_display": "September 12, 2026",
+      "category": "production",
+      "slug": "oil-industry-braces-for-years-long-iran-war",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-oil-industry-braces-for-years-long-iran-war.html"
+    },
+    {
+      "title": "Stolen Electricity is Powering Illegal Crypto Farms Across the Globe",
+      "link": "https://oilprice.com/Energy/Energy-General/Stolen-Electricity-is-Powering-Illegal-Crypto-Farms-Across-the-Globe.html",
+      "description": "Electricity theft is a global problem, and it’s getting more dire all the time. While the problem is most common in developing countries, where grid infrastructure is limited and utilities and state authorities have lower oversight capacities, developed countries are not immune either. This theft can occur in many forms and at many scales, from individuals tapping into power lines to power their individual residences to large-scale and sophisticated theft schemes to power entire cryptocurrency mining farms. Just this week, Mexican authorities…",
+      "pub_date": "2026-09-12T16:00:00Z",
+      "pub_display": "September 12, 2026",
+      "category": "markets",
+      "slug": "stolen-electricity-is-powering-illegal-crypto-farms-across-the-globe",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-stolen-electricity-is-powering-illegal-crypto-farms-across-the-globe.html"
+    },
+    {
+      "title": "The Race to Solve Nuclear Energy’s Biggest Problem",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-Race-to-Solve-Nuclear-Energys-Biggest-Problem.html",
+      "description": "Nuclear power is growing in popularity once again as governments worldwide look to diversify their energy mix and reduce reliance on fossil fuels. Several countries are now looking to develop or expand their nuclear energy capacity over the coming decades. However, one challenge remains – nuclear waste. Disposing of waste materials from nuclear energy operations remains a complex task with no perfect solution. As countries worldwide have grown their nuclear power capacity, many governments are still struggling to decide on the best solution…",
+      "pub_date": "2026-09-12T14:00:00Z",
+      "pub_display": "September 12, 2026",
+      "category": "technology",
+      "slug": "the-race-to-solve-nuclear-energy-s-biggest-problem",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-the-race-to-solve-nuclear-energy-s-biggest-problem.html"
+    },
+    {
+      "title": "Iran’s Security Crackdown Runs Into Resistance From Within",
+      "link": "https://oilprice.com/Energy/Energy-General/Irans-Security-Crackdown-Runs-Into-Resistance-From-Within.html",
+      "description": "Iran's parliament is trying to turn fears of foreign infiltration into law. But as lawmakers work through the legislation, the debate is exposing an increasingly awkward question for the Islamic Republic: How far should the state go in policing Iranians' contact with the outside world? At the center of that debate is Parliament Speaker Mohammad Baqer Qalibaf, who, at least publicly, is doing a balancing act. He has defended the need for tougher measures against foreign infiltration while warning that the current draft of the legislation goes too…",
+      "pub_date": "2026-09-12T12:00:00Z",
+      "pub_display": "September 12, 2026",
+      "category": "regulations",
+      "slug": "iran-s-security-crackdown-runs-into-resistance-from-within",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-iran-s-security-crackdown-runs-into-resistance-from-within.html"
+    },
+    {
+      "title": "TotalEnergies Plans $10B in Angola Oil Investments",
+      "link": "https://www.rigzone.com/news/wire/totalenergies_plans_10b_in_angola_oil_investments-12-sep-2026-184596-article/?rss=true",
+      "description": "TotalEnergies SE and its partners plan to invest $10 billion in Angola's oil sector over the next five years.",
+      "pub_date": "2026-09-12T12:00:00Z",
+      "pub_display": "September 12, 2026",
+      "category": "regulations",
+      "slug": "totalenergies-plans-10b-in-angola-oil-investments",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-totalenergies-plans-10b-in-angola-oil-investments.html"
+    },
+    {
+      "title": "Why More Homes Are Switching From Gas to Heat Pumps",
+      "link": "https://oilprice.com/Energy/Energy-General/Why-More-Homes-Are-Switching-From-Gas-to-Heat-Pumps.html",
+      "description": "Heat pumps are becoming an increasingly popular alternative to gas-powered central heating systems and are increasingly being used in new construction, often driven by government incentives. A heat pump uses technology similar to that found in a refrigerator or an air conditioner, extracting heat from a source, such as the surrounding air, and amplifying and transferring the heat to where it is needed. As most of the heat is transferred rather than generated, heat pumps are far more efficient than conventional heating technologies such as boilers…",
+      "pub_date": "2026-09-12T10:00:00Z",
+      "pub_display": "September 12, 2026",
+      "category": "technology",
+      "slug": "why-more-homes-are-switching-from-gas-to-heat-pumps",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-why-more-homes-are-switching-from-gas-to-heat-pumps.html"
+    },
     {
       "title": "Oil Posts Biggest Weekly Gain Since July",
       "link": "https://www.rigzone.com/news/wire/oil_posts_biggest_weekly_gain_since_july-11-sep-2026-184602-article/?rss=true",
@@ -205,90 +289,6 @@
       "read_time": 1,
       "source": "OilPrice.com",
       "filename": "article-supertanker-rates-hit-800-000-a-day-as-gulf-tensions-escalate.html"
-    },
-    {
-      "title": "IEA Sees 5.7 Million Bpd Oil Supply Plunge as Gulf Recovery Slips to 2027",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/IEA-Sees-57-Million-Bpd-Oil-Supply-Plunge-as-Gulf-Recovery-Slips-to-2027.html",
-      "description": "The IEA just took another 1.4 million barrels per day out of its 2026 global oil supply outlook, and it no longer expects normal Gulf flows to return this year, according to a new agency report released on Friday. Global oil supply is now expected to fall by 5.7 million bpd in 2026, or roughly 6%, compared with the 4.3-million-bpd decline the agency forecast just one month ago. The delayed recovery of Middle Eastern production has pushed the return of normal Gulf supplies into 2027. Global oil stocks fell at a rate of 3.1 million bpd in August,…",
-      "pub_date": "2026-09-11T10:30:00Z",
-      "pub_display": "September 11, 2026",
-      "category": "production",
-      "slug": "iea-sees-5-7-million-bpd-oil-supply-plunge-as-gulf-recovery-slips-to-2027",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-iea-sees-5-7-million-bpd-oil-supply-plunge-as-gulf-recovery-slips-to-2027.html"
-    },
-    {
-      "title": "What if the Assumptions Embedded in the Oil Curve Are Wrong?",
-      "link": "https://www.rigzone.com/news/what_if_the_assumptions_embedded_in_the_oil_curve_are_wrong-11-sep-2026-184593-article/?rss=true",
-      "description": "What if the assumptions embedded in the oil curve are wrong - J.P. Morgan analysts, including Natasha Kaneva, J.P. Morgan's Head of Global Commodities Strategy, ask.",
-      "pub_date": "2026-09-11T10:19:14Z",
-      "pub_display": "September 11, 2026",
-      "category": "production",
-      "slug": "what-if-the-assumptions-embedded-in-the-oil-curve-are-wrong",
-      "read_time": 1,
-      "source": "Rigzone Latest",
-      "filename": "article-what-if-the-assumptions-embedded-in-the-oil-curve-are-wrong.html"
-    },
-    {
-      "title": "Saipem Signs New Preliminary Contract for Rovuma LNG",
-      "link": "https://www.rigzone.com/news/saipem_signs_new_preliminary_contract_for_rovuma_lng-11-sep-2026-184592-article/?rss=true",
-      "description": "A consortium of Belgium's Jan De Nul and Italy's Saipem signed a letter of intent with ExxonMobil for the upstream infrastructure of the planned Rovuma LNG project in Mozambique.",
-      "pub_date": "2026-09-11T10:09:58Z",
-      "pub_display": "September 11, 2026",
-      "category": "lng",
-      "slug": "saipem-signs-new-preliminary-contract-for-rovuma-lng",
-      "read_time": 1,
-      "source": "Rigzone Latest",
-      "filename": "article-saipem-signs-new-preliminary-contract-for-rovuma-lng.html"
-    },
-    {
-      "title": "Oil prices poised to end week above $100 for first time since May",
-      "link": "https://www.offshore-technology.com/news/oil-prices-above-100-first-time-since-may/",
-      "description": "Oil prices declined on 11 September, Friday but remained positioned to end the week over $100 per barrel, marking the first weekly close at this level since mid-May.",
-      "pub_date": "2026-09-11T09:53:44Z",
-      "pub_display": "September 11, 2026",
-      "category": "production",
-      "slug": "oil-prices-poised-to-end-week-above-100-for-first-time-since-may",
-      "read_time": 1,
-      "source": "Offshore Technology",
-      "filename": "article-oil-prices-poised-to-end-week-above-100-for-first-time-since-may.html"
-    },
-    {
-      "title": "TotalEnergies makes new oil discovery in Angola’s Block 17",
-      "link": "https://www.offshore-technology.com/news/totalenergies-oil-discovery-angolas-block-17/",
-      "description": "TotalEnergies has disclosed making the Acacia-5 near-by oil discovery on Block 17 offshore Angola, with plans to bring the new field into production just three months after its discovery in June 2026.",
-      "pub_date": "2026-09-11T09:44:04Z",
-      "pub_display": "September 11, 2026",
-      "category": "exploration",
-      "slug": "totalenergies-makes-new-oil-discovery-in-angola-s-block-17",
-      "read_time": 1,
-      "source": "Offshore Technology",
-      "filename": "article-totalenergies-makes-new-oil-discovery-in-angola-s-block-17.html"
-    },
-    {
-      "title": "UAE Rethinks 5-Gigawatt AI Campus After Iran Targets US Assets in Gulf",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/UAE-Rethinks-5-Gigawatt-AI-Campus-After-Iran-Targets-US-Assets-in-Gulf.html",
-      "description": "The United Arab Emirates (UAE) is considering significant changes to its plans to build a massive 5-gigawatt AI data center in Abu Dhabi in partnership with U.S. tech giants, after Iran started targeting American air bases and U.S.-linked critical infrastructure in the Persian Gulf, multiple sources have told Reuters. The UAE, which aims to become not only a regional but also a global leader in AI development and computing, last year planned to build the 5-GW UAE-US AI Campus in Abu Dhabi. The sprawling campus was planned to include 5 GW of capacity…",
-      "pub_date": "2026-09-11T09:30:00Z",
-      "pub_display": "September 11, 2026",
-      "category": "technology",
-      "slug": "uae-rethinks-5-gigawatt-ai-campus-after-iran-targets-us-assets-in-gulf",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-uae-rethinks-5-gigawatt-ai-campus-after-iran-targets-us-assets-in-gulf.html"
-    },
-    {
-      "title": "Debunking the Viral Claim That America Has Only 14 Days of Oil Left",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Debunking-the-Viral-Claim-That-America-Has-Only-14-Days-of-Oil-Left.html",
-      "description": "Claims have been circulating on social media that the United States has only about two weeks of oil left. The calculation appears to compare the 286.6 million barrels currently held in the Strategic Petroleum Reserve with roughly 20.7 million barrels per day of U.S. petroleum demand, producing a figure of about 14 days. But that does not describe how the U.S. petroleum system works, and even the units are mismatched. The SPR holds crude oil, while the 20.7-million-barrel figure represents total petroleum products supplied, a broad proxy for consumption…",
-      "pub_date": "2026-09-11T09:00:00Z",
-      "pub_display": "September 11, 2026",
-      "category": "production",
-      "slug": "debunking-the-viral-claim-that-america-has-only-14-days-of-oil-left",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-debunking-the-viral-claim-that-america-has-only-14-days-of-oil-left.html"
     }
   ]
 }
