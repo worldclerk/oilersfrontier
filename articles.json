@@ -1,7 +1,55 @@
 {
-  "updated": "2026-09-26 12:33:12",
+  "updated": "2026-09-27 13:23:46",
   "count": 24,
   "articles": [
+    {
+      "title": "EU May Delay Methane Rules for a Year",
+      "link": "https://www.rigzone.com/news/wire/eu_may_delay_methane_rules_for_a_year-27-sep-2026-184709-article/?rss=true",
+      "description": "The European Union opened the door to oil and gas importers getting an extra year to prepare for the bloc's methane reporting rules, in a bid to safeguard energy security amid disruptions caused by the Iran war.",
+      "pub_date": "2026-09-27T11:00:00Z",
+      "pub_display": "September 27, 2026",
+      "category": "regulations",
+      "slug": "eu-may-delay-methane-rules-for-a-year",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-eu-may-delay-methane-rules-for-a-year.html"
+    },
+    {
+      "title": "Global Gas Squeeze Could Last Through Next Summer",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Global-Gas-Squeeze-Could-Last-Through-Next-Summer.html",
+      "description": "Global natural gas supply is likely to remain tighter than it should be until next summer at least, and it could cause prolonged demand destruction. Should this scenario materialize, it would deliver a severe blow to Europe, as it already struggles to cover its winter gas needs ahead of the official start of heating season—but Asia won’t be happy about it, either. The prediction comes from the International Gas Union, an industry association that covers 90% of the world’s gas producers. “The market right now is saying that…",
+      "pub_date": "2026-09-26T18:00:00Z",
+      "pub_display": "September 26, 2026",
+      "category": "markets",
+      "slug": "global-gas-squeeze-could-last-through-next-summer",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-global-gas-squeeze-could-last-through-next-summer.html"
+    },
+    {
+      "title": "Brazil's Energy Mix Goes Green Even As Oil Production Climbs",
+      "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Brazils-Energy-Mix-Goes-Green-Even-As-Oil-Production-Climbs.html",
+      "description": "Brazil is continuing to expand its renewable energy capacity thanks to favourable national policies and support from foreign investors. The South American giant has developed an impressive green energy industry in recent years, expanding its oil and gas production to strengthen energy security and establish its reputation as a regional energy hub. By 2025, Brazil had an impressively low-carbon energy mix, with around 50 per cent of its energy coming from renewable sources, including solar, wind, and bioenergy. Brazil has achieved this diversification…",
+      "pub_date": "2026-09-26T14:00:00Z",
+      "pub_display": "September 26, 2026",
+      "category": "production",
+      "slug": "brazils-energy-mix-goes-green-even-as-oil-production-climbs",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-brazils-energy-mix-goes-green-even-as-oil-production-climbs.html"
+    },
+    {
+      "title": "Calls to Overhaul the UN Security Council Gain New Momentum",
+      "link": "https://oilprice.com/Geopolitics/International/Calls-to-Overhaul-the-UN-Security-Council-Gain-New-Momentum.html",
+      "description": "With Kyrgyzstan set to begin a two-year term on the UN Security Council at the end of this year, the Central Asian nation’s president, Sadyr Japarov, sent some barbs and props to President Donald Trump in a speech at the General Assembly. Japarov’s September 22 address made it clear that Bishkek sides with China on the matter of reforming the United Nations, with the aim of altering the balance of power within the institution to diminish Western influence. “Today the world has changed,” Japarov stated. To reflect that…",
+      "pub_date": "2026-09-26T12:00:00Z",
+      "pub_display": "September 26, 2026",
+      "category": "technology",
+      "slug": "calls-to-overhaul-the-un-security-council-gain-new-momentum",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-calls-to-overhaul-the-un-security-council-gain-new-momentum.html"
+    },
     {
       "title": "Iraq Rushes Oil Offers amid High Shipping Costs",
       "link": "https://www.rigzone.com/news/wire/iraq_rushes_oil_offers_amid_high_shipping_costs-26-sep-2026-184708-article/?rss=true",
@@ -13,6 +61,18 @@
       "read_time": 1,
       "source": "Rigzone Latest",
       "filename": "article-iraq-rushes-oil-offers-amid-high-shipping-costs.html"
+    },
+    {
+      "title": "North Carolina Regulators Reject Duke Energy Gas Power Plant",
+      "link": "https://oilprice.com/Energy/Energy-General/North-Carolina-Regulators-Reject-Duke-Energy-Gas-Power-Plant.html",
+      "description": "Natural gas output in the United States is expected to reach record highs in 2026 and 2027, as the country ramps up production and seeks to fill the gap created by restrictions on energy trade through the Strait of Hormuz. However, as the U.S. doubles down on its gas ambitions, a judge has ruled that a North Carolina gas power plant should not proceed. Both the supply and demand of U.S. natural gas are expected to rise to record highs this year and next, according to the U.S. Energy Information Administration (EIA). Dry gas production is expected…",
+      "pub_date": "2026-09-26T10:00:00Z",
+      "pub_display": "September 26, 2026",
+      "category": "production",
+      "slug": "north-carolina-regulators-reject-duke-energy-gas-power-plant",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-north-carolina-regulators-reject-duke-energy-gas-power-plant.html"
     },
     {
       "title": "Oil Falls on Signs of Iran Progress",
@@ -229,66 +289,6 @@
       "read_time": 1,
       "source": "Offshore Technology",
       "filename": "article-vietnam-s-bsr-inks-crude-oil-supply-agreement-with-exxonmobil.html"
-    },
-    {
-      "title": "Eni wins Sapukala exploration block in Indonesia’s Kutei Basin",
-      "link": "https://www.offshore-technology.com/news/eni-sapukala-exploration-indonesias-kutei-basin/",
-      "description": "Italian energy company Eni has secured a new deepwater exploration licence in Indonesia's Kutei Basin after being awarded the Sapukala block with a 100% participating interest.",
-      "pub_date": "2026-09-25T09:34:02Z",
-      "pub_display": "September 25, 2026",
-      "category": "exploration",
-      "slug": "eni-wins-sapukala-exploration-block-in-indonesia-s-kutei-basin",
-      "read_time": 1,
-      "source": "Offshore Technology",
-      "filename": "article-eni-wins-sapukala-exploration-block-in-indonesia-s-kutei-basin.html"
-    },
-    {
-      "title": "Italy Pushes Refineries to Raise Fuel Output Amid Price Surge",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Italy-Pushes-Refineries-to-Raise-Fuel-Output-Amid-Price-Surge.html",
-      "description": "Italy’s industry and energy security ministers will meet with executives from the Italian refining sector in early October to discuss how refineries could raise diesel and gasoline production to help lower the record-high fuel prices. Adolfo Urso, the Industry Minister, and his Environment and Energy Security colleague, Gilberto Pichetto Fratin, have invited refining industry executives to a meeting on October 8 to discuss potential measures to boost domestic fuel output, Italy’s Industry Ministry said on Friday. Representatives from…",
-      "pub_date": "2026-09-25T09:15:00Z",
-      "pub_display": "September 25, 2026",
-      "category": "production",
-      "slug": "italy-pushes-refineries-to-raise-fuel-output-amid-price-surge",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-italy-pushes-refineries-to-raise-fuel-output-amid-price-surge.html"
-    },
-    {
-      "title": "Beijing's Iran Oil Trade Draws Fresh Criticism From Capitol Hill",
-      "link": "https://oilprice.com/Geopolitics/International/Beijings-Iran-Oil-Trade-Draws-Fresh-Criticism-From-Capitol-Hill.html",
-      "description": "US lawmakers and national-security experts are pressing President Donald Trump to take tougher action against Chinese entities accused of helping Iran with satellite intelligence, weapons components, and oil revenue. The calls intensified as Chinese President Xi Jinping visited the White House on September 24 for a high-stakes meeting with Trump, followed by a lavish state dinner that underscored the delicate balancing act between the world's two largest economies. Trump made no explicit mention of Iran during his public remarks with Xi, despite…",
-      "pub_date": "2026-09-25T09:00:00Z",
-      "pub_display": "September 25, 2026",
-      "category": "regulations",
-      "slug": "beijings-iran-oil-trade-draws-fresh-criticism-from-capitol-hill",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-beijings-iran-oil-trade-draws-fresh-criticism-from-capitol-hill.html"
-    },
-    {
-      "title": "Select to acquire Delaware Basin-focused Pilot Water for $700m",
-      "link": "https://www.offshore-technology.com/news/select-to-acquire-pilot-water-700m/",
-      "description": "US-based Select Water Solutions has agreed to acquire Delaware Basin-focused water midstream company Pilot Water Solutions for $700m.",
-      "pub_date": "2026-09-25T08:04:45Z",
-      "pub_display": "September 25, 2026",
-      "category": "pipeline",
-      "slug": "select-to-acquire-delaware-basin-focused-pilot-water-for-700m",
-      "read_time": 1,
-      "source": "Offshore Technology",
-      "filename": "article-select-to-acquire-delaware-basin-focused-pilot-water-for-700m.html"
-    },
-    {
-      "title": "WTI Whipsaws as Hormuz Hopes Collide With Diesel Crunch",
-      "link": "https://oilprice.com/Energy/Energy-General/WTI-Whipsaws-as-Hormuz-Hopes-Collide-With-Diesel-Crunch.html",
-      "description": "November WTI crude oil futures spent the week trading a possible reopening of the Strait of Hormuz against the risk that shipping conditions have not normalized. The contract fell to $88.67 Tuesday after reports that Iran could reopen the Strait within seven days, then recovered to $96.78 Thursday as the diplomatic story ran into the same problem it had all week: no agreement, no normal tanker traffic, and no proof the physical market is back to normal. At 22:00 GMT Thursday, November, WTI crude oil futures were trading at $94.76, down $0.71 or…",
-      "pub_date": "2026-09-25T08:00:00Z",
-      "pub_display": "September 25, 2026",
-      "category": "markets",
-      "slug": "wti-whipsaws-as-hormuz-hopes-collide-with-diesel-crunch",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-wti-whipsaws-as-hormuz-hopes-collide-with-diesel-crunch.html"
     }
   ]
 }
