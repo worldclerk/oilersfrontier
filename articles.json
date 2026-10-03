@@ -1,7 +1,79 @@
 {
-  "updated": "2026-10-02 14:17:47",
+  "updated": "2026-10-03 12:50:56",
   "count": 24,
   "articles": [
+    {
+      "title": "Getting Oil Through Hormuz Is a Risky Job",
+      "link": "https://www.rigzone.com/news/wire/getting_oil_through_hormuz_is_a_risky_job-03-oct-2026-184762-article/?rss=true",
+      "description": "The transits are a lifeline to gulf energy producers and a boon to shipowners and commodity traders who stand to reap billions of dollars from the trade.",
+      "pub_date": "2026-10-03T12:00:01Z",
+      "pub_display": "October 3, 2026",
+      "category": "production",
+      "slug": "getting-oil-through-hormuz-is-a-risky-job",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-getting-oil-through-hormuz-is-a-risky-job.html"
+    },
+    {
+      "title": "Oil Falls as G7 Taps Emergency Supplies",
+      "link": "https://www.rigzone.com/news/wire/oil_falls_as_g7_taps_emergency_supplies-02-oct-2026-184766-article/?rss=true",
+      "description": "Diesel and oil prices fell as G7 nations moved to release emergency supplies.",
+      "pub_date": "2026-10-02T20:10:17Z",
+      "pub_display": "October 2, 2026",
+      "category": "markets",
+      "slug": "oil-falls-as-g7-taps-emergency-supplies",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-oil-falls-as-g7-taps-emergency-supplies.html"
+    },
+    {
+      "title": "Canada PM Invokes New Powers to Fast-Track Oil Pipeline",
+      "link": "https://www.rigzone.com/news/wire/canada_pm_invokes_new_powers_to_fasttrack_oil_pipeline-02-oct-2026-184763-article/?rss=true",
+      "description": "Prime Minister Mark Carney is expediting regulatory approval for a new, high-capacity oil pipeline to expand Canada's access to Asian markets.",
+      "pub_date": "2026-10-02T20:00:01Z",
+      "pub_display": "October 2, 2026",
+      "category": "pipeline",
+      "slug": "canada-pm-invokes-new-powers-to-fast-track-oil-pipeline",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-canada-pm-invokes-new-powers-to-fast-track-oil-pipeline.html"
+    },
+    {
+      "title": "Trump Says South Korea Deal Includes $8.4 Billion U.S. Oil Project",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Says-South-Korea-Deal-Includes-84-Billion-US-Oil-Project.html",
+      "description": "President Donald Trump said Friday that South Korea’s investment agreement with the United States now includes $8.4 billion for an enhanced oil recovery project. Seoul says it agreed to no such thing. “The Republic of Korea Deal keeps getting BETTER! 8.4 Billion Dollars for an enhanced Oil Recovery Project. Producing more Oil and Gas means American Energy Dominance and Energy Security in the World for the Future!” Trump wrote on Truth Social. Enhanced oil recovery (EOR) is used to squeeze more production from aging fields after…",
+      "pub_date": "2026-10-02T16:30:00Z",
+      "pub_display": "October 2, 2026",
+      "category": "production",
+      "slug": "trump-says-south-korea-deal-includes-8-4-billion-u-s-oil-project",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-trump-says-south-korea-deal-includes-8-4-billion-u-s-oil-project.html"
+    },
+    {
+      "title": "USA Crude Oil Stocks Rise Almost 1MM Barrels WoW",
+      "link": "https://www.rigzone.com/news/usa_crude_oil_stocks_rise_almost_1mm_barrels_wow-02-oct-2026-184765-article/?rss=true",
+      "description": "Commercial crude oil stocks, not including the SPR, came in at 427.320 million barrels on September 25, the EIA's latest weekly petroleum status report showed.",
+      "pub_date": "2026-10-02T15:05:29Z",
+      "pub_display": "October 2, 2026",
+      "category": "production",
+      "slug": "usa-crude-oil-stocks-rise-almost-1mm-barrels-wow",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-usa-crude-oil-stocks-rise-almost-1mm-barrels-wow.html"
+    },
+    {
+      "title": "Iranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk",
+      "link": "https://oilprice.com/Energy/Energy-General/Iranian-Oil-Starts-Flowing-to-Tajikistan-Despite-US-Sanctions-Risk.html",
+      "description": "Tajikistan announced that it is now receiving oil and petroleum products from Iran, opening a potential new energy source for a country whose fuel supplies have long been dominated by Russia. The deliveries began in late August, Tajikistan's Energy and Water Resources Ministry told the Asia-Plus news agency, following talks between the two countries on expanding cooperation in the oil and gas sector. The ministry has not disclosed the volume of the shipments, their commercial terms, or how the oil and petroleum products were transported to Tajikistan.…",
+      "pub_date": "2026-10-02T14:00:00Z",
+      "pub_display": "October 2, 2026",
+      "category": "regulations",
+      "slug": "iranian-oil-starts-flowing-to-tajikistan-despite-u-s-sanctions-risk",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-iranian-oil-starts-flowing-to-tajikistan-despite-u-s-sanctions-risk.html"
+    },
     {
       "title": "ConocoPhillips Joins Venture Global's Long-Term LNG Buyers",
       "link": "https://www.rigzone.com/news/conocophillips_joins_venture_globals_longterm_lng_buyers-02-oct-2026-184761-article/?rss=true",
@@ -39,6 +111,18 @@
       "filename": "article-iberdrola-gic-expand-brazilian-power-transmission-jv.html"
     },
     {
+      "title": "U.S. Oil Drilling Inches Up As Prices Fall",
+      "link": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Drilling-Inches-Up-As-Prices-Fall.html",
+      "description": "The total number of active drilling rigs for oil and gas in the United States fell this week, according to new data that Baker Hughes published on Friday, with the total rig count in the US falling to 598, up 49 from this same time last year. The number of active oil rigs rose by 1, reaching 456 during the latest reporting period, according to the data. This is 34 above this same time last year. The number of gas rigs fell by 2 to 133, which is 15 more than this time last year. Miscellaneous rigs stayed the same at 9. The latest EIA data showed…",
+      "pub_date": "2026-10-02T12:16:00Z",
+      "pub_display": "October 2, 2026",
+      "category": "exploration",
+      "slug": "u-s-oil-drilling-inches-up-as-prices-fall",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-u-s-oil-drilling-inches-up-as-prices-fall.html"
+    },
+    {
       "title": "Latest Dallas Fed Survey Reveals Theme Among Respondents",
       "link": "https://www.rigzone.com/news/latest_dallas_fed_survey_reveals_theme_among_respondents-02-oct-2026-184758-article/?rss=true",
       "description": "Volatility, instability, uncertainty - these were some of the words used in a comment section of the third quarter Dallas Fed Energy Survey, outlining a theme among respondents.",
@@ -51,6 +135,78 @@
       "filename": "article-latest-dallas-fed-survey-reveals-theme-among-respondents.html"
     },
     {
+      "title": "Dated Brent Above $120 Signals a Serious Oil Squeeze",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Dated-Brent-Above-120-Signals-a-Serious-Oil-Squeeze.html",
+      "description": "Physical oil markets tighten sharply as Dated Brent surges above $120 despite ICE Brent slipping toward $101. Friday, October 02, 2026 The European diesel stock release, droned tankers in the Strait of Hormuz, and China reinstating its refined product export ban have all played their part in this week’s extremely volatile trading, with ICE Brent edging lower to $101 per barrel. That said, the physical oil market has been moving in the opposite direction, with Europe’s main physical benchmark Dated Brent (which should technically underpin…",
+      "pub_date": "2026-10-02T11:50:45Z",
+      "pub_display": "October 2, 2026",
+      "category": "production",
+      "slug": "dated-brent-above-120-signals-a-serious-oil-squeeze",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-dated-brent-above-120-signals-a-serious-oil-squeeze.html"
+    },
+    {
+      "title": "G7 Moves to Release 100 Million Barrels to Counter Diesel Crisis",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/G7-Moves-to-Release-100-Million-Barrels-to-Counter-Diesel-Crisis.html",
+      "description": "The G7 and its partners have agreed to release as much as 100 million barrels of emergency diesel and crude stocks over the next four months, putting government inventories into a fuel market that has been running short of refinery output for months. French President Emmanuel Macron said Friday that the release would be coordinated through the International Energy Agency, with an emphasis on diesel. European countries had discussed releasing 50 million barrels of diesel while IEA members would supply another 50 million barrels of crude. President…",
+      "pub_date": "2026-10-02T10:23:00Z",
+      "pub_display": "October 2, 2026",
+      "category": "markets",
+      "slug": "g7-moves-to-release-100-million-barrels-to-counter-diesel-crisis",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-g7-moves-to-release-100-million-barrels-to-counter-diesel-crisis.html"
+    },
+    {
+      "title": "LNG Shipments Through Hormuz Hit Highest Level Since Iran War Began",
+      "link": "https://oilprice.com/Energy/Energy-General/LNG-Shipments-Through-Hormuz-Hit-Highest-Level-Since-Iran-War-Began.html",
+      "description": "A total of 21 LNG cargoes are estimated to have exited the Strait of Hormuz in September, the highest monthly number since the Iran war began, yet well below pre-war levels, shipping data compiled by Reuters showed on Friday. Shipment analytics firm Kpler has estimated that 21 cargoes managed to squeeze last month through the chokepoint, which handled one fifth of global LNG supply before the war. This week, three Qatari LNG cargoes from Ras Laffan reappeared outside the Strait of Hormuz, according to vessel-tracking data by LSEG and Kpler. In…",
+      "pub_date": "2026-10-02T10:00:00Z",
+      "pub_display": "October 2, 2026",
+      "category": "technology",
+      "slug": "lng-shipments-through-hormuz-hit-highest-level-since-iran-war-began",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-lng-shipments-through-hormuz-hit-highest-level-since-iran-war-began.html"
+    },
+    {
+      "title": "WTI Whipsaws as Gulf Supply Improves and Middle East Risk Returns",
+      "link": "https://oilprice.com/Energy/Energy-General/WTI-Whipsaws-as-Gulf-Supply-Improves-and-Middle-East-Risk-Returns.html",
+      "description": "November WTI crude oil futures spent the week caught between two opposing trades. Gulf crude flows improved as Saudi Arabia restored export routes and producers found ways around the Strait of Hormuz disruption. That was the supply relief sellers needed. The fuel market would not let them run with it. Diesel, gasoline and jet-fuel flows remain constrained, Russia has restricted diesel exports, and China has pulled refined-product cargoes from the export market. Reports Thursday that the United States is sending a third carrier strike group to the…",
+      "pub_date": "2026-10-02T09:45:00Z",
+      "pub_display": "October 2, 2026",
+      "category": "markets",
+      "slug": "wti-whipsaws-as-gulf-supply-improves-and-middle-east-risk-returns",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-wti-whipsaws-as-gulf-supply-improves-and-middle-east-risk-returns.html"
+    },
+    {
+      "title": "U.S. Exit Leaves Iraq With a Militia Problem",
+      "link": "https://oilprice.com/Energy/Energy-General/US-Exit-Leaves-Iraq-With-a-Militia-Problem.html",
+      "description": "Politics, Geopolitics & Conflict U.S. troops have withdrawn from Iraq, but this isn’t Biden’s Iraq. The withdrawal was agreed in 2024 when Biden determined that Iraqi forces could handle the remaining ISIS threat and that Washington could replace the coalition mission with bilateral training, intelligence sharing, and military assistance. Trump inherited that agreement and has now carried it out in a very different security environment, with the U.S. at war with Iran and Iran-aligned militias still operating across Iraq. The U.S.…",
+      "pub_date": "2026-10-02T09:45:00Z",
+      "pub_display": "October 2, 2026",
+      "category": "technology",
+      "slug": "u-s-exit-leaves-iraq-with-a-militia-problem",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-u-s-exit-leaves-iraq-with-a-militia-problem.html"
+    },
+    {
+      "title": "The Kremlin Consolidates Power as Russia’s Economic Pain Mounts",
+      "link": "https://oilprice.com/Geopolitics/Europe/The-Kremlin-Consolidates-Power-as-Russias-Economic-Pain-Mounts.html",
+      "description": "Russia came out of its parliamentary election with Putin stronger on paper and the country considerably harder to read. United Russia now controls 349 of the State Duma’s 450 seats, its largest majority ever, and some 50 Ukraine war veterans are entering parliament. There is the anticipated analysis of documented election manipulation, and indeed, the Kremlin was under pressure to think outside the box amid public war fatigue. But Putin is not losing control, and Moscow is not desperate. The election showed how impossible it has become to…",
+      "pub_date": "2026-10-02T09:45:00Z",
+      "pub_display": "October 2, 2026",
+      "category": "technology",
+      "slug": "the-kremlin-consolidates-power-as-russia-s-economic-pain-mounts",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-the-kremlin-consolidates-power-as-russia-s-economic-pain-mounts.html"
+    },
+    {
       "title": "Oil Prices Come Under Pressure",
       "link": "https://www.rigzone.com/news/oil_prices_come_under_pressure-02-oct-2026-184757-article/?rss=true",
       "description": "Analysts at BMI, a unit of Fitch Solutions, noted that oil prices have 'come under pressure' heading into the fourth quarter.",
@@ -61,6 +217,18 @@
       "read_time": 1,
       "source": "Rigzone Latest",
       "filename": "article-oil-prices-come-under-pressure.html"
+    },
+    {
+      "title": "U.S. Deploys Patriots to Shield Saudi Oil and Qatari Gas Facilities",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Deploys-Patriots-to-Shield-Saudi-Oil-and-Qatari-Gas-Facilities.html",
+      "description": "The U.S. last month sent two additional Patriot missile batteries to protect energy infrastructure in Saudi Arabia and Qatar from Iranian strikes in case the war escalates again, U.S. officials and a Persian Gulf regional source told Axios on Friday. The U.S. military sent one Patriot missile battery to Saudi Arabia to protect a key oil-producing facility and another one to Qatar to help protect a natural gas site, according to Axios’ sources. Escalation in the region could flare up again if U.S. President Donald Trump decides to resume strikes…",
+      "pub_date": "2026-10-02T09:30:00Z",
+      "pub_display": "October 2, 2026",
+      "category": "production",
+      "slug": "u-s-deploys-patriots-to-shield-saudi-oil-and-qatari-gas-facilities",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-u-s-deploys-patriots-to-shield-saudi-oil-and-qatari-gas-facilities.html"
     },
     {
       "title": "Chevron Replenishes Exploration Stake in Namibian Orange Basin",
@@ -121,174 +289,6 @@
       "read_time": 1,
       "source": "OilPrice.com",
       "filename": "article-alaska-lng-hinges-on-how-much-asian-buyers-will-pay-for-energy-security.html"
-    },
-    {
-      "title": "WTI Sinks Nearly 4% as EU Weighs Emergency Stockpile Release",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/WTI-Sinks-Nearly-4-as-EU-Weighs-Emergency-Stockpile-Release.html",
-      "description": "Oil prices fell sharply on Friday as Europe moved closer to another emergency stock release under pressure from the Trump administration, with WTI dropping nearly 4% and Brent falling below $100. At 6:54 a.m. ET, WTI was trading at $89.36, down 3.78%, while Brent was trading at $99.79/barrel, down 2.46%. The selloff followed reports that European governments are discussing another coordinated release of emergency oil stocks as Washington pushes allies to put more barrels and diesel onto the market to ease the global fuel crunch. “We…",
-      "pub_date": "2026-10-02T06:02:00Z",
-      "pub_display": "October 2, 2026",
-      "category": "markets",
-      "slug": "wti-sinks-nearly-4-as-eu-weighs-emergency-stockpile-release",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-wti-sinks-nearly-4-as-eu-weighs-emergency-stockpile-release.html"
-    },
-    {
-      "title": "JERA CEO Warns LNG Prices Have Further to Climb",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/JERA-CEO-Warns-LNG-Prices-Have-Further-to-Climb.html",
-      "description": "The biggest Japanese LNG importer and largest power producer, JERA, does not expect the shipping hurdles for Qatari supply at the Strait of Hormuz to end in time for the winter. “We don’t expect Qatar LNG coming back to the market soon,” Yukio Kani, chairman and global chief executive officer of JERA, told Bloomberg TV in an interview on Friday. State-owned QatarEnergy has just extended the force majeure on LNG deliveries to Asia and Europe by another month through the end of November, as LNG cargo traffic through…",
-      "pub_date": "2026-10-02T05:30:00Z",
-      "pub_display": "October 2, 2026",
-      "category": "markets",
-      "slug": "jera-ceo-warns-lng-prices-have-further-to-climb",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-jera-ceo-warns-lng-prices-have-further-to-climb.html"
-    },
-    {
-      "title": "UN Says Global Fuel Subsidies Could Top $1 Trillion",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/UN-Says-Global-Fuel-Subsidies-Could-Top-1-Trillion.html",
-      "description": "Fuel subsidies amid the oil price shock could exceed $1 trillion this year, the United Nations said, warning that many governments are running out of fiscal resources to sustain subsidies, fuel tax reductions, or price caps. Estimates in a United Nations Development Programme (UNDP) report suggest that at current energy prices, global fossil fuel subsidies could easily surpass $1 trillion this year. “Countries are reaching a breaking point in their efforts to shield vulnerable populations from energy and food price hikes,”…",
-      "pub_date": "2026-10-02T04:30:00Z",
-      "pub_display": "October 2, 2026",
-      "category": "markets",
-      "slug": "un-says-global-fuel-subsidies-could-top-1-trillion",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-un-says-global-fuel-subsidies-could-top-1-trillion.html"
-    },
-    {
-      "title": "U.S. Diesel Export Ban Would Hit Latin America Hardest: Goldman",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Diesel-Export-Ban-Would-Hit-Latin-America-Hardest-Goldman.html",
-      "description": "A potential ban on exports of diesel fuel from the United States would affect Latin America the most, Goldman Sachs has said, despite reports that the pain from such a ban would be the greatest for Europe. U.S. diesel imports cover as much as 50% of the fuel’s consumption across Mexico, Ecuador, Chile, and Peru, the investment bank said in a note quoted by Reuters, which makes these countries very vulnerable to a suspension in shipments abroad. “Supply will likely adjust quickly given the global nature of diesel markets, so in practice…",
-      "pub_date": "2026-10-02T03:00:00Z",
-      "pub_display": "October 2, 2026",
-      "category": "markets",
-      "slug": "u-s-diesel-export-ban-would-hit-latin-america-hardest-goldman",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-u-s-diesel-export-ban-would-hit-latin-america-hardest-goldman.html"
-    },
-    {
-      "title": "ConocoPhillips Signs 20-Year LNG Deal With Venture Global",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/ConocoPhillips-Signs-20-Year-LNG-Deal-With-Venture-Global.html",
-      "description": "ConocoPhillips and Venture Global have signed a deal that would see the liquefied natural gas major supply 1 million tons to Conoco beginning in 2030. The deal is part of a broader trend in energy to boost LNG exposure after QatarEnergy’s force majeure, with the outlook for LNG demand remaining robust despite geopolitics and their effect on prices. “Venture Global is proud to welcome ConocoPhillips, one of the world's leading energy companies, as a long-term partner,” the company’s chief executive Mike Sabel said. “This…",
-      "pub_date": "2026-10-02T02:00:00Z",
-      "pub_display": "October 2, 2026",
-      "category": "markets",
-      "slug": "conocophillips-signs-20-year-lng-deal-with-venture-global",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-conocophillips-signs-20-year-lng-deal-with-venture-global.html"
-    },
-    {
-      "title": "Brent Holds Above $102 as Gulf Export Rebound Offsets U.S. Military Moves",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Holds-Above-102-as-Gulf-Export-Rebound-Offsets-US-Military-Moves.html",
-      "description": "Crude oil prices are set for a modest weekly decline today, as reports of a strong rebound in oil flows out of the Persian Gulf trumped news of more U.S. troops moving to the Middle East and China’s Thursday decision to halt fuel exports this month. At the time of writing, Brent crude was trading at $102.24 per barrel and West Texas Intermediate was trading at $92.62. Both benchmarks posted strong gains in September and while the start to October has been lower, if hostilities in the Persian Gulf escalate again, the upward potential will…",
-      "pub_date": "2026-10-02T00:06:59Z",
-      "pub_display": "October 2, 2026",
-      "category": "markets",
-      "slug": "brent-holds-above-102-as-gulf-export-rebound-offsets-u-s-military-moves",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-brent-holds-above-102-as-gulf-export-rebound-offsets-u-s-military-moves.html"
-    },
-    {
-      "title": "India Oil Refiners Shift Tactics",
-      "link": "https://www.rigzone.com/news/wire/india_oil_refiners_shift_tactics-01-oct-2026-184750-article/?rss=true",
-      "description": "Indian oil refiners are hiring tankers to sail through the Strait of Hormuz to pick up crude from within the Persian Gulf.",
-      "pub_date": "2026-10-01T20:00:00Z",
-      "pub_display": "October 1, 2026",
-      "category": "markets",
-      "slug": "india-oil-refiners-shift-tactics",
-      "read_time": 1,
-      "source": "Rigzone Latest",
-      "filename": "article-india-oil-refiners-shift-tactics.html"
-    },
-    {
-      "title": "Oil Jumps on Renewed Conflict Fears",
-      "link": "https://www.rigzone.com/news/wire/oil_jumps_on_renewed_conflict_fears-01-oct-2026-184754-article/?rss=true",
-      "description": "Oil surged above $100 as renewed US-Iran tensions heightened concerns about Middle East supply disruptions.",
-      "pub_date": "2026-10-01T19:42:58Z",
-      "pub_display": "October 1, 2026",
-      "category": "markets",
-      "slug": "oil-jumps-on-renewed-conflict-fears",
-      "read_time": 1,
-      "source": "Rigzone Latest",
-      "filename": "article-oil-jumps-on-renewed-conflict-fears.html"
-    },
-    {
-      "title": "5 Energy ETFs That Have Soared in 2026",
-      "link": "https://oilprice.com/Energy/Energy-General/5-Energy-ETFs-That-Have-Soared-in-2026.html",
-      "description": "With three quarters of the current year in the books, the U.S. stock market is on track for a fourth consecutive year of double-digit gains, with massive AI infrastructure spending coupled with exceptionally strong corporate earnings growth giving the market a major boost. The S&P 500 has returned 11.8% year-to-date, with only Utilities (-7.7%), Consumer Discretionary (-6.3%), and Financial Sector (-2.5%) still in the red. Hardly surprisingly, the Energy Sector has emerged as the top performer amongst the market’s 11 sectors, managing…",
-      "pub_date": "2026-10-01T19:00:00Z",
-      "pub_display": "October 1, 2026",
-      "category": "markets",
-      "slug": "5-energy-etfs-that-have-soared-in-2026",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-5-energy-etfs-that-have-soared-in-2026.html"
-    },
-    {
-      "title": "China Targets Solid-State Battery Dominance by 2030",
-      "link": "https://oilprice.com/Energy/Energy-General/China-Targets-Solid-State-Battery-Dominance-by-2030.html",
-      "description": "China, already dominating the global lithium-ion battery market, plans to expand this position to solid-state batteries, too. The government in Beijing will seek to cut solid-state battery costs, boost their performance, and begin commercial production by 2030. “Over the next five years, the new-type battery industry is at a critical window for technological upgrading, and we must seize the strategic opportunities presented by technological and industrial innovation,” China’s Ministry of Industry and Information Technology said…",
-      "pub_date": "2026-10-01T18:00:00Z",
-      "pub_display": "October 1, 2026",
-      "category": "technology",
-      "slug": "china-targets-solid-state-battery-dominance-by-2030",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-china-targets-solid-state-battery-dominance-by-2030.html"
-    },
-    {
-      "title": "Power Demand Is Surging Faster Than Grids Can Keep Up",
-      "link": "https://oilprice.com/Energy/Energy-General/Power-Demand-Is-Surging-Faster-Than-Grids-Can-Keep-Up.html",
-      "description": "After years of stagnation in key developed markets, power demand is rising again at a pace not seen in decades as data centers, electrification, and industrialization drive a surge in electricity consumption. The Age of Electricity, as the International Energy Agency (IEA) put it in its 2026 Electricity report, is gathering pace, changing long-term assumptions and forecasts about power markets in all regions, and posing new challenges for policymakers, power generators, and grid operators. One common feature in the Age of Electricity is that power…",
-      "pub_date": "2026-10-01T17:00:00Z",
-      "pub_display": "October 1, 2026",
-      "category": "markets",
-      "slug": "power-demand-is-surging-faster-than-grids-can-keep-up",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-power-demand-is-surging-faster-than-grids-can-keep-up.html"
-    },
-    {
-      "title": "Venezuela’s Oil Exports Drop 9% as Freight Costs Bite",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Venezuelas-Oil-Exports-Drop-9-as-Freight-Costs-Bite.html",
-      "description": "Venezuela’s oil exports fell nearly 9% in September to 1.08 million barrels per day as soaring tanker costs forced traders to demand steeper discounts and delayed cargoes leaving the country. Global trading houses, including Vitol and Trafigura, pressed PDVSA for better terms as freight costs chew into margins, and tanker reroutings added to shipping delays that had already accumulated over the summer. The United States took more Venezuelan crude despite the overall decline. Shipments rose to 629,000 bpd from 553,000 bpd in August. India…",
-      "pub_date": "2026-10-01T16:00:00Z",
-      "pub_display": "October 1, 2026",
-      "category": "production",
-      "slug": "venezuela-s-oil-exports-drop-9-as-freight-costs-bite",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-venezuela-s-oil-exports-drop-9-as-freight-costs-bite.html"
-    },
-    {
-      "title": "China Halts October Fuel Exports as Global Diesel Crunch Deepens",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Halts-October-Fuel-Exports-as-Global-Diesel-Crunch-Deepens.html",
-      "description": "China’s major refiners have suspended most refined fuel exports for October as Beijing prioritizes domestic supply security, removing another source of diesel, gasoline and jet fuel from an already severely constrained global market. PetroChina has cancelled several gasoline and jet fuel cargoes scheduled for October, while Zhejiang Petrochemical did not schedule exports during China’s week-long National Day holiday, Reuters reported, citing four people familiar with the matter. Beijing has yet to authorize October exports outside Hong…",
-      "pub_date": "2026-10-01T15:40:00Z",
-      "pub_display": "October 1, 2026",
-      "category": "markets",
-      "slug": "china-halts-october-fuel-exports-as-global-diesel-crunch-deepens",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-china-halts-october-fuel-exports-as-global-diesel-crunch-deepens.html"
-    },
-    {
-      "title": "OneSubsea to Deliver Production Systems for Rovuma LNG",
-      "link": "https://www.rigzone.com/news/onesubsea_to_deliver_production_systems_for_rovuma_lng-01-oct-2026-184753-article/?rss=true",
-      "description": "The SLB joint venture received a contract from ExxonMobil to deliver subsea production systems for phase 1 of the planned Rovuma LNG project in Mozambique.",
-      "pub_date": "2026-10-01T15:37:27Z",
-      "pub_display": "October 1, 2026",
-      "category": "production",
-      "slug": "onesubsea-to-deliver-production-systems-for-rovuma-lng",
-      "read_time": 1,
-      "source": "Rigzone Latest",
-      "filename": "article-onesubsea-to-deliver-production-systems-for-rovuma-lng.html"
     }
   ]
 }
