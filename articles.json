@@ -1,7 +1,43 @@
 {
-  "updated": "2026-10-03 12:50:56",
+  "updated": "2026-10-04 13:33:16",
   "count": 24,
   "articles": [
+    {
+      "title": "Uniper, Biotrend Plan to Produce Biogas in Turkiye for Europe",
+      "link": "https://www.rigzone.com/news/uniper_biotrend_plan_to_produce_biogas_in_turkiye_for_europe-04-oct-2026-184764-article/?rss=true",
+      "description": "'The cooperation with Biotrend could open up a new source of renewable gas for European markets while further diversifying Uniper's portfolio'.",
+      "pub_date": "2026-10-04T11:00:00Z",
+      "pub_display": "October 4, 2026",
+      "category": "production",
+      "slug": "uniper-biotrend-plan-to-produce-biogas-in-turkiye-for-europe",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-uniper-biotrend-plan-to-produce-biogas-in-turkiye-for-europe.html"
+    },
+    {
+      "title": "Could White Hydrogen Succeed Where Green Hydrogen Stumbled?",
+      "link": "https://oilprice.com/Energy/Energy-General/Could-White-Hydrogen-Succeed-Where-Green-Hydrogen-Stumbled.html",
+      "description": "The green hydrogen hype has all but stalled out – but could white hydrogen take its place as the next big thing in decarbonization? Geologic hydrogen, so-called ‘white’ hydrogen, could potentially bypass the most critical barriers to scaling hydrogen use without significantly expanding the sector’s carbon footprint. While the technology is still nascent, it could one day decarbonize some of the world’s hardest-to-abate industrial sectors. This form of hydrogen involves sourcing naturally occurring hydrogen found…",
+      "pub_date": "2026-10-03T16:00:00Z",
+      "pub_display": "October 3, 2026",
+      "category": "technology",
+      "slug": "could-white-hydrogen-succeed-where-green-hydrogen-stumbled",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-could-white-hydrogen-succeed-where-green-hydrogen-stumbled.html"
+    },
+    {
+      "title": "Iran Is Losing Some of Its Leverage Over the Strait of Hormuz",
+      "link": "https://oilprice.com/Energy/Energy-General/Iran-Is-Losing-Some-of-Its-Leverage-Over-the-Strait-of-Hormuz.html",
+      "description": "The flow of crude from the Persian Gulf has recovered to near-prewar levels, but the latest data shows that much of the oil is reaching markets through routes and shipping arrangements that did not exist before the war, raising the question of whether Iran is losing its leverage in the Strait of Hormuz. At least 16.5 million barrels per day of crude left the region between September 1 and 28, matching the prewar average when Iran is excluded, according to commodity analytics firm Kpler. But while crude levels have risen, the refinery bottleneck…",
+      "pub_date": "2026-10-03T14:00:00Z",
+      "pub_display": "October 3, 2026",
+      "category": "markets",
+      "slug": "iran-is-losing-some-of-its-leverage-over-the-strait-of-hormuz",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-iran-is-losing-some-of-its-leverage-over-the-strait-of-hormuz.html"
+    },
     {
       "title": "Getting Oil Through Hormuz Is a Risky Job",
       "link": "https://www.rigzone.com/news/wire/getting_oil_through_hormuz_is_a_risky_job-03-oct-2026-184762-article/?rss=true",
@@ -13,6 +49,30 @@
       "read_time": 1,
       "source": "Rigzone Latest",
       "filename": "article-getting-oil-through-hormuz-is-a-risky-job.html"
+    },
+    {
+      "title": "New Research Strengthens the Link Between Warming and Extreme Weather",
+      "link": "https://oilprice.com/The-Environment/Global-Warming/New-Research-Strengthens-the-Link-Between-Warming-and-Extreme-Weather.html",
+      "description": "There is an increasing body of evidence connecting climate change and severe weather events. In 2004, a group of researchers published one of the first studies linking human-caused climate change to a specific extreme weather event – the 2003 European summer heatwave, which killed over 70,000 people across Europe. The scientists determined that human involvement had at least doubled the risk of such an extreme heatwave, prompting other researchers to investigate the links between human-driven climate change and severe weather. The UK-based…",
+      "pub_date": "2026-10-03T12:00:00Z",
+      "pub_display": "October 3, 2026",
+      "category": "markets",
+      "slug": "new-research-strengthens-the-link-between-warming-and-extreme-weather",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-new-research-strengthens-the-link-between-warming-and-extreme-weather.html"
+    },
+    {
+      "title": "Latin America Could Double Its Onshore Wind Capacity by 2035",
+      "link": "https://oilprice.com/Energy/Energy-General/Latin-America-Could-Double-Its-Onshore-Wind-Capacity-by-2035.html",
+      "description": "Several countries across Latin America have been rapidly expanding their wind energy capacity to diversify the energy mix and strengthen energy security, with far more expansion planned for the next decade. Brazil and Mexico are leading the way, with several other countries across the region also beginning to develop their green energy sectors. Across Latin America, installed wind energy capacity exceeded 44.7 GW in 2022. A Wood Mackenzie report from July 2025 forecast that wind capacity in South America would reach 83 GW by 2034, with a…",
+      "pub_date": "2026-10-03T10:00:00Z",
+      "pub_display": "October 3, 2026",
+      "category": "regulations",
+      "slug": "latin-america-could-double-its-onshore-wind-capacity-by-2035",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-latin-america-could-double-its-onshore-wind-capacity-by-2035.html"
     },
     {
       "title": "Oil Falls as G7 Taps Emergency Supplies",
@@ -229,66 +289,6 @@
       "read_time": 1,
       "source": "OilPrice.com",
       "filename": "article-u-s-deploys-patriots-to-shield-saudi-oil-and-qatari-gas-facilities.html"
-    },
-    {
-      "title": "Chevron Replenishes Exploration Stake in Namibian Orange Basin",
-      "link": "https://www.rigzone.com/news/chevron_replenishes_exploration_stake_in_namibian_orange_basin-02-oct-2026-184756-article/?rss=true",
-      "description": "Operator Chevron will acquire Custos' 10 percent stake in PEL 90, partly offsetting the U.S. energy giant's pending farm-out to Equinor.",
-      "pub_date": "2026-10-02T09:08:10Z",
-      "pub_display": "October 2, 2026",
-      "category": "exploration",
-      "slug": "chevron-replenishes-exploration-stake-in-namibian-orange-basin",
-      "read_time": 1,
-      "source": "Rigzone Latest",
-      "filename": "article-chevron-replenishes-exploration-stake-in-namibian-orange-basin.html"
-    },
-    {
-      "title": "Europe's Soaring Gas Bill Is Sending Utilities Back to Coal",
-      "link": "https://oilprice.com/Energy/Energy-General/Europes-Soaring-Gas-Bill-Is-Sending-Utilities-Back-to-Coal.html",
-      "description": "Europe’s energy crisis isn’t over. Gas prices remain punishingly high across the continent as Europeans stare down the barrel of a long winter. In response to back-to-back-to-back energy crises stemming from Europe’s continued reliance on imported liquefied natural gas against the backdrop of ongoing global geopolitical volatility, Europe’s leaders are pushing to diversify the bloc’s energy mix. While this means that Europe is rapidly expanding its renewable energy capacity, it also marks a significant return to the…",
-      "pub_date": "2026-10-02T09:00:00Z",
-      "pub_display": "October 2, 2026",
-      "category": "lng",
-      "slug": "europes-soaring-gas-bill-is-sending-utilities-back-to-coal",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-europes-soaring-gas-bill-is-sending-utilities-back-to-coal.html"
-    },
-    {
-      "title": "Japan’s JERA Creates Oil Storage Firm to Manage National Reserve Sites",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japans-JERA-Creates-Oil-Storage-Firm-to-Manage-National-Reserve-Sites.html",
-      "description": "Japanese energy firm JERA is creating an oil storage company which will exclusively manage the operation of the national petroleum stockpiling bases that JERA currently operates, as the Middle East crisis has upended the oil procurement market in the resource-poor G7 economy of Japan. JERA Co., Inc. said on Friday it had established JERA Oil Storage as a dedicated operating company to manage the operation of national petroleum stockpiling bases currently operated by JERA and its affiliated subsidiaries under a joint contracting arrangement with…",
-      "pub_date": "2026-10-02T08:30:00Z",
-      "pub_display": "October 2, 2026",
-      "category": "exploration",
-      "slug": "japan-s-jera-creates-oil-storage-firm-to-manage-national-reserve-sites",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-japan-s-jera-creates-oil-storage-firm-to-manage-national-reserve-sites.html"
-    },
-    {
-      "title": "Iran Wants Sanctions Eased to Allow Back Nuclear Inspectors",
-      "link": "https://www.rigzone.com/news/wire/iran_wants_sanctions_eased_to_allow_back_nuclear_inspectors-02-oct-2026-184755-article/?rss=true",
-      "description": "The concession could help break deadlocked peace talks with the U.S.",
-      "pub_date": "2026-10-02T07:41:30Z",
-      "pub_display": "October 2, 2026",
-      "category": "regulations",
-      "slug": "iran-wants-sanctions-eased-to-allow-back-nuclear-inspectors",
-      "read_time": 1,
-      "source": "Rigzone Latest",
-      "filename": "article-iran-wants-sanctions-eased-to-allow-back-nuclear-inspectors.html"
-    },
-    {
-      "title": "Alaska LNG Hinges on How Much Asian Buyers Will Pay for Energy Security",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Alaska-LNG-Hinges-on-How-Much-Asian-Buyers-Will-Pay-for-Energy-Security.html",
-      "description": "The Trump Administration’s pet project Alaska LNG may not be commercially investable as costs per production could be more than double the costs at most U.S. Gulf Coast LNG export projects, a Reuters analysis has found. This week, the Trump Administration touted a $50-billion investment from South Korea for the proposed Alaska LNG project. The entire project is estimated to cost between $44 billion and $55 billion in total, according to Glenfarne Group, the majority owner and developer of Alaska LNG. South Korea disputed…",
-      "pub_date": "2026-10-02T07:30:00Z",
-      "pub_display": "October 2, 2026",
-      "category": "lng",
-      "slug": "alaska-lng-hinges-on-how-much-asian-buyers-will-pay-for-energy-security",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-alaska-lng-hinges-on-how-much-asian-buyers-will-pay-for-energy-security.html"
     }
   ]
 }
