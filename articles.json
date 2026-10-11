@@ -1,7 +1,67 @@
 {
-  "updated": "2026-10-10 14:05:12",
+  "updated": "2026-10-11 14:28:58",
   "count": 24,
   "articles": [
+    {
+      "title": "Eni Completes Landmark Installation for Liverpool Bay CCS",
+      "link": "https://www.rigzone.com/news/eni_completes_landmark_installation_for_liverpool_bay_ccs-11-oct-2026-184811-article/?rss=true",
+      "description": "Eni completed installing what it said is 'the first purpose-built offshore platform dedicated to carbon capture and storage for industrial decarbonization in the world'.",
+      "pub_date": "2026-10-11T11:00:00Z",
+      "pub_display": "October 11, 2026",
+      "category": "offshore",
+      "slug": "eni-completes-landmark-installation-for-liverpool-bay-ccs",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-eni-completes-landmark-installation-for-liverpool-bay-ccs.html"
+    },
+    {
+      "title": "Tanker Rates Soar to Record as Oil Crisis Becomes Shipping Crisis",
+      "link": "https://oilprice.com/Energy/Energy-General/Tanker-Rates-Soar-to-Record-as-Oil-Crisis-Becomes-Shipping-Crisis.html",
+      "description": "The cost of shipping crude oil soared to record highs last month as the Iran war reshuffled trade routes and patterns and tied up more tankers in inefficient and lengthy voyages. Supertanker rates soared in September to above $1 million per day on the Persian Gulf to China route—a record high. The September record was soon smashed as freight rates soared by another 40% in the first week of October alone, to top $1.4 million per day on the Gulf to East Asia trip this week, according to data compiled by Bloomberg. The increased flows of oil…",
+      "pub_date": "2026-10-10T18:00:00Z",
+      "pub_display": "October 10, 2026",
+      "category": "markets",
+      "slug": "tanker-rates-soar-to-record-as-oil-crisis-becomes-shipping-crisis",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-tanker-rates-soar-to-record-as-oil-crisis-becomes-shipping-crisis.html"
+    },
+    {
+      "title": "Emergency Oil Releases Risk Draining the World’s Last Supply Cushion",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Emergency-Oil-Releases-Risk-Draining-the-Worlds-Last-Supply-Cushion.html",
+      "description": "Earlier this week, the International Energy Agency, after consulting with G7, said it would release another 100 million barrels of diesel, gasoline, and crude oil. The release is part of a plan announced in March to release 400 million barrels of oil in response to the Hormuz squeeze. But there is a problem with those releases—storage is emptying. When the U.S. administration began releasing oil from the Strategic Petroleum Reserve, a flurry of reports followed, citing experts who warned the level of oil in the SPR was already low enough…",
+      "pub_date": "2026-10-10T18:00:00Z",
+      "pub_display": "October 10, 2026",
+      "category": "markets",
+      "slug": "emergency-oil-releases-risk-draining-the-world-s-last-supply-cushion",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-emergency-oil-releases-risk-draining-the-world-s-last-supply-cushion.html"
+    },
+    {
+      "title": "Pemex Needs Nearly $110 Billion to Hit Mexico's Output Targets",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Pemex-Needs-Nearly-110-Billion-to-Hit-Mexicos-Output-Targets.html",
+      "description": "Mexico is dependent on oil and gas imports for two-thirds of its energy consumption, despite the fact that the country has abundant domestic fossil fuel resources. But instead of exploiting its own producing power to the greatest potential, Mexico relies on its neighbor to the north for the majority of its energy needs, leaving it in a vulnerable position. However, the answer to Mexico’s energy insecurity is not building up more domestic oil and gas production and refining capacity, according to a recent assessment from the International…",
+      "pub_date": "2026-10-10T16:00:00Z",
+      "pub_display": "October 10, 2026",
+      "category": "production",
+      "slug": "pemex-needs-nearly-110-billion-to-hit-mexicos-output-targets",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-pemex-needs-nearly-110-billion-to-hit-mexicos-output-targets.html"
+    },
+    {
+      "title": "Southeast Asia Needs More Power, But Its Weak Grid Could Be a Problem",
+      "link": "https://oilprice.com/Energy/Energy-General/Southeast-Asia-Needs-More-Power-But-Its-Weak-Grid-Could-Be-a-Problem.html",
+      "description": "The war in Iran has exposed a critical vulnerability in Southeast Asia’s energy markets. The region is heavily dependent on fossil fuel imports, and demand is continuing its steep growth trajectory even as global crude oil prices remain punishingly high. Though the Strait of Hormuz is finally reopening, restoring flows of crude oil out of the Persian Gulf and toward Asian buyers, global oil markets have a long road toward recovery. Luckily, the wheels are already in motion to electrify the continent and move away from heavy dependence on…",
+      "pub_date": "2026-10-10T14:00:00Z",
+      "pub_display": "October 10, 2026",
+      "category": "markets",
+      "slug": "southeast-asia-needs-more-power-but-its-weak-grid-could-be-a-problem",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-southeast-asia-needs-more-power-but-its-weak-grid-could-be-a-problem.html"
+    },
     {
       "title": "Russia's Oil Product Exports Rise",
       "link": "https://www.rigzone.com/news/wire/russias_oil_product_exports_rise-10-oct-2026-184813-article/?rss=true",
@@ -13,6 +73,18 @@
       "read_time": 1,
       "source": "Rigzone Latest",
       "filename": "article-russias-oil-product-exports-rise.html"
+    },
+    {
+      "title": "The Iran War Is Fueling a Boom in Clean Energy",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Iran-War-Is-Fueling-a-Boom-in-Clean-Energy.html",
+      "description": "The Iran war might have done exactly what President Trump was trying to avoid: turning the world away from fossil fuels to alternative energy sources, because of the wide range of vulnerabilities it has exposed in the international energy system. Restrictions on trade through the Strait of Hormuz have underscored just how dependent many countries are on this waterway for fossil fuel imports, prompting governments to seek alternative suppliers and accelerate the deployment of renewable energy sources. The near closure of the Strait of Hormuz,…",
+      "pub_date": "2026-10-10T10:00:00Z",
+      "pub_display": "October 10, 2026",
+      "category": "lng",
+      "slug": "the-iran-war-is-fueling-a-boom-in-clean-energy",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-the-iran-war-is-fueling-a-boom-in-clean-energy.html"
     },
     {
       "title": "Oil Advances Amid War and Hurricane Risks",
@@ -217,78 +289,6 @@
       "read_time": 1,
       "source": "OilPrice.com",
       "filename": "article-can-lasers-beat-drone-swarms-the-pentagon-is-about-to-find-out.html"
-    },
-    {
-      "title": "Devon Energy to sell Eagle Ford assets to Crescent for $4.2bn",
-      "link": "https://www.offshore-technology.com/news/devon-sell-eagle-ford-assets-crescent-4-2bn/",
-      "description": "Devon Energy has signed a definitive agreement to divest its Eagle Ford assets to Crescent Energy Company for $4.2bn in cash.",
-      "pub_date": "2026-10-09T09:48:15Z",
-      "pub_display": "October 9, 2026",
-      "category": "upstream",
-      "slug": "devon-energy-to-sell-eagle-ford-assets-to-crescent-for-4-2bn",
-      "read_time": 1,
-      "source": "Offshore Technology",
-      "filename": "article-devon-energy-to-sell-eagle-ford-assets-to-crescent-for-4-2bn.html"
-    },
-    {
-      "title": "SLB signs 15-year digital drilling contract with TotalEnergies",
-      "link": "https://www.offshore-technology.com/news/slb-digital-drilling-contract-totalenergies/",
-      "description": "SLB has entered into a 15-year agreement with TotalEnergies to provide its DrillPlan coherent well planning and engineering solutions.",
-      "pub_date": "2026-10-09T09:39:04Z",
-      "pub_display": "October 9, 2026",
-      "category": "exploration",
-      "slug": "slb-signs-15-year-digital-drilling-contract-with-totalenergies",
-      "read_time": 1,
-      "source": "Offshore Technology",
-      "filename": "article-slb-signs-15-year-digital-drilling-contract-with-totalenergies.html"
-    },
-    {
-      "title": "129 Gulf Platforms Evacuated as Isaias Gets Stronger",
-      "link": "https://www.rigzone.com/news/129_gulf_platforms_evacuated_as_isaias_gets_stronger-09-oct-2026-184809-article/?rss=true",
-      "description": "That represents 34.77 percent of the 371 manned platforms in the Gulf of America, the Marine Minerals Administration highlighted.",
-      "pub_date": "2026-10-09T09:36:14Z",
-      "pub_display": "October 9, 2026",
-      "category": "offshore",
-      "slug": "129-gulf-platforms-evacuated-as-isaias-gets-stronger",
-      "read_time": 1,
-      "source": "Rigzone Latest",
-      "filename": "article-129-gulf-platforms-evacuated-as-isaias-gets-stronger.html"
-    },
-    {
-      "title": "Canada’s New Oil Pipeline Challenged by Cold Lake First Nations",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Canadas-New-Oil-Pipeline-Challenged-by-Cold-Lake-First-Nations.html",
-      "description": "Cold Lake First Nations is challenging the Canadian federal government’s decision to designate Canada’s new oil pipeline project to the West Coast a project of national interest. Last week, the federal government designated the new oil pipeline to the West Coast, which Canada and Alberta are advancing in partnership, a project of national interest, which would fast-track development. The ambition of Alberta and Canada to export additional volumes of crude oil to destinations in Asia to reduce the high dependence on exports to the United…",
-      "pub_date": "2026-10-09T09:30:00Z",
-      "pub_display": "October 9, 2026",
-      "category": "markets",
-      "slug": "canada-s-new-oil-pipeline-challenged-by-cold-lake-first-nations",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-canada-s-new-oil-pipeline-challenged-by-cold-lake-first-nations.html"
-    },
-    {
-      "title": "Rubio Warns Ukraine Stalemate Could Turn Into Wider Conflict",
-      "link": "https://oilprice.com/Geopolitics/International/Rubio-Warns-Ukraine-Stalemate-Could-Turn-Into-Wider-Conflict.html",
-      "description": "US Secretary of State Marco Rubio warned that Russia's war against Ukraine is at a stalemate but could escalate into a broader regional conflict if the deadlock pushes either side toward increasingly dangerous actions. Speaking in Lisbon on the final stop of a three-country swing through NATO allies Iceland, Greece, and Portugal, Rubio said Washington believes the war ultimately requires a negotiated settlement and remains ready to facilitate diplomacy. His remarks came as a Russian strike on two buses in the Ukrainian city of Kramatorsk killed…",
-      "pub_date": "2026-10-09T09:00:00Z",
-      "pub_display": "October 9, 2026",
-      "category": "technology",
-      "slug": "rubio-warns-ukraine-stalemate-could-turn-into-wider-conflict",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-rubio-warns-ukraine-stalemate-could-turn-into-wider-conflict.html"
-    },
-    {
-      "title": "Saudi, UAE Join Push for SE Asian Oil Reserves",
-      "link": "https://www.rigzone.com/news/wire/saudi_uae_join_push_for_se_asian_oil_reserves-09-oct-2026-184808-article/?rss=true",
-      "description": "Saudi Arabia and the United Arab Emirates will support a Japanese initiative to bolster oil supplies in Southeast Asia after war-driven disruptions heightened concerns over energy security.",
-      "pub_date": "2026-10-09T08:45:18Z",
-      "pub_display": "October 9, 2026",
-      "category": "exploration",
-      "slug": "saudi-uae-join-push-for-se-asian-oil-reserves",
-      "read_time": 1,
-      "source": "Rigzone Latest",
-      "filename": "article-saudi-uae-join-push-for-se-asian-oil-reserves.html"
     }
   ]
 }
