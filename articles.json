@@ -1,7 +1,79 @@
 {
-  "updated": "2026-10-17 11:50:09",
+  "updated": "2026-10-18 12:15:54",
   "count": 24,
   "articles": [
+    {
+      "title": "Oil Prices Stay High as War Keeps Supply Tight Into 2027",
+      "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Stay-High-as-War-Keeps-Supply-Tight-Into-2027.html",
+      "description": "During the first three months or so of the U.S. and Israeli war with Iran, the dominant mood on oil markets was that the conflict would end any day now. The brief June ceasefire reinforced that optimism, so it took a while longer for facts to be faced: the war would not end any day now. It might even extend into next year—and this means higher prices for a longer time. The ICE Brent crude futures contract for January 2027 is trading at $102.59 per barrel. The June 2027 contract is only slightly lower, at $92.71 per barrel, and the December…",
+      "pub_date": "2026-10-17T18:00:00Z",
+      "pub_display": "October 17, 2026",
+      "category": "markets",
+      "slug": "oil-prices-stay-high-as-war-keeps-supply-tight-into-2027",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-oil-prices-stay-high-as-war-keeps-supply-tight-into-2027.html"
+    },
+    {
+      "title": "Middle East Chemicals Keep Their Cost Edge Despite Hormuz Crisis",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Middle-East-Chemicals-Keep-Their-Cost-Edge-Despite-Hormuz-Crisis.html",
+      "description": "Despite the Iran war and the Hormuz crisis, the Middle East’s low-cost chemicals production is set to retain its long-term advantage over other regions. Near-term shifts in the sourcing of polymers are taking place due to the current constraints in the Persian Gulf’s industrial base, benefiting U.S. chemicals companies. But in the long run, the Middle East is likely to retain its buyers’ base because it still has the two levers to be competitive on the global market—an extensive production base and, most of all, low-cost…",
+      "pub_date": "2026-10-17T16:00:00Z",
+      "pub_display": "October 17, 2026",
+      "category": "production",
+      "slug": "middle-east-chemicals-keep-their-cost-edge-despite-hormuz-crisis",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-middle-east-chemicals-keep-their-cost-edge-despite-hormuz-crisis.html"
+    },
+    {
+      "title": "Texas Researchers Say Permian Wastewater Could Cool AI Data Centers",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Texas-Researchers-Say-Permian-Wastewater-Could-Cool-AI-Data-Centers.html",
+      "description": "The artificial intelligence boom is placing a dangerous strain on the world’s water and energy resources. As hyperscalers build up resource-hungry data centers at a breakneck pace, demand projections for these finite resources are skyrocketing faster than policymakers can keep pace. But a new study from researchers at the University of Texas at Austin suggests that there may be a way to sustainably source water for data centers by using wastewater from the oil and gas industry. The water and energy use of AI data centers is enormous…",
+      "pub_date": "2026-10-17T12:00:00Z",
+      "pub_display": "October 17, 2026",
+      "category": "technology",
+      "slug": "texas-researchers-say-permian-wastewater-could-cool-ai-data-centers",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-texas-researchers-say-permian-wastewater-could-cool-ai-data-centers.html"
+    },
+    {
+      "title": "Europe Braces for a Winter Energy Crisis as Gas Reserves Run Low",
+      "link": "https://oilprice.com/Energy/Energy-General/Europe-Braces-for-a-Winter-Energy-Crisis-as-Gas-Reserves-Run-Low.html",
+      "description": "After months of elevated energy prices, Europe can expect fuel costs to continue rising through the winter months as demand grows. Ongoing energy trade constraints and threats to energy infrastructure across the Middle East are expected to limit global energy supplies and continue to drive up prices, hitting consumers hard unless governments intervene. The European Union (EU) is thought to have paid an additional €100 billion on oil and gas so far this year, prompting EU ministers to seek ways to manage the impact of high fuel prices. Since…",
+      "pub_date": "2026-10-17T12:00:00Z",
+      "pub_display": "October 17, 2026",
+      "category": "markets",
+      "slug": "europe-braces-for-a-winter-energy-crisis-as-gas-reserves-run-low",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-europe-braces-for-a-winter-energy-crisis-as-gas-reserves-run-low.html"
+    },
+    {
+      "title": "OPEC's Smallest Member Rewrites Oil Law",
+      "link": "https://www.rigzone.com/news/wire/opecs_smallest_member_rewrites_oil_law-17-oct-2026-184867-article/?rss=true",
+      "description": "African oil producer Equatorial Guinea will next week pass a new package of favorable terms for oil explorers.",
+      "pub_date": "2026-10-17T12:00:00Z",
+      "pub_display": "October 17, 2026",
+      "category": "exploration",
+      "slug": "opecs-smallest-member-rewrites-oil-law",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-opecs-smallest-member-rewrites-oil-law.html"
+    },
+    {
+      "title": "Bolivia’s Energy Crisis Deepens as Natural Gas Reserves Run Dry",
+      "link": "https://oilprice.com/Energy/Energy-General/Bolivias-Energy-Crisis-Deepens-as-Natural-Gas-Reserves-Run-Dry.html",
+      "description": "Years of underinvestment in Bolivia’s gas industry have left the South American country facing a severe fuel shortage, as energy prices rise ever higher owing to the ongoing war in Iran. The energy shortages and economic crisis follow years of poor decision-making by the government. In 2006, then-president Evo Morales took control of Bolivia’s fossil fuel industry, renegotiating contracts with international oil and gas companies and benefiting from the revenue. Much of the country’s newfound wealth was invested in public spending…",
+      "pub_date": "2026-10-17T10:00:00Z",
+      "pub_display": "October 17, 2026",
+      "category": "exploration",
+      "slug": "bolivia-s-energy-crisis-deepens-as-natural-gas-reserves-run-dry",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-bolivia-s-energy-crisis-deepens-as-natural-gas-reserves-run-dry.html"
+    },
     {
       "title": "Brent Oil Hits $110 as Supply Risks Mount",
       "link": "https://www.rigzone.com/news/wire/brent_oil_hits_110_as_supply_risks_mount-16-oct-2026-184870-article/?rss=true",
@@ -217,78 +289,6 @@
       "read_time": 1,
       "source": "Offshore Technology",
       "filename": "article-bw-energy-reports-8-9mbbl-find-in-dussafu-appraisal-wells-in-gabon.html"
-    },
-    {
-      "title": "Global Gas Crunch Makes Europe’s Remaining Coal Plants Profitable",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Global-Gas-Crunch-Makes-Europes-Remaining-Coal-Plants-Profitable.html",
-      "description": "The global LNG supply crunch has made Europe’s last-standing coal-fired power plants profitable this year as gas supply costs soar while the need for conventional generation to stabilize grids remains. In Germany and Poland, which host most of the remaining operational or back-up-ready coal power capacity in Europe, coal-fired generation is profitable again as winter approaches, LNG supply is barely moving out of the Strait of Hormuz, and gas prices are at their highest level since the 2022-2023 crisis. European countries, including Germany,…",
-      "pub_date": "2026-10-16T09:30:00Z",
-      "pub_display": "October 16, 2026",
-      "category": "markets",
-      "slug": "global-gas-crunch-makes-europe-s-remaining-coal-plants-profitable",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-global-gas-crunch-makes-europe-s-remaining-coal-plants-profitable.html"
-    },
-    {
-      "title": "Ukraine Defies Trump With Renewed Attacks on Russian Oil Infrastructure",
-      "link": "https://oilprice.com/Geopolitics/Europe/Ukraine-Defies-Trump-With-Renewed-Attacks-on-Russian-Oil-Infrastructure.html",
-      "description": "Ukrainian forces have struck an oil refinery in Russia's Ryazan region, Russian officials said, hours after President Volodymyr Zelenskyy said Ukraine would resume attacks on Russian energy facilities and voiced anger over a \"dangerous\" disruption of satellite intelligence from the United States. Defying an \"energy cease-fire\" announced unilaterally last week by US President Donald Trump, Zelenskyy told the Financial Times in an interview published on October 15 that \"we're done\" with holding off on launching attacks on Russia's oil structures.…",
-      "pub_date": "2026-10-16T09:00:00Z",
-      "pub_display": "October 16, 2026",
-      "category": "technology",
-      "slug": "ukraine-defies-trump-with-renewed-attacks-on-russian-oil-infrastructure",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-ukraine-defies-trump-with-renewed-attacks-on-russian-oil-infrastructure.html"
-    },
-    {
-      "title": "Currie Calls Brent 'Vibe Contract' Out of Step with Energy",
-      "link": "https://www.rigzone.com/news/wire/currie_calls_brent_vibe_contract_out_of_step_with_energy-16-oct-2026-184862-article/?rss=true",
-      "description": "The world's most important oil benchmark has become little more than a 'vibe contract', according to Wall Street veteran Jeff Currie.",
-      "pub_date": "2026-10-16T08:31:01Z",
-      "pub_display": "October 16, 2026",
-      "category": "markets",
-      "slug": "currie-calls-brent-vibe-contract-out-of-step-with-energy",
-      "read_time": 1,
-      "source": "Rigzone Latest",
-      "filename": "article-currie-calls-brent-vibe-contract-out-of-step-with-energy.html"
-    },
-    {
-      "title": "Iran War Set To Push PetroChina’s Trading Profit to Record $3 Billion",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-War-Set-To-Push-PetroChinas-Trading-Profit-to-Record-3-Billion.html",
-      "description": "The trading arm of China’s state-owned giant PetroChina is set to reap a record more than $3 billion (20 billion yuan) in trading profits this year as the Middle East crisis hiked crude prices and rattled global fuel markets and trade flows. PetroChina International (PCI), the trading vehicle of the biggest oil and gas producer in Asia, is set to book more than $3 billion in gross trading profit for 2026, anonymous trade sources told Reuters. PetroChina and other major oil and gas companies do not report trading profits individually, but…",
-      "pub_date": "2026-10-16T08:30:00Z",
-      "pub_display": "October 16, 2026",
-      "category": "markets",
-      "slug": "iran-war-set-to-push-petrochina-s-trading-profit-to-record-3-billion",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-iran-war-set-to-push-petrochina-s-trading-profit-to-record-3-billion.html"
-    },
-    {
-      "title": "China Builds Gas Buffer for Winter",
-      "link": "https://www.rigzone.com/news/wire/china_builds_gas_buffer_for_winter-16-oct-2026-184861-article/?rss=true",
-      "description": "China has stockpiled enough natural gas to meet winter demand, according to analysts.",
-      "pub_date": "2026-10-16T08:22:56Z",
-      "pub_display": "October 16, 2026",
-      "category": "markets",
-      "slug": "china-builds-gas-buffer-for-winter",
-      "read_time": 1,
-      "source": "Rigzone Latest",
-      "filename": "article-china-builds-gas-buffer-for-winter.html"
-    },
-    {
-      "title": "Essar Oil & Gas wins five new CBM blocks across three Indian states",
-      "link": "https://www.offshore-technology.com/news/essar-oil-gas-five-cbm-blocks-indian/",
-      "description": "Indian coal bed methane (CBM) operator Essar Oil & Gas has been awarded five exploration blocks covering approximately 1,281km2 across West Bengal, Madhya Pradesh and Telangana in India.",
-      "pub_date": "2026-10-16T07:47:16Z",
-      "pub_display": "October 16, 2026",
-      "category": "exploration",
-      "slug": "essar-oil-gas-wins-five-new-cbm-blocks-across-three-indian-states",
-      "read_time": 1,
-      "source": "Offshore Technology",
-      "filename": "article-essar-oil-gas-wins-five-new-cbm-blocks-across-three-indian-states.html"
     }
   ]
 }
