@@ -1,7 +1,103 @@
 {
-  "updated": "2026-10-24 12:19:53",
+  "updated": "2026-10-25 12:50:34",
   "count": 24,
   "articles": [
+    {
+      "title": "UK Seen More Reliant on Gas Imports This Winter",
+      "link": "https://www.rigzone.com/news/wire/uk_seen_more_reliant_on_gas_imports_this_winter-25-oct-2026-184923-article/?rss=true",
+      "description": "Britain is expected to rely even more heavily on natural gas imports this winter.",
+      "pub_date": "2026-10-25T12:00:00Z",
+      "pub_display": "October 25, 2026",
+      "category": "lng",
+      "slug": "uk-seen-more-reliant-on-gas-imports-this-winter",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-uk-seen-more-reliant-on-gas-imports-this-winter.html"
+    },
+    {
+      "title": "Iberdrola Secures New EIB Loan for Brazil Grid Upgrades",
+      "link": "https://www.rigzone.com/news/iberdrola_secures_new_eib_loan_for_brazil_grid_upgrades-25-oct-2026-184924-article/?rss=true",
+      "description": "Iberdrola's Brazilian subsidiary has secured another loan from the European Investment Bank to help modernize the electricity infrastructure in the states of Sao Paulo and Mato Grosso do Sul.",
+      "pub_date": "2026-10-25T11:00:00Z",
+      "pub_display": "October 25, 2026",
+      "category": "regulations",
+      "slug": "iberdrola-secures-new-eib-loan-for-brazil-grid-upgrades",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-iberdrola-secures-new-eib-loan-for-brazil-grid-upgrades.html"
+    },
+    {
+      "title": "Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Record-Tanker-Rates-Cripple-US-Crude-Oil-Flows-to-Asia.html",
+      "description": "The Iran war has made oil tanker voyages so inefficient that vessel availability has crumbled and freight costs have soared to record-highs, all but erasing the incentive for shipping crude oil from the U.S. Gulf Coast to Asia. The cost of shipping crude oil from the U.S. Gulf Coast to China soared to as high as $80 million earlier this month. That’s ten times the average tanker rates that had held for years before the Iran war. Freight rates have eased from the record highs seen in early October, but they were still about $60 million for…",
+      "pub_date": "2026-10-24T18:00:00Z",
+      "pub_display": "October 24, 2026",
+      "category": "markets",
+      "slug": "record-tanker-rates-cripple-u-s-crude-oil-flows-to-asia",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-record-tanker-rates-cripple-u-s-crude-oil-flows-to-asia.html"
+    },
+    {
+      "title": "Fuel Oil Becomes Asia’s Next Cost Shock",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Fuel-Oil-Becomes-Asias-Next-Cost-Shock.html",
+      "description": "Singapore’s shipping-fuel market is adding another layer of cost to Asian trade. Disrupted supplies from the Middle East and Russia, resilient bunker demand and prohibitive freight rates have pushed high-sulphur fuel oil above the price of the crude used to produce it. Seasonal relief from Gulf producers and additional Chinese export allowances could ease the squeeze towards year-end, particularly for very-low-sulphur fuel oil. But with replacement cargoes expensive to transport and Russian supplies vulnerable to further disruption, a return…",
+      "pub_date": "2026-10-24T16:00:00Z",
+      "pub_display": "October 24, 2026",
+      "category": "markets",
+      "slug": "fuel-oil-becomes-asia-s-next-cost-shock",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-fuel-oil-becomes-asia-s-next-cost-shock.html"
+    },
+    {
+      "title": "Syria's Energy Comeback Could Reshape Middle East Oil and Gas",
+      "link": "https://oilprice.com/Energy/Energy-General/Syrias-Energy-Comeback-Could-Reshape-Middle-East-Oil-and-Gas.html",
+      "description": "Syria is undergoing countrywide reconstruction after more than a decade of conflict, which caused extensive infrastructure damage and led to millions of people being displaced. As Syrians rebuild their lives, the government has big plans for economic diversification and growth to support long-term recovery. Thanks to its favourable geographic position, this includes the development of a strong energy sector that could help eventually establish Syria as a regional hub. Syria is now led by President Ahmed al-Sharaa, who formed a transitional government…",
+      "pub_date": "2026-10-24T14:00:00Z",
+      "pub_display": "October 24, 2026",
+      "category": "pipeline",
+      "slug": "syrias-energy-comeback-could-reshape-middle-east-oil-and-gas",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-syrias-energy-comeback-could-reshape-middle-east-oil-and-gas.html"
+    },
+    {
+      "title": "Can Undersea Volcanoes Power Cities? A Seattle Startup Just Took the First Step",
+      "link": "https://oilprice.com/Energy/Energy-General/Can-Undersea-Volcanoes-Power-Cities-A-Seattle-Startup-Just-Took-the-First-Step.html",
+      "description": "A geothermal startup aiming to source energy directly from undersea volcanoes just hit a major milestone that could bring round-the-clock clean energy to cities on the northwest coast of the United States and serve as a critical proof of concept for other regions, with particular relevance for the other 14 countries situated along the Pacific Ring of Fire. Seattle-based energy startup Endurance Energy just announced that it successfully created net-positive energy from its underwater geothermal plant in a world first. The company successfully…",
+      "pub_date": "2026-10-24T12:00:00Z",
+      "pub_display": "October 24, 2026",
+      "category": "technology",
+      "slug": "can-undersea-volcanoes-power-cities-a-seattle-startup-just-took-the-first-step",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-can-undersea-volcanoes-power-cities-a-seattle-startup-just-took-the-first-step.html"
+    },
+    {
+      "title": "Germany Wants to Stop More Oil Refinery Closures",
+      "link": "https://www.rigzone.com/news/wire/germany_wants_to_stop_more_oil_refinery_closures-24-oct-2026-184919-article/?rss=true",
+      "description": "Germany said it will seek to stem the loss of oil refining capacity.",
+      "pub_date": "2026-10-24T12:00:00Z",
+      "pub_display": "October 24, 2026",
+      "category": "technology",
+      "slug": "germany-wants-to-stop-more-oil-refinery-closures",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-germany-wants-to-stop-more-oil-refinery-closures.html"
+    },
+    {
+      "title": "Trump Targets $6.2 Billion Offshore Wind Project Nearing Completion",
+      "link": "https://oilprice.com/Alternative-Energy/Wind-Power/Trump-Targets-62-Billion-Offshore-Wind-Project-Nearing-Completion.html",
+      "description": "United States President Donald Trump has repeatedly targeted offshore wind since coming into office last year, as he strives to expand the country’s fossil fuel sector and shift the focus away from renewable energy. Trump has sought to halt the development of several offshore wind projects and has even resorted to paying companies to relinquish their leases on areas off the U.S. coast to instead invest in oil and gas projects. Now, Trump is looking to rescind approval for Connecticut’s first offshore wind project, Revolution Wind, as…",
+      "pub_date": "2026-10-24T10:00:00Z",
+      "pub_display": "October 24, 2026",
+      "category": "production",
+      "slug": "trump-targets-6-2-billion-offshore-wind-project-nearing-completion",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-trump-targets-6-2-billion-offshore-wind-project-nearing-completion.html"
+    },
     {
       "title": "Brent Tops $116 as Middle East Risks Grow",
       "link": "https://www.rigzone.com/news/wire/brent_tops_116_as_middle_east_risks_grow-23-oct-2026-184925-article/?rss=true",
@@ -193,102 +289,6 @@
       "read_time": 1,
       "source": "OilPrice.com",
       "filename": "article-space-war-fears-rise-as-russian-satellite-makes-dangerous-maneuver.html"
-    },
-    {
-      "title": "Middle East Physical Crude Slides While Brent Hits Five-Month High",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Middle-East-Physical-Crude-Slides-While-Brent-Hits-Five-Month-High.html",
-      "description": "In contrast with the international benchmark futures prices, the prices of physical crudes from the Middle East have softened this week, as oil continues to flow out of the Persian Gulf in ship-to-ship transfers offshore Oman and producers offer competitive prices to Asian buyers. Some crude grades from Iraq and Oman have sunk into deep discounts to the physical Dubai benchmark. Iraq’s Basrah Medium, for example, was recently sold at a discount of $10 per barrel to the Dubai benchmark, compared to near parity to Dubai crude a month ago, traders…",
-      "pub_date": "2026-10-23T10:30:00Z",
-      "pub_display": "October 23, 2026",
-      "category": "markets",
-      "slug": "middle-east-physical-crude-slides-while-brent-hits-five-month-high",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-middle-east-physical-crude-slides-while-brent-hits-five-month-high.html"
-    },
-    {
-      "title": "Shell, ExxonMobil Said to Put Chemicals JV Up for Sale",
-      "link": "https://www.rigzone.com/news/wire/shell_exxonmobil_said_to_put_chemicals_jv_up_for_sale-23-oct-2026-184914-article/?rss=true",
-      "description": "The sale may attract interest from private equity suitors, and the oil companies are aiming for a deal that values the unit at about $8 billion, according to the Financial Times.",
-      "pub_date": "2026-10-23T10:09:40Z",
-      "pub_display": "October 23, 2026",
-      "category": "technology",
-      "slug": "shell-exxonmobil-said-to-put-chemicals-jv-up-for-sale",
-      "read_time": 1,
-      "source": "Rigzone Latest",
-      "filename": "article-shell-exxonmobil-said-to-put-chemicals-jv-up-for-sale.html"
-    },
-    {
-      "title": "Oil Hits $114 Intraday",
-      "link": "https://www.rigzone.com/news/oil_hits_114_intraday-23-oct-2026-184913-article/?rss=true",
-      "description": "The price of Brent crude oil reached $114 per barrel intraday on Friday.",
-      "pub_date": "2026-10-23T09:45:20Z",
-      "pub_display": "October 23, 2026",
-      "category": "markets",
-      "slug": "oil-hits-114-intraday",
-      "read_time": 1,
-      "source": "Rigzone Latest",
-      "filename": "article-oil-hits-114-intraday.html"
-    },
-    {
-      "title": "Saipem and MDC sign MoU for offshore drilling in Egypt",
-      "link": "https://www.offshore-technology.com/news/saipem-mdc-mou-offshore-drilling-egypt/",
-      "description": "Saipem and Modern Drilling Company (MDC) have entered into a memorandum of understanding (MoU) to assess new collaboration opportunities in offshore drilling, beginning in the Egyptian market.",
-      "pub_date": "2026-10-23T09:37:15Z",
-      "pub_display": "October 23, 2026",
-      "category": "exploration",
-      "slug": "saipem-and-mdc-sign-mou-for-offshore-drilling-in-egypt",
-      "read_time": 1,
-      "source": "Offshore Technology",
-      "filename": "article-saipem-and-mdc-sign-mou-for-offshore-drilling-in-egypt.html"
-    },
-    {
-      "title": "Oil India Strikes Natural Gas in Shallow Offshore Basin",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-India-Strikes-Natural-Gas-in-Shallow-Offshore-Basin.html",
-      "description": "State explorer Oil India Limited (OIL) has found natural gas in a previously unexplored formation in the shallow Krishna-Godavari Basin, the Indian company said on Friday. OIL has made the discovery at the Godavari-1 appraisal well in the Matsyapuri formation in the Krishna-Godavari Basin off India’s east coast, recording a peak test flow of 200,000 standard cubic meters per day (SCMD). The company, however, did not reveal an estimate of the potential reserves it had encountered. OIL is now preparing to test the next zone in the basin for…",
-      "pub_date": "2026-10-23T09:30:00Z",
-      "pub_display": "October 23, 2026",
-      "category": "exploration",
-      "slug": "oil-india-strikes-natural-gas-in-shallow-offshore-basin",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-oil-india-strikes-natural-gas-in-shallow-offshore-basin.html"
-    },
-    {
-      "title": "Cheniere signs LNG supply deals with QatarEnergy through 2054",
-      "link": "https://www.offshore-technology.com/news/cheniere-lng-supply-deals-qatarenergy/",
-      "description": "Cheniere Energy has signed long-term sale and purchase agreements (SPAs) with QatarEnergy for the supply of a combined total of four million tonnes per annum (mtpa) of liquefied natural gas (LNG) through to 2054.",
-      "pub_date": "2026-10-23T09:26:47Z",
-      "pub_display": "October 23, 2026",
-      "category": "lng",
-      "slug": "cheniere-signs-lng-supply-deals-with-qatarenergy-through-2054",
-      "read_time": 1,
-      "source": "Offshore Technology",
-      "filename": "article-cheniere-signs-lng-supply-deals-with-qatarenergy-through-2054.html"
-    },
-    {
-      "title": "The Hidden $40-Per-Barrel Cost Driving Oil Prices Higher",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Hidden-40-Per-Barrel-Cost-Driving-Oil-Prices-Higher.html",
-      "description": "When Americans think about the price of oil, they usually focus on the number quoted every day in financial markets. If Brent crude is trading above $100 a barrel or West Texas Intermediate is near $100, those numbers become shorthand for whether oil is expensive or cheap. But that market price is only part of what ultimately determines the cost of getting crude oil to a refinery. But transportation has become a cost that has become impossible to ignore. Reuters recently reported that shipping roughly 2 million barrels of crude from the United…",
-      "pub_date": "2026-10-23T09:00:00Z",
-      "pub_display": "October 23, 2026",
-      "category": "markets",
-      "slug": "the-hidden-40-per-barrel-cost-driving-oil-prices-higher",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-the-hidden-40-per-barrel-cost-driving-oil-prices-higher.html"
-    },
-    {
-      "title": "U.S. Diesel at $6.30 a Gallon as First Russian Cargo Sets Sail for New York",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Diesel-at-630-a-Gallon-as-First-Russian-Cargo-Sets-Sail-for-New-York.html",
-      "description": "The first tanker shipping diesel out of Russia to the U.S. departed from the Russian Baltic Sea port of Primorsk early on Friday local time and is en route to New York where it is expected to arrive on November 7, shipping data show. The medium-sized oil tanker Agioi Fanendes, flying the flag of Malta, loaded about 40,000 metric tons, or about 300,000 barrels, of ultra-low sulfur diesel (ULSD) on Thursday, after U.S. President Donald Trump earlier this month announced a deal with Russian President Vladimir Putin. The deal was one of President Trump’s…",
-      "pub_date": "2026-10-23T08:30:00Z",
-      "pub_display": "October 23, 2026",
-      "category": "technology",
-      "slug": "u-s-diesel-at-6-30-a-gallon-as-first-russian-cargo-sets-sail-for-new-york",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-u-s-diesel-at-6-30-a-gallon-as-first-russian-cargo-sets-sail-for-new-york.html"
     }
   ]
 }
