@@ -1,7 +1,67 @@
 {
-  "updated": "2026-10-31 14:00:54",
+  "updated": "2026-11-01 14:36:51",
   "count": 24,
   "articles": [
+    {
+      "title": "TotalEnergies Farms Out Nigerian Exploration Block",
+      "link": "https://www.rigzone.com/news/totalenergies_farms_out_nigerian_exploration_block-01-nov-2026-184982-article/?rss=true",
+      "description": "TotalEnergies signed an agreement to sell 40 percent in the OPL257 block offshore Nigeria to local player South Atlantic Petroleum, as the partners prepare to appraise the Egina South discovery.",
+      "pub_date": "2026-11-01T11:00:00Z",
+      "pub_display": "November 1, 2026",
+      "category": "exploration",
+      "slug": "totalenergies-farms-out-nigerian-exploration-block",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-totalenergies-farms-out-nigerian-exploration-block.html"
+    },
+    {
+      "title": "Chevron Raises Exploration Spending By 50%",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Chevron-Raises-Exploration-Spending-By-50.html",
+      "description": "After years of focusing on growing exploration and production in the U.S. Gulf of Mexico and the Permian shale basin, U.S. oil and gas supermajor Chevron returns to high-impact frontier exploration as it seeks to renew its portfolio with diverse opportunities globally. Exploration in South America, Africa, and the Eastern Mediterranean is now a key focus of Chevron’s upstream business, which the company looks to turn around by adding reserves and production growth opportunities in Guyana, Angola, Namibia, Nigeria, Guinea-Bissau, Equatorial…",
+      "pub_date": "2026-10-31T18:00:00Z",
+      "pub_display": "October 31, 2026",
+      "category": "exploration",
+      "slug": "chevron-raises-exploration-spending-by-50",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-chevron-raises-exploration-spending-by-50.html"
+    },
+    {
+      "title": "U.S. Intelligence: China Could Put Laser Weapons in Space by 2030",
+      "link": "https://oilprice.com/Geopolitics/International/US-Intelligence-China-Could-Put-Laser-Weapons-in-Space-by-2030.html",
+      "description": "A new United States intelligence report warns that China is developing energy weapons and spaceplanes that it could use for military operations in outer space, with the capability of using directed-energy weapons in orbit by the end of the 2020s. The US Defence Intelligence Agency (DIA) report, published on Sunday, includes a rare image of the newly developed reusable spaceplane. The DIA report, entitled Challenges to Security in Space, is the first time that the U.S. government has offered an estimated timeline for China’s development…",
+      "pub_date": "2026-10-31T16:00:00Z",
+      "pub_display": "October 31, 2026",
+      "category": "regulations",
+      "slug": "u-s-intelligence-china-could-put-laser-weapons-in-space-by-2030",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-u-s-intelligence-china-could-put-laser-weapons-in-space-by-2030.html"
+    },
+    {
+      "title": "Jackdaw Approval Sparks Fierce Debate Over Britain's Energy Future",
+      "link": "https://oilprice.com/Energy/Energy-General/Jackdaw-Approval-Sparks-Fierce-Debate-Over-Britains-Energy-Future.html",
+      "description": "The United Kingdom approved the development of the Jackdaw North Sea gas field on the 21st of October following years of legal battles and political uncertainty. Jackdaw is a large offshore natural gas field in the North Sea, owned by Adura, a joint venture between Shell and Equinor, since 2025, located around 240 km east of Aberdeen in Scotland. The field was approved by the U.K. government in 2022, but the development was challenged in Scotland's Court of Session in Edinburgh, and environmental approval was rescinded after a judge…",
+      "pub_date": "2026-10-31T14:00:00Z",
+      "pub_display": "October 31, 2026",
+      "category": "pipeline",
+      "slug": "jackdaw-approval-sparks-fierce-debate-over-britains-energy-future",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-jackdaw-approval-sparks-fierce-debate-over-britains-energy-future.html"
+    },
+    {
+      "title": "DARPA Backs Project to Measure AI Energy Use at Every Stage of the Workflow",
+      "link": "https://oilprice.com/Energy/Energy-General/DARPA-Backs-Project-to-Measure-AI-Energy-Use-at-Every-Stage-of-the-Workflow.html",
+      "description": "The artificial intelligence boom is creating an energy monster. The indiscriminate integration of machine learning into everything from from our energy grids to our electric toothbrushes – no, really – has created a global race to build up data center capacity as quickly as humanly possible, causing energy demand projections to skyrocket and placing unprecedented strain on the world’s energy grids. By 2030, data center energy consumption is expected to more than double from its 2024 consumption level, which stood at about 420…",
+      "pub_date": "2026-10-31T12:00:00Z",
+      "pub_display": "October 31, 2026",
+      "category": "technology",
+      "slug": "darpa-backs-project-to-measure-ai-energy-use-at-every-stage-of-the-workflow",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-darpa-backs-project-to-measure-ai-energy-use-at-every-stage-of-the-workflow.html"
+    },
     {
       "title": "Big Oil Scores $56B Windfall on Spiking Fuel Prices",
       "link": "https://www.rigzone.com/news/wire/big_oil_scores_56b_windfall_on_spiking_fuel_prices-31-oct-2026-184980-article/?rss=true",
@@ -13,6 +73,18 @@
       "read_time": 1,
       "source": "Rigzone Latest",
       "filename": "article-big-oil-scores-56b-windfall-on-spiking-fuel-prices.html"
+    },
+    {
+      "title": "Senegal’s Ambitious Plan to Slash Electricity Costs and Boost Energy Security",
+      "link": "https://oilprice.com/Energy/Energy-General/Senegals-Ambitious-Plan-to-Slash-Electricity-Costs-and-Boost-Energy-Security.html",
+      "description": "The government of Senegal has ambitious energy diversification aims, with plans to develop both the country’s oil and gas sector and grow its renewable energy capacity. As part of its Vision 2050 plan, the government aims to reduce energy costs and enhance energy security by diversifying energy sources. The government has announced several renewable projects in recent years and has recently made blocks available for oil and gas exploration to achieve these aims. Some of the government’s principal aims include expanding Senegal's energy…",
+      "pub_date": "2026-10-31T10:00:00Z",
+      "pub_display": "October 31, 2026",
+      "category": "exploration",
+      "slug": "senegal-s-ambitious-plan-to-slash-electricity-costs-and-boost-energy-security",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-senegal-s-ambitious-plan-to-slash-electricity-costs-and-boost-energy-security.html"
     },
     {
       "title": "Oil Creeps Higher Amid Uncertainty Over USA Strategy in Iran",
@@ -217,78 +289,6 @@
       "read_time": 1,
       "source": "OilPrice.com",
       "filename": "article-america-s-lng-boom-faces-its-biggest-test-yet.html"
-    },
-    {
-      "title": "Japan to Overtake China As World’s Top LNG Importer This Year",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japan-to-Overtake-China-As-Worlds-Top-LNG-Importer-This-Year.html",
-      "description": "Japan is expected to overtake China as the world’s largest importer of liquefied natural gas (LNG) this year, for the first time since 2022, as high LNG prices and sufficient storage in China limit purchases, analysts at ICIS and Kpler say. Japan’s LNG demand will exceed, albeit slightly, demand in China, according to estimates by the consultancies compiled by Reuters. Imports into Japan are estimated at 62 million metric tons, while Chinese imports are expected at 61 million tons this year, according to ICIS. Kpler also sees…",
-      "pub_date": "2026-10-30T10:30:00Z",
-      "pub_display": "October 30, 2026",
-      "category": "lng",
-      "slug": "japan-to-overtake-china-as-world-s-top-lng-importer-this-year",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-japan-to-overtake-china-as-world-s-top-lng-importer-this-year.html"
-    },
-    {
-      "title": "Ineos Responds to UK Budget",
-      "link": "https://www.rigzone.com/news/ineos_responds_to_uk_budget-30-oct-2026-184972-article/?rss=true",
-      "description": "The UK's Autumn Budget was described by global chemical company Ineos as 'a major missed opportunity to save British manufacturing'.",
-      "pub_date": "2026-10-30T10:06:43Z",
-      "pub_display": "October 30, 2026",
-      "category": "production",
-      "slug": "ineos-responds-to-uk-budget",
-      "read_time": 1,
-      "source": "Rigzone Latest",
-      "filename": "article-ineos-responds-to-uk-budget.html"
-    },
-    {
-      "title": "Equinor Doubles Estimate for Afrodite Gas Discovery",
-      "link": "https://www.rigzone.com/news/equinor_doubles_estimate_for_afrodite_gas_discovery-30-oct-2026-184971-article/?rss=true",
-      "description": "An appraisal well showed that the Afrodite discovery near the Kvitebjorn field on Norway's side of the North Sea potentially holds 77-180 million barrels of oil equivalent recoverable natural gas and condensate.",
-      "pub_date": "2026-10-30T10:05:53Z",
-      "pub_display": "October 30, 2026",
-      "category": "production",
-      "slug": "equinor-doubles-estimate-for-afrodite-gas-discovery",
-      "read_time": 1,
-      "source": "Rigzone Latest",
-      "filename": "article-equinor-doubles-estimate-for-afrodite-gas-discovery.html"
-    },
-    {
-      "title": "European Gas Tops 101 Euros for First Time Since 2022",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/European-Gas-Tops-101-Euros-for-First-Time-Since-2022.html",
-      "description": "Europe’s benchmark natural gas prices have topped 101 euros per megawatt-hour (MWh) for the first time since the 2022 crisis as winter looms amid historically low European gas storage levels. The front-month price at the Dutch Title Transfer Facility (TTF), the benchmark for Europe’s gas trading, surged by 4% as of 9 a.m. in Amsterdam on Friday. The TTF price was on track for an 8% weekly gain amid mounting concerns that the escalation in the Middle East would continue to choke off Qatari and Emirati LNG flows through the Strait…",
-      "pub_date": "2026-10-30T09:30:00Z",
-      "pub_display": "October 30, 2026",
-      "category": "lng",
-      "slug": "european-gas-tops-101-euros-for-first-time-since-2022",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-european-gas-tops-101-euros-for-first-time-since-2022.html"
-    },
-    {
-      "title": "TotalEnergies posts $8.3bn Q3 net income on refining gains",
-      "link": "https://www.offshore-technology.com/news/totalenergies-q3-2026-results/",
-      "description": "TotalEnergies more than doubled its net income in the third quarter of 2026 (Q3 2026), posting $8.3bn compared with $3.7bn a year earlier.",
-      "pub_date": "2026-10-30T09:11:20Z",
-      "pub_display": "October 30, 2026",
-      "category": "technology",
-      "slug": "totalenergies-posts-8-3bn-q3-net-income-on-refining-gains",
-      "read_time": 1,
-      "source": "Offshore Technology",
-      "filename": "article-totalenergies-posts-8-3bn-q3-net-income-on-refining-gains.html"
-    },
-    {
-      "title": "Trump Considers Lifting Sanctions on Putin’s ‘Slush Fund’",
-      "link": "https://oilprice.com/Geopolitics/Europe/Trump-Considers-Lifting-Sanctions-on-Putins-Slush-Fund.html",
-      "description": "Four days after Russia launched its all-out effort to subjugate Ukraine, the US government and other Western allies fired a broadside of financial sanctions aimed at punishing the Kremlin’s wallet for the assault. The Russian Central Bank was prominent. So was a multibillion-dollar sovereign wealth fund that the Kremlin calls the Russian Direct Investment Fund, or RDIF. The U.S. Treasury called it “a slush fund for President Vladimir Putin [that] is emblematic of Russia’s broader kleptocracy.” After months of dormancy,…",
-      "pub_date": "2026-10-30T09:00:00Z",
-      "pub_display": "October 30, 2026",
-      "category": "technology",
-      "slug": "trump-considers-lifting-sanctions-on-putin-s-slush-fund",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-trump-considers-lifting-sanctions-on-putin-s-slush-fund.html"
     }
   ]
 }
