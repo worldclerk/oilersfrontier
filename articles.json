@@ -1,7 +1,103 @@
 {
-  "updated": "2026-11-13 15:46:25",
+  "updated": "2026-11-14 14:37:29",
   "count": 24,
   "articles": [
+    {
+      "title": "Mozambique, South Africa LNG Terminal Deal Seen by January",
+      "link": "https://www.rigzone.com/news/wire/mozambique_south_africa_lng_terminal_deal_seen_by_january-14-nov-2026-185082-article/?rss=true",
+      "description": "Rompco expects to conclude an agreement by January for a new liquefied natural gas terminal, its CEO said.",
+      "pub_date": "2026-11-14T12:00:00Z",
+      "pub_display": "November 14, 2026",
+      "category": "lng",
+      "slug": "mozambique-south-africa-lng-terminal-deal-seen-by-january",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-mozambique-south-africa-lng-terminal-deal-seen-by-january.html"
+    },
+    {
+      "title": "Crude Fluctuates as Iran Tensions Persist",
+      "link": "https://www.rigzone.com/news/wire/crude_fluctuates_as_iran_tensions_persist-13-nov-2026-185085-article/?rss=true",
+      "description": "Brent settled near $96 as Middle East supply risks offset signs of an oil surplus.",
+      "pub_date": "2026-11-13T20:49:29Z",
+      "pub_display": "November 13, 2026",
+      "category": "markets",
+      "slug": "crude-fluctuates-as-iran-tensions-persist",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-crude-fluctuates-as-iran-tensions-persist.html"
+    },
+    {
+      "title": "Benin Ships 1st Crude Cargo for Decades From Revived Oil Field",
+      "link": "https://www.rigzone.com/news/wire/benin_ships_1st_crude_cargo_for_decades_from_revived_oil_field-13-nov-2026-185084-article/?rss=true",
+      "description": "Benin has rejoined the ranks of West Africa's oil-exporting states.",
+      "pub_date": "2026-11-13T20:00:00Z",
+      "pub_display": "November 13, 2026",
+      "category": "markets",
+      "slug": "benin-ships-1st-crude-cargo-for-decades-from-revived-oil-field",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-benin-ships-1st-crude-cargo-for-decades-from-revived-oil-field.html"
+    },
+    {
+      "title": "Iran Braces for a Budget Without Oil Revenue",
+      "link": "https://oilprice.com/Energy/Energy-General/Iran-Braces-for-a-Budget-Without-Oil-Revenue.html",
+      "description": "Iran is drafting next year’s budget under the premise that oil revenue could fall to zero, with senior budget official Mohammad Ghasemi telling the government on Monday to prepare for that scenario, as the country appears to be weeks away from that eventuality. Iran has loaded no crude since August 25, according to the US Treasury, and the oil it held at sea outside the US blockade fell from 88.8 million barrels in mid-July to zero by mid-October. Chinese buyers pay one to two months after delivery, so Kpler expects that revenue could stop…",
+      "pub_date": "2026-11-13T17:00:00Z",
+      "pub_display": "November 13, 2026",
+      "category": "production",
+      "slug": "iran-braces-for-a-budget-without-oil-revenue",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-iran-braces-for-a-budget-without-oil-revenue.html"
+    },
+    {
+      "title": "Ukraine Hits 9th Russian Oil Refinery Since Start of Nov",
+      "link": "https://www.rigzone.com/news/wire/ukraine_hits_9th_russian_oil_refinery_since_start_of_nov-13-nov-2026-185083-article/?rss=true",
+      "description": "Ukraine continued its campaign of near daily strikes on Russian oil assets.",
+      "pub_date": "2026-11-13T16:20:57Z",
+      "pub_display": "November 13, 2026",
+      "category": "technology",
+      "slug": "ukraine-hits-9th-russian-oil-refinery-since-start-of-nov",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-ukraine-hits-9th-russian-oil-refinery-since-start-of-nov.html"
+    },
+    {
+      "title": "USA Crude Oil Stocks Rise Almost 5MM Barrels Week on Week",
+      "link": "https://www.rigzone.com/news/usa_crude_oil_stocks_rise_almost_5mm_barrels_week_on_week-13-nov-2026-185081-article/?rss=true",
+      "description": "Commercial crude oil stocks, not including the SPR, came in at 414.417 million barrels on November 6, the EIA's latest weekly petroleum status report revealed.",
+      "pub_date": "2026-11-13T16:06:53Z",
+      "pub_display": "November 13, 2026",
+      "category": "production",
+      "slug": "usa-crude-oil-stocks-rise-almost-5mm-barrels-week-on-week",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-usa-crude-oil-stocks-rise-almost-5mm-barrels-week-on-week.html"
+    },
+    {
+      "title": "ExxonMobil Greenlights Eighth Stabroek Project",
+      "link": "https://www.rigzone.com/news/exxonmobil_greenlights_eighth_stabroek_project-13-nov-2026-185080-article/?rss=true",
+      "description": "ExxonMobil announced a $12.5-billion final investment decision to proceed with Longtail - the first development that is primarily gas and condensate - in the Stabroek block offshore Guyana, after securing government approvals.",
+      "pub_date": "2026-11-13T15:32:01Z",
+      "pub_display": "November 13, 2026",
+      "category": "pipeline",
+      "slug": "exxonmobil-greenlights-eighth-stabroek-project",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-exxonmobil-greenlights-eighth-stabroek-project.html"
+    },
+    {
+      "title": "Will the Senate's BAAJA Bill Let AI Giants Outmuscle Utilities?",
+      "link": "https://oilprice.com/Energy/Energy-General/Will-the-Senates-BAAJA-Bill-Let-AI-Giants-Outmuscle-Utilities.html",
+      "description": "Yesterday the US Senate approved a preliminary version of a bill, the Bipartisan Affordability and Jobs Act, commonly referred to as BAAJA. We previously published an article in Oilprice titled, “The AI Power Grab That Could Upend America’s Utility Industry.” Our thesis was simple. Today’s AI giants (we referred to them as T-Rexes because economically they are akin to apex predators), thanks to their enormous size and political influence, will be permitted to build whatever electric power generating facilities they choose,…",
+      "pub_date": "2026-11-13T15:00:00Z",
+      "pub_display": "November 13, 2026",
+      "category": "markets",
+      "slug": "will-the-senates-baaja-bill-let-ai-giants-outmuscle-utilities",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-will-the-senates-baaja-bill-let-ai-giants-outmuscle-utilities.html"
+    },
     {
       "title": "Murphy Oil Re-Enters Cameroon",
       "link": "https://www.rigzone.com/news/murphy_oil_reenters_cameroon-13-nov-2026-185079-article/?rss=true",
@@ -13,6 +109,30 @@
       "read_time": 1,
       "source": "Rigzone Latest",
       "filename": "article-murphy-oil-re-enters-cameroon.html"
+    },
+    {
+      "title": "Trump Extends Jones Act Waiver For Another 90 Days",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Extends-Jones-Act-Waiver-For-Another-90-Days.html",
+      "description": "President Donald Trump extended the Jones Act waiver for another 90 days on Friday, keeping foreign-flagged tankers eligible to move oil and other commodities between U.S. ports as the war with Iran continues to drive up fuel costs. The extension, confirmed by a White House official who spoke to Reuters, continues what is already the longest waiver in the shipping law's history. Foreign vessels will still need approval for individual voyages due to a restriction introduced in August after earlier blanket exemptions drew opposition from the domestic…",
+      "pub_date": "2026-11-13T13:30:00Z",
+      "pub_display": "November 13, 2026",
+      "category": "pipeline",
+      "slug": "trump-extends-jones-act-waiver-for-another-90-days",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-trump-extends-jones-act-waiver-for-another-90-days.html"
+    },
+    {
+      "title": "Beijing Turns to Soft Power as Washington Expands Central Asia Ties",
+      "link": "https://oilprice.com/Geopolitics/Asia/Beijing-Turns-to-Soft-Power-as-Washington-Expands-Central-Asia-Ties.html",
+      "description": "China is responding to a successful US push to raise its trade profile in Central Asia by launching a far-reaching information campaign to sway hearts and minds in Central Asia’s most populous state. In late October and early November, CGTN, China’s international broadcaster operated by the Communist Party’s Central Propaganda Department, sponsored an unprecedented information campaign touting the PRC’s expansive ties with Uzbekistan. The PR blitz included roughly 70 articles and videos published in the Uzbek and Russian…",
+      "pub_date": "2026-11-13T13:00:00Z",
+      "pub_display": "November 13, 2026",
+      "category": "technology",
+      "slug": "beijing-turns-to-soft-power-as-washington-expands-central-asia-ties",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-beijing-turns-to-soft-power-as-washington-expands-central-asia-ties.html"
     },
     {
       "title": "USA Oil, Gas Workforce Hits Lowest Figure So Far in 2026",
@@ -27,6 +147,42 @@
       "filename": "article-usa-oil-gas-workforce-hits-lowest-figure-so-far-in-2026.html"
     },
     {
+      "title": "Germany Eyes €4 Billion Buyout of RWE and E.ON’s Urenco Stake",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Germany-Eyes-4-Billion-Buyout-of-RWE-and-EONs-Urenco-Stake.html",
+      "description": "Germany’s government plans to buy RWE and E.ON’s one-third stake in uranium enrichment company Urenco for up to €4 billion, German newspapers reported, in a deal Britain requested to keep the stake in European hands as it prepares to use Urenco to make fuel for its military reactors, including those powering its nuclear submarines. Die Welt first reported on Thursday evening that a new line had appeared in the Bundestag’s final deliberations on the 2027 draft budget, setting aside €4 billion for “the acquisition…",
+      "pub_date": "2026-11-13T12:30:00Z",
+      "pub_display": "November 13, 2026",
+      "category": "technology",
+      "slug": "germany-eyes-4-billion-buyout-of-rwe-and-e-on-s-urenco-stake",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-germany-eyes-4-billion-buyout-of-rwe-and-e-on-s-urenco-stake.html"
+    },
+    {
+      "title": "U.S. Oil Rig Count Holds at 463 as Crude Output Hits Another Record",
+      "link": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Rigs-Hold-at-463-as-Crude-Output-Hits-Another-Record.html",
+      "description": "The total number of active drilling rigs for oil and gas in the United States fell this week, according to new data that Baker Hughes published on Friday, with the total rig count in the US falling to 601, up 52 from this same time last year. The number of active oil rigs stayed the same at 463 during the latest reporting period, according to the data. This is 46 above this same time last year. The number of gas rigs fell by 4, which is just 2 more than this time last year. Miscellaneous rigs rose by 1 to 11. The latest EIA data showed that weekly…",
+      "pub_date": "2026-11-13T12:11:00Z",
+      "pub_display": "November 13, 2026",
+      "category": "production",
+      "slug": "u-s-oil-rig-count-holds-at-463-as-crude-output-hits-another-record",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-u-s-oil-rig-count-holds-at-463-as-crude-output-hits-another-record.html"
+    },
+    {
+      "title": "Iraq’s Oil Production Soars to 2019 High as Hormuz Flows Surge",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iraqs-Oil-Production-Soars-to-2019-High-as-Hormuz-Flows-Surge.html",
+      "description": "Iraq’s crude oil production hit 4.6 million barrels per day (bpd) in October, the highest since 2019, data from the International Energy Agency’s monthly report showed on Friday, as OPEC’s second-largest producer hiked output by 540,000 bpd from September. Kuwait and Saudi Arabia also boosted their October crude oil output compared to September, as rising volumes of oil are leaving the Strait of Hormuz on smaller tankers, which then transfer the crude cargoes onto supertankers in the Gulf of Oman. Iraq’s October crude oil…",
+      "pub_date": "2026-11-13T11:30:00Z",
+      "pub_display": "November 13, 2026",
+      "category": "production",
+      "slug": "iraq-s-oil-production-soars-to-2019-high-as-hormuz-flows-surge",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-iraq-s-oil-production-soars-to-2019-high-as-hormuz-flows-surge.html"
+    },
+    {
       "title": "Aramco, PIF Close HUMAIN AI Deal",
       "link": "https://www.rigzone.com/news/aramco_pif_close_humain_ai_deal-13-nov-2026-185076-article/?rss=true",
       "description": "The deal involves approximately $2.6 billion in cash contributions in 2026 from Aramco to HUMAIN, in addition to AI, compute, and digital assets.",
@@ -39,6 +195,18 @@
       "filename": "article-aramco-pif-close-humain-ai-deal.html"
     },
     {
+      "title": "Brent Crude Climbs Back Above $96 as Iran Tensions Escalate",
+      "link": "https://oilprice.com/Energy/Energy-General/Brent-Crude-Climbs-Back-Above-96-as-Iran-Tensions-Escalate.html",
+      "description": "Oil prices bounced back in early trading on Friday as geopolitical risk returns and optimism surrounding potential peace deals fades. Friday, November 6, 2026The initial days of the US’ post-midterms price collapse are gradually making way for a return to the pre-November status quo, with President Trump insinuating that he ‘doesn’t need a deal with Iran’ amidst intensifying Israeli pressure to resume military strikes against Tehran. A worsening outlook for any peaceful settlement of the Russia-Ukraine war, as well…",
+      "pub_date": "2026-11-13T11:00:00Z",
+      "pub_display": "November 13, 2026",
+      "category": "markets",
+      "slug": "brent-crude-climbs-back-above-96-as-iran-tensions-escalate",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-brent-crude-climbs-back-above-96-as-iran-tensions-escalate.html"
+    },
+    {
       "title": "Eni Plans Nearly $15B Gross Investment in UK through 2030",
       "link": "https://www.rigzone.com/news/eni_plans_nearly_15b_gross_investment_in_uk_through_2030-13-nov-2026-185075-article/?rss=true",
       "description": "Eni unveiled plans for around GBP 11 billion in 'gross investments' in the United Kingdom between 2026 and 2030, focused on lower-carbon projects.",
@@ -49,6 +217,30 @@
       "read_time": 1,
       "source": "Rigzone Latest",
       "filename": "article-eni-plans-nearly-15b-gross-investment-in-uk-through-2030.html"
+    },
+    {
+      "title": "India's Road Fuel Demand Won't Peak Until 2034",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Road-Fuel-Demand-Wont-Peak-Until-2034.html",
+      "description": "India’s fuel demand for road transportation is nearly a decade away from peaking despite rising sales of electric two- and three-wheelers, as commercial transport and conventional fleets will keep using greater volumes of gasoline and diesel, BloombergNEF has said. India’s fuel demand for road transportation is expected to peak at above 2.5 million barrels per day (bpd) in 2034, research firm BloombergNEF said in its India Electric Vehicle Outlook 2026. India’s rising road fuel demand could sustain global oil demand growth for…",
+      "pub_date": "2026-11-13T10:30:00Z",
+      "pub_display": "November 13, 2026",
+      "category": "production",
+      "slug": "indias-road-fuel-demand-wont-peak-until-2034",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-indias-road-fuel-demand-wont-peak-until-2034.html"
+    },
+    {
+      "title": "Germany Is Dismantling a Nord Stream Power Plant for Ukraine",
+      "link": "https://oilprice.com/Energy/Energy-General/Germany-Is-Dismantling-a-Nord-Stream-Power-Plant-for-Ukraine.html",
+      "description": "A power plant built at the landfall of the Nord Stream gas pipelines in northeastern Germany was shut down after the pipelines were sabotaged. Now the facility is being dismantled and sent to Ukraine. The Greifswald industrial power plant in Lubmin is majority owned by Germany’s Securing Energy for Europe (SEFE). Adrianne Montgobert, a spokesperson for the state-owned company, confirmed to RFE/RL that dismantling of the plant is currently under way, with its transfer being managed by a team from Naftogaz, Ukraine’s oil and gas giant.…",
+      "pub_date": "2026-11-13T10:10:00Z",
+      "pub_display": "November 13, 2026",
+      "category": "pipeline",
+      "slug": "germany-is-dismantling-a-nord-stream-power-plant-for-ukraine",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-germany-is-dismantling-a-nord-stream-power-plant-for-ukraine.html"
     },
     {
       "title": "SLB wins Vår Energi integrated drilling services deal on NCS",
@@ -97,198 +289,6 @@
       "read_time": 1,
       "source": "OilPrice.com",
       "filename": "article-iran-rules-out-return-of-un-nuclear-inspectors-as-u-s-war-talks-stall.html"
-    },
-    {
-      "title": "How Global Energy Markets Survived Eight Months of Iran War Disruptions",
-      "link": "https://oilprice.com/Energy/Energy-General/How-Global-Energy-Markets-Survived-Eight-Months-of-Iran-War-Disruptions.html",
-      "description": "Six months ago, I wrote that Americans were experiencing the Iran war primarily through higher prices, while much of the rest of the world was confronting something more serious: actual shortages of fuel and other critical products. In “The U.S. Feels Higher Prices While The World Is Facing Fuel Shortages,” I highlighted several pressure points created by the disruption of traffic through the Strait of Hormuz. India was struggling to secure liquefied petroleum gas, or LPG, fertilizer markets were tightening, Europe faced potential…",
-      "pub_date": "2026-11-13T08:30:00Z",
-      "pub_display": "November 13, 2026",
-      "category": "markets",
-      "slug": "how-global-energy-markets-survived-eight-months-of-iran-war-disruptions",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-how-global-energy-markets-survived-eight-months-of-iran-war-disruptions.html"
-    },
-    {
-      "title": "Pakistan Scrambles for LNG as Winter Gas Crisis Deepens",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Scrambles-for-LNG-as-Winter-Gas-Crisis-Deepens.html",
-      "description": "State-owned Pakistan LNG Limited (PLL) has issued a tender to purchase two LNG cargoes from international suppliers for delivery in mid-December and early January, Business Recorder reports, citing a tender notice. Winning bidders in the tender are expected to deliver the LNG cargoes on a delivered ex-ship (DES) basis at Port Qasim, one in the December 14-16 window, and the other between January 9 and 11, 2027. The new tender is a re-issue of a previous one, in which Pakistan had rejected bids from two suppliers, who had quoted prices of between…",
-      "pub_date": "2026-11-13T08:15:00Z",
-      "pub_display": "November 13, 2026",
-      "category": "markets",
-      "slug": "pakistan-scrambles-for-lng-as-winter-gas-crisis-deepens",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-pakistan-scrambles-for-lng-as-winter-gas-crisis-deepens.html"
-    },
-    {
-      "title": "ExxonMobil to invest $12.5bn in Longtail development offshore Guyana",
-      "link": "https://www.offshore-technology.com/news/exxonmobil-12-5bn-longtail-offshore-guyana/",
-      "description": "ExxonMobil, through its subsidiary ExxonMobil Guyana, has reached a final investment decision (FID) to move forward with the development of the Longtail field, located offshore Guyana.",
-      "pub_date": "2026-11-13T07:56:08Z",
-      "pub_display": "November 13, 2026",
-      "category": "offshore",
-      "slug": "exxonmobil-to-invest-12-5bn-in-longtail-development-offshore-guyana",
-      "read_time": 1,
-      "source": "Offshore Technology",
-      "filename": "article-exxonmobil-to-invest-12-5bn-in-longtail-development-offshore-guyana.html"
-    },
-    {
-      "title": "Iran Says Gas Tanker Hit Mine in Strait of Hormuz",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Says-Gas-Tanker-Hit-Mine-in-Strait-of-Hormuz.html",
-      "description": "A tanker carrying liquefied gas hit a mine and suffered an explosion on Friday while attempting to transit the Strait of Hormuz via a route not authorized by Iran, the Islamic Revolutionary Guard Corps (IRGC) Navy said. The vessel was using an “unauthorised and dangerous route” in the Strait of Hormuz, according to Iran’s state media cited by Reuters. The attacks on vessels carrying energy products through the Strait of Hormuz have intensified in the past month, with Iran reporting incidents nearly every day. On Thursday,…",
-      "pub_date": "2026-11-13T06:45:00Z",
-      "pub_display": "November 13, 2026",
-      "category": "production",
-      "slug": "iran-says-gas-tanker-hit-mine-in-strait-of-hormuz",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-iran-says-gas-tanker-hit-mine-in-strait-of-hormuz.html"
-    },
-    {
-      "title": "Nvidia Spy Scandal Threatens the Gulf’s AI Ambitions",
-      "link": "https://oilprice.com/Energy/Energy-General/Nvidia-Spy-Scandal-Threatens-the-Gulfs-AI-Ambitions.html",
-      "description": "Politics, Geopolitics & Conflict A car bomb killed the chief navigator of Russia’s St. Petersburg-based 6th Guards Air and Air Defence Forces Army on Thursday morning, a day after Ukrainian drones set an oil terminal at Ust-Luga on fire and forced flight restrictions at St. Petersburg’s Pulkovo airport. The colonel’s car exploded about 300 meters from his apartment in Shushary, the same suburb where a car bomb killed a helicopter regiment officer in August. Investigators believe a 31-year-old local planted the device overnight…",
-      "pub_date": "2026-11-13T06:30:00Z",
-      "pub_display": "November 13, 2026",
-      "category": "lng",
-      "slug": "nvidia-spy-scandal-threatens-the-gulf-s-ai-ambitions",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-nvidia-spy-scandal-threatens-the-gulf-s-ai-ambitions.html"
-    },
-    {
-      "title": "Why Falling Oil Prices Won't Save America From Inflation",
-      "link": "https://oilprice.com/Energy/Energy-General/Why-Falling-Oil-Prices-Wont-Save-America-From-Inflation.html",
-      "description": "Don’t look to falling oil prices to stave off inflation now. Brent is down from above $100 to the low $90s; Saudi Arabia pumped 10.56 million barrels a day in October, back at pre-war levels and above its quota, and gasoline just posted its steepest one-day drop in 18 years. Consumer prices still rose an estimated 4% from a year earlier in October, with pump prices slightly lower, up from 3.7% in September, and core prices rose 0.3% in a single month. Expect the Fed to hike in December, but markets have already priced this in. October’s…",
-      "pub_date": "2026-11-13T06:30:00Z",
-      "pub_display": "November 13, 2026",
-      "category": "markets",
-      "slug": "why-falling-oil-prices-wont-save-america-from-inflation",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-why-falling-oil-prices-wont-save-america-from-inflation.html"
-    },
-    {
-      "title": "WTI Stages Sharp Comeback as Middle East Supply Risks Intensify",
-      "link": "https://oilprice.com/Energy/Energy-General/WTI-Stages-Sharp-Comeback-as-Middle-East-Supply-Risks-Intensify.html",
-      "description": "December WTI crude oil futures are lower for the week, but the market has recovered a good portion of its early loss. The contract opened at $90.83, broke to $83.88, then rallied back to $88.20. At that price, WTI is down $2.63 for the week, or 2.90%. Traders took war premium out of crude after President Trump played down the possibility of new U.S. strikes on Iran. Higher Saudi production and a large build in U.S. inventories gave sellers more to work with. But attacks on Saudi energy infrastructure and continued threats to shipping brought buyers…",
-      "pub_date": "2026-11-13T06:30:00Z",
-      "pub_display": "November 13, 2026",
-      "category": "markets",
-      "slug": "wti-stages-sharp-comeback-as-middle-east-supply-risks-intensify",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-wti-stages-sharp-comeback-as-middle-east-supply-risks-intensify.html"
-    },
-    {
-      "title": "Asian Refiners Turn Back to Gulf Oil Despite War Risks",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Asian-Refiners-Turn-Back-to-Gulf-Oil-Despite-War-Risks.html",
-      "description": "Asia’s refiners are back to buying Middle Eastern oil as flows through the Strait of Hormuz rise, freight rates ease from record highs, and Gulf producers are offering their crude at discounts to regional benchmarks. Chinese, Japanese, and Thai oil refiners are increasingly preferring cargoes from the Middle East in recent weeks, even those that need to transit the Strait of Hormuz, traders with knowledge of the matter told Bloomberg on Friday. Refiners in the world’s top crude oil-importing region are buying greater volumes…",
-      "pub_date": "2026-11-13T05:30:00Z",
-      "pub_display": "November 13, 2026",
-      "category": "production",
-      "slug": "asian-refiners-turn-back-to-gulf-oil-despite-war-risks",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-asian-refiners-turn-back-to-gulf-oil-despite-war-risks.html"
-    },
-    {
-      "title": "India Seeks Private Investors for $910 Million Oil Reserve",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Seeks-Private-Investors-for-910-Million-Oil-Reserve.html",
-      "description": "India is looking for private investors to build and operate the nation’s largest strategic petroleum reserve site, which will boost India’s SPR capacity by 80% and cost an estimated $910 million, local media reported on Friday, citing tender documents. The proposed SPR site will be located at Chandikhol in the eastern Indian state of Odisha on the Bay of Bengal, and will be capable of holding up to 4 million tons of crude oil. The Indian government is offering a grant of $546 million (51.4 billion Indian rupees) to support private…",
-      "pub_date": "2026-11-13T04:15:00Z",
-      "pub_display": "November 13, 2026",
-      "category": "exploration",
-      "slug": "india-seeks-private-investors-for-910-million-oil-reserve",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-india-seeks-private-investors-for-910-million-oil-reserve.html"
-    },
-    {
-      "title": "Asian Airlines Face a $148-a-Barrel Fuel Gamble",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Asian-Airlines-Face-a-148-a-Barrel-Fuel-Gamble.html",
-      "description": "Asian airlines are facing expiring jet fuel hedge contracts and need to make a choice about whether to hedge at exorbitant prices or risk them going even higher without a hedge. Citing industry executives, Reuters reported today that jet fuel prices in Asia are currently about 75% higher than they were before the war in the Middle East started, and that the chance of that changing dramatically in the observable future appears to be slim. “Our view is that we are facing a new normal where the fuel price is there to stay at the levels that…",
-      "pub_date": "2026-11-13T02:50:00Z",
-      "pub_display": "November 13, 2026",
-      "category": "production",
-      "slug": "asian-airlines-face-a-148-a-barrel-fuel-gamble",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-asian-airlines-face-a-148-a-barrel-fuel-gamble.html"
-    },
-    {
-      "title": "Oil Prices Head for Second Weekly Loss Despite Fresh Middle East Attacks",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Head-for-Second-Weekly-Loss-Despite-Fresh-Middle-East-Attacks.html",
-      "description": "Crude oil prices were on course to book their second week of losses today, after two consecutive days of gains on news from the Middle East. At the time of writing, Brent crude was trading at $95.87 per barrel, with West Texas Intermediate at $88.49 per barrel. These price levels are a sharp decline from the peaks hit in mid-October, but are still significantly higher than what Brent crude and WTI traded at in February, before the war started. Signals about that war remain mixed. There appears to be only a moderate risk of serious escalation, but…",
-      "pub_date": "2026-11-12T23:45:00Z",
-      "pub_display": "November 12, 2026",
-      "category": "markets",
-      "slug": "oil-prices-head-for-second-weekly-loss-despite-fresh-middle-east-attacks",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-oil-prices-head-for-second-weekly-loss-despite-fresh-middle-east-attacks.html"
-    },
-    {
-      "title": "Oil Rises as Trump Dims Iran Deal Hopes",
-      "link": "https://www.rigzone.com/news/wire/oil_rises_as_trump_dims_iran_deal_hopes-12-nov-2026-185073-article/?rss=true",
-      "description": "Oil prices rose more than 3% as Trump's comments dampened hopes for a diplomatic breakthrough with Iran.",
-      "pub_date": "2026-11-12T21:50:35Z",
-      "pub_display": "November 12, 2026",
-      "category": "markets",
-      "slug": "oil-rises-as-trump-dims-iran-deal-hopes",
-      "read_time": 1,
-      "source": "Rigzone Latest",
-      "filename": "article-oil-rises-as-trump-dims-iran-deal-hopes.html"
-    },
-    {
-      "title": "VEN Sends First Oil Gear in Years to USA for Repairs",
-      "link": "https://www.rigzone.com/news/wire/ven_sends_first_oil_gear_in_years_to_usa_for_repairs-12-nov-2026-185072-article/?rss=true",
-      "description": "Venezuela is sending state-owned oil equipment to the U.S. for repairs for the first time in more than a decade.",
-      "pub_date": "2026-11-12T21:00:00Z",
-      "pub_display": "November 12, 2026",
-      "category": "technology",
-      "slug": "ven-sends-first-oil-gear-in-years-to-usa-for-repairs",
-      "read_time": 1,
-      "source": "Rigzone Latest",
-      "filename": "article-ven-sends-first-oil-gear-in-years-to-usa-for-repairs.html"
-    },
-    {
-      "title": "Rare Earth Wars: U.S. General Sounds Alarm Over China's Military Leverage",
-      "link": "https://oilprice.com/Energy/Energy-General/Rare-Earth-Wars-US-General-Sounds-Alarm-Over-Chinas-Military-Leverage.html",
-      "description": "On November 3, retired four-star General Jack Keane, the Army's former Vice Chief of Staff, put a warning on the record: China \"has made clear it is prepared to use [America’s] dependence as leverage.\" The dependence he's talking about is America's reliance on Chinese rare earths. And he didn't say it from a cable news set. He said it as a director of REalloys [NASDAQ: ALOY], the company the Army recently selected for exclusive negotiations to build a plant to process dysprosium and terbium on one of its own military bases. And the timing…",
-      "pub_date": "2026-11-12T19:00:00Z",
-      "pub_display": "November 12, 2026",
-      "category": "technology",
-      "slug": "rare-earth-wars-u-s-general-sounds-alarm-over-chinas-military-leverage",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-rare-earth-wars-u-s-general-sounds-alarm-over-chinas-military-leverage.html"
-    },
-    {
-      "title": "Oil Prices Squeezed Between Peace Hopes and Iran Escalation Risk",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Squeezed-Between-Peace-Hopes-and-Iran-Escalation-Risk.html",
-      "description": "Oil prices have crashed about 20% from the late-October peak of $118 per barrel, weighed down by hopes of sustainable de-escalation in the Middle East and the Russia-Ukraine war. For months, traders and hedge funds have often bet on a resolution of the conflicts, only to reactivate buying when talks fall apart. As U.S.-mediated talks between Ukraine and Russia are underway, there are no signs of a breakthrough in either the conflict in Europe or the U.S.-Iran standoff, despite messaging via Qatar. Oil prices have slipped as crude oil flows from…",
-      "pub_date": "2026-11-12T18:00:00Z",
-      "pub_display": "November 12, 2026",
-      "category": "markets",
-      "slug": "oil-prices-squeezed-between-peace-hopes-and-iran-escalation-risk",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-oil-prices-squeezed-between-peace-hopes-and-iran-escalation-risk.html"
-    },
-    {
-      "title": "Venezuela Ends 19-Year Power Monopoly, With Oil Fields First in Line",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Venezuela-Ends-19-Year-Power-Monopoly-With-Oil-Fields-First-in-Line.html",
-      "description": "Venezuela is opening up its electricity sector to private capital for the first time since Hugo Chávez nationalized it in 2007, in a reform passed this week primarily to benefit oil producers and large businesses that can afford euro-pegged tariffs, while the state keeps the hydroelectric dams and main transmission lines that supply most households living with daily blackouts. The law, which the National Assembly passed unanimously on Tuesday, lets oil producers build power plants for their own fields without state authorization, as long…",
-      "pub_date": "2026-11-12T17:00:00Z",
-      "pub_display": "November 12, 2026",
-      "category": "regulations",
-      "slug": "venezuela-ends-19-year-power-monopoly-with-oil-fields-first-in-line",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-venezuela-ends-19-year-power-monopoly-with-oil-fields-first-in-line.html"
     }
   ]
 }
