@@ -1,7 +1,67 @@
 {
-  "updated": "2026-11-14 14:37:29",
+  "updated": "2026-11-15 15:05:31",
   "count": 24,
   "articles": [
+    {
+      "title": "Repsol Approves 150 MW Tarragona Green Hydrogen Project",
+      "link": "https://www.rigzone.com/news/repsol_approves_150_mw_tarragona_green_hydrogen_project-15-nov-2026-185078-article/?rss=true",
+      "description": "Repsol greenlighted a 150-megawatt electrolyzer in Tarragona, Spain, which could produce over 22,000 metric tons a year of renewable hydrogen.",
+      "pub_date": "2026-11-15T12:00:00Z",
+      "pub_display": "November 15, 2026",
+      "category": "production",
+      "slug": "repsol-approves-150-mw-tarragona-green-hydrogen-project",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-repsol-approves-150-mw-tarragona-green-hydrogen-project.html"
+    },
+    {
+      "title": "Electrifying Ambitions Meet Tough Reality in Europe",
+      "link": "https://oilprice.com/Energy/Energy-General/Electrifying-Ambitions-Meet-Tough-Reality-in-Europe.html",
+      "description": "European Union leaders are among the most enthusiastic proponents of maximum electrification to reduce dependence on imported energy commodities. A lot of EU policy pursues precisely that. Yet EU electricity prices last week surged to over 600 euros per MWh on a wind drought, and the bloc still gets over 70% of its final energy consumption from hydrocarbons. Electrification is much easier said than done. In July this year, the European Commission released a plan to turn Europe into the first “electro continent” by boosting the share…",
+      "pub_date": "2026-11-14T18:00:00Z",
+      "pub_display": "November 14, 2026",
+      "category": "markets",
+      "slug": "electrifying-ambitions-meet-tough-reality-in-europe",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-electrifying-ambitions-meet-tough-reality-in-europe.html"
+    },
+    {
+      "title": "Nvidia Without Huang: What a Pause in AI Deals Means for Metals",
+      "link": "https://oilprice.com/Metals/Commodities/Nvidia-Without-Huang-What-a-Pause-in-AI-Deals-Means-for-Metals.html",
+      "description": "Copper slid to its lowest in almost four months on Friday and was heading for a fifth straight weekly loss, with traders blaming Nvidia’s (Nasdaq: NVDA) loss of Jensen Huang for the latest leg down. The exit is a convenient culprit, but the slide started before it. Copper has dropped every week since mid-October, and Goldman Sachs called the correction a matter of positioning in AI-linked stocks, not a sign that fundamentals have loosened. Three-month copper on the London Metal Exchange was down 0.5% at $13,519 a metric ton as of 1000 GMT,…",
+      "pub_date": "2026-11-14T16:00:00Z",
+      "pub_display": "November 14, 2026",
+      "category": "technology",
+      "slug": "nvidia-without-huang-what-a-pause-in-ai-deals-means-for-metals",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-nvidia-without-huang-what-a-pause-in-ai-deals-means-for-metals.html"
+    },
+    {
+      "title": "Iran War Accelerates Southeast Asia’s Renewable Energy Push",
+      "link": "https://oilprice.com/Energy/Energy-General/Iran-War-Accelerates-Southeast-Asias-Renewable-Energy-Push.html",
+      "description": "Several countries in Asia have recognised the need to accelerate the deployment of renewable energy to reduce reliance on fossil fuel imports and support energy diversification. The ongoing conflict in the Middle East has significantly reduced fuel trade in recent months, leading to fears of shortages as countries worldwide scramble to find different suppliers and switch to alternative energy sources. The International Energy Agency (IEA) has previously pointed out the significant potential Asia has to increase its renewable energy capacity, and…",
+      "pub_date": "2026-11-14T14:00:00Z",
+      "pub_display": "November 14, 2026",
+      "category": "lng",
+      "slug": "iran-war-accelerates-southeast-asia-s-renewable-energy-push",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-iran-war-accelerates-southeast-asia-s-renewable-energy-push.html"
+    },
+    {
+      "title": "Singapore Makes a $65 Billion Bet on the Future of Gold",
+      "link": "https://oilprice.com/Metals/Gold/Singapore-Makes-a-65-Billion-Bet-on-the-Future-of-Gold.html",
+      "description": "For three years, the gold story was about who was buying. In 2026, it has become a story about where the metal sleeps at night. On Tuesday, the Monetary Authority of Singapore opened its national currency vault, with room for 500 tons of bullion, to foreign central banks and sovereign entities, and threw in a tax break for the wholesale gold trade to sweeten the deal. The launch lands three weeks after Bloomberg reported that wealthy American, European and Middle Eastern investors are already shipping their bars to the city-state, where privately…",
+      "pub_date": "2026-11-14T12:00:00Z",
+      "pub_display": "November 14, 2026",
+      "category": "regulations",
+      "slug": "singapore-makes-a-65-billion-bet-on-the-future-of-gold",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-singapore-makes-a-65-billion-bet-on-the-future-of-gold.html"
+    },
     {
       "title": "Mozambique, South Africa LNG Terminal Deal Seen by January",
       "link": "https://www.rigzone.com/news/wire/mozambique_south_africa_lng_terminal_deal_seen_by_january-14-nov-2026-185082-article/?rss=true",
@@ -13,6 +73,18 @@
       "read_time": 1,
       "source": "Rigzone Latest",
       "filename": "article-mozambique-south-africa-lng-terminal-deal-seen-by-january.html"
+    },
+    {
+      "title": "America’s Offshore Wind Industry Is Growing Despite Trump’s Crackdown",
+      "link": "https://oilprice.com/Alternative-Energy/Wind-Power/Americas-Offshore-Wind-Industry-Is-Growing-Despite-Trumps-Crackdown.html",
+      "description": "The United States was slow to embrace offshore wind, with its first small-scale commercial wind farm coming online in 2016. It would take another eight years before the country launched its first utility-scale offshore wind project in 2024. While many other countries around the globe were rapidly developing offshore wind projects as part of energy diversification strategies, the United States mainly pursued solar photovoltaics and onshore wind projects. The United States has significant potential to develop its offshore wind capacity, but…",
+      "pub_date": "2026-11-14T10:00:00Z",
+      "pub_display": "November 14, 2026",
+      "category": "offshore",
+      "slug": "america-s-offshore-wind-industry-is-growing-despite-trump-s-crackdown",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-america-s-offshore-wind-industry-is-growing-despite-trump-s-crackdown.html"
     },
     {
       "title": "Crude Fluctuates as Iran Tensions Persist",
@@ -217,78 +289,6 @@
       "read_time": 1,
       "source": "Rigzone Latest",
       "filename": "article-eni-plans-nearly-15b-gross-investment-in-uk-through-2030.html"
-    },
-    {
-      "title": "India's Road Fuel Demand Won't Peak Until 2034",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Road-Fuel-Demand-Wont-Peak-Until-2034.html",
-      "description": "India’s fuel demand for road transportation is nearly a decade away from peaking despite rising sales of electric two- and three-wheelers, as commercial transport and conventional fleets will keep using greater volumes of gasoline and diesel, BloombergNEF has said. India’s fuel demand for road transportation is expected to peak at above 2.5 million barrels per day (bpd) in 2034, research firm BloombergNEF said in its India Electric Vehicle Outlook 2026. India’s rising road fuel demand could sustain global oil demand growth for…",
-      "pub_date": "2026-11-13T10:30:00Z",
-      "pub_display": "November 13, 2026",
-      "category": "production",
-      "slug": "indias-road-fuel-demand-wont-peak-until-2034",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-indias-road-fuel-demand-wont-peak-until-2034.html"
-    },
-    {
-      "title": "Germany Is Dismantling a Nord Stream Power Plant for Ukraine",
-      "link": "https://oilprice.com/Energy/Energy-General/Germany-Is-Dismantling-a-Nord-Stream-Power-Plant-for-Ukraine.html",
-      "description": "A power plant built at the landfall of the Nord Stream gas pipelines in northeastern Germany was shut down after the pipelines were sabotaged. Now the facility is being dismantled and sent to Ukraine. The Greifswald industrial power plant in Lubmin is majority owned by Germany’s Securing Energy for Europe (SEFE). Adrianne Montgobert, a spokesperson for the state-owned company, confirmed to RFE/RL that dismantling of the plant is currently under way, with its transfer being managed by a team from Naftogaz, Ukraine’s oil and gas giant.…",
-      "pub_date": "2026-11-13T10:10:00Z",
-      "pub_display": "November 13, 2026",
-      "category": "pipeline",
-      "slug": "germany-is-dismantling-a-nord-stream-power-plant-for-ukraine",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-germany-is-dismantling-a-nord-stream-power-plant-for-ukraine.html"
-    },
-    {
-      "title": "SLB wins Vår Energi integrated drilling services deal on NCS",
-      "link": "https://www.offshore-technology.com/news/slb-wins-var-energi-drilling-services-ncs/",
-      "description": "Energy technology company SLB has been selected by Vår Energi as the main supplier of integrated drilling services for the Transocean Barents and Deepsea Bergen rigs operating on the Norwegian Continental Shelf (NCS).",
-      "pub_date": "2026-11-13T09:55:11Z",
-      "pub_display": "November 13, 2026",
-      "category": "technology",
-      "slug": "slb-wins-v-r-energi-integrated-drilling-services-deal-on-ncs",
-      "read_time": 1,
-      "source": "Offshore Technology",
-      "filename": "article-slb-wins-v-r-energi-integrated-drilling-services-deal-on-ncs.html"
-    },
-    {
-      "title": "Reliance plans $4.6bn investment in Andhra Pradesh coal-to-gas project",
-      "link": "https://www.offshore-technology.com/news/reliance-investment-coal-to-gas-project/",
-      "description": "Indian multinational conglomerate Reliance Industries has outlined plans to invest approximately Rs430bn ($4.57bn) in a facility to transform underground coal into gas in Andhra Pradesh, India, according to a government memorandum reviewed by Reuters.",
-      "pub_date": "2026-11-13T09:50:18Z",
-      "pub_display": "November 13, 2026",
-      "category": "upstream",
-      "slug": "reliance-plans-4-6bn-investment-in-andhra-pradesh-coal-to-gas-project",
-      "read_time": 1,
-      "source": "Offshore Technology",
-      "filename": "article-reliance-plans-4-6bn-investment-in-andhra-pradesh-coal-to-gas-project.html"
-    },
-    {
-      "title": "IEA Sees Oil Surplus for First Time in Iran War",
-      "link": "https://www.rigzone.com/news/wire/iea_sees_oil_surplus_for_first_time_in_iran_war-13-nov-2026-185074-article/?rss=true",
-      "description": "'The oil market is showing tentative signs of rebalancing, with global oil supplies surpassing demand for the first time since the outbreak of the war in Iran'.",
-      "pub_date": "2026-11-13T09:36:32Z",
-      "pub_display": "November 13, 2026",
-      "category": "markets",
-      "slug": "iea-sees-oil-surplus-for-first-time-in-iran-war",
-      "read_time": 1,
-      "source": "Rigzone Latest",
-      "filename": "article-iea-sees-oil-surplus-for-first-time-in-iran-war.html"
-    },
-    {
-      "title": "Iran Rules Out Return of UN Nuclear Inspectors as U.S. War Talks Stall",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Rules-Out-Return-of-UN-Nuclear-Inspectors-as-US-War-Talks-Stall.html",
-      "description": "Iran continues to divert attempts by the International Atomic Energy Agency (IAEA) to access and verify the Iranian stockpile of enriched uranium and rules out any engagement with the UN’s agency’s inspectors amid the standoff in the war with the U.S. “It is more than a year since the agency lost continuity of knowledge in relation to the previously declared inventories of highly-enriched uranium,” IAEA Director General Rafael Mariano Grossi wrote in a restricted report, which was circulated in Vienna on Friday and was seen…",
-      "pub_date": "2026-11-13T09:30:00Z",
-      "pub_display": "November 13, 2026",
-      "category": "markets",
-      "slug": "iran-rules-out-return-of-un-nuclear-inspectors-as-u-s-war-talks-stall",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-iran-rules-out-return-of-un-nuclear-inspectors-as-u-s-war-talks-stall.html"
     }
   ]
 }
