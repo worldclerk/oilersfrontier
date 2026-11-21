@@ -1,7 +1,67 @@
 {
-  "updated": "2026-11-20 16:29:26",
+  "updated": "2026-11-21 15:45:55",
   "count": 24,
   "articles": [
+    {
+      "title": "Saudis Make Deal with Japan to Replenish Oil Stocks",
+      "link": "https://www.rigzone.com/news/wire/saudis_make_deal_with_japan_to_replenish_oil_stocks-21-nov-2026-185137-article/?rss=true",
+      "description": "Saudi Arabia reached an agreement to help replenish Japan's depleted crude stockpiles and expand the kingdom's own storage capacity in the Asian country.",
+      "pub_date": "2026-11-21T12:00:00Z",
+      "pub_display": "November 21, 2026",
+      "category": "markets",
+      "slug": "saudis-make-deal-with-japan-to-replenish-oil-stocks",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-saudis-make-deal-with-japan-to-replenish-oil-stocks.html"
+    },
+    {
+      "title": "Oil Posts Third Weekly Loss Amid Surplus",
+      "link": "https://www.rigzone.com/news/wire/oil_posts_third_weekly_loss_amid_surplus-20-nov-2026-185141-article/?rss=true",
+      "description": "Oil prices remained under pressure despite Middle East tensions, with analysts warning of a growing supply surplus.",
+      "pub_date": "2026-11-20T21:25:54Z",
+      "pub_display": "November 20, 2026",
+      "category": "markets",
+      "slug": "oil-posts-third-weekly-loss-amid-surplus",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-oil-posts-third-weekly-loss-amid-surplus.html"
+    },
+    {
+      "title": "Indian Refiners Race to Secure Oil Tankers",
+      "link": "https://www.rigzone.com/news/wire/indian_refiners_race_to_secure_oil_tankers-20-nov-2026-185139-article/?rss=true",
+      "description": "Indian refiners are rushing to lock in tankers on long-term contracts.",
+      "pub_date": "2026-11-20T20:00:00Z",
+      "pub_display": "November 20, 2026",
+      "category": "regulations",
+      "slug": "indian-refiners-race-to-secure-oil-tankers",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-indian-refiners-race-to-secure-oil-tankers.html"
+    },
+    {
+      "title": "Oil Prices Caught Between a Looming Glut and Middle East Turmoil",
+      "link": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Caught-Between-a-Looming-Glut-and-Middle-East-Turmoil.html",
+      "description": "Oil prices have traded in a narrow range over the past few sessions as forecasts of a coming surplus collide with continued attacks and stalled diplomacy in the Middle East. A run of agency reports this month has pushed expectations toward oversupply and weighed on crude. Brent crude was up 0.22% at $92.18 per barrel in early trade on Friday, well below its October levels above $110 but little changed from the start of the week, while WTI crude had gained 0.35% to $82.73 per barrel. The International Energy Agency (IEA) said in its November Oil…",
+      "pub_date": "2026-11-20T18:00:00Z",
+      "pub_display": "November 20, 2026",
+      "category": "markets",
+      "slug": "oil-prices-caught-between-a-looming-glut-and-middle-east-turmoil",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-oil-prices-caught-between-a-looming-glut-and-middle-east-turmoil.html"
+    },
+    {
+      "title": "Argentine Energy Firms Rush to Sell Bonds Before the 2027 Election",
+      "link": "https://oilprice.com/Energy/Energy-General/Argentine-Energy-Firms-Rush-to-Sell-Bonds-Before-the-2027-Election.html",
+      "description": "Argentina’s energy sector is having a banner year. The first half of 2026 saw the South American nation’s best energy trade balance in half a decade as exports boomed thanks to a drop in exports out of the Middle East and strong production numbers out of the Vaca Muerta shale play. And Argentina’s energy export boom isn’t over. This week, major underwriter Banco Santander announced that a wave of dollar bond sales out of Argentina is projected to extend into the first half of 2027 as the nation’s energy sector continues…",
+      "pub_date": "2026-11-20T16:00:00Z",
+      "pub_display": "November 20, 2026",
+      "category": "production",
+      "slug": "argentine-energy-firms-rush-to-sell-bonds-before-the-2027-election",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-argentine-energy-firms-rush-to-sell-bonds-before-the-2027-election.html"
+    },
     {
       "title": "USA Crude Oil Stocks Rise Over 3 Million Barrels WoW",
       "link": "https://www.rigzone.com/news/usa_crude_oil_stocks_rise_over_3_million_barrels_wow-20-nov-2026-185140-article/?rss=true",
@@ -39,6 +99,18 @@
       "filename": "article-energy-transfer-seals-vaquero-acquisition.html"
     },
     {
+      "title": "US Data Center Boom Faces a New Political Reality",
+      "link": "https://oilprice.com/Energy/Energy-General/US-Data-Center-Boom-Faces-a-New-Political-Reality.html",
+      "description": "Starting in January, Democratic governors will lead US states that together hold 77% of the 300 gigawatts (GW) of data center capacity announced for 2027-2030, including the five largest markets: Texas, Virginia, Pennsylvania, Ohio and Georgia. Most of the winning candidates campaigned on making data centers pay their grid costs, rather than on stopping them, so the midterms are likely to change the terms of growth more than its pace. Our risked forecast expects 121 GW to be added in 2027-2030, including about 49 GW of the 191 GW planned for 2029-30.…",
+      "pub_date": "2026-11-20T13:00:00Z",
+      "pub_display": "November 20, 2026",
+      "category": "technology",
+      "slug": "us-data-center-boom-faces-a-new-political-reality",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-us-data-center-boom-faces-a-new-political-reality.html"
+    },
+    {
       "title": "USA EIA Sees Henry Hub NatGas Price Dropping in 2026, 2027",
       "link": "https://www.rigzone.com/news/usa_eia_sees_henry_hub_natgas_price_dropping_in_2026_2027-20-nov-2026-185134-article/?rss=true",
       "description": "The U.S. Energy Information Administration projected that the U.S. Henry Hub spot price will drop in 2026 and 2027 in its latest short term energy outlook.",
@@ -49,6 +121,18 @@
       "read_time": 1,
       "source": "Rigzone Latest",
       "filename": "article-usa-eia-sees-henry-hub-natgas-price-dropping-in-2026-2027.html"
+    },
+    {
+      "title": "Saudi Arabia Expands Oil Storage in Japan as Tokyo Restocks",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Expands-Oil-Storage-in-Japan-as-Tokyo-Restocks.html",
+      "description": "Japan plans to buy up to 8 million barrels of Saudi crude for the national petroleum reserve it drew down during the Hormuz crisis, under a deal the two countries announced on Friday that makes the purchases subject to favorable market conditions. The deal also gives Saudi Arabia temporary use of an additional 16 million barrels of storage capacity in Japan, expanding the 8 million barrels it already holds there, and the kingdom has begun refilling those tanks, Bloomberg reported. Under the existing arrangement with Saudi Aramco, Japan gets preferential…",
+      "pub_date": "2026-11-20T12:30:00Z",
+      "pub_display": "November 20, 2026",
+      "category": "markets",
+      "slug": "saudi-arabia-expands-oil-storage-in-japan-as-tokyo-restocks",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-saudi-arabia-expands-oil-storage-in-japan-as-tokyo-restocks.html"
     },
     {
       "title": "ORLEN Pens Agreements to Strengthen Gas Supply in Eastern Europe",
@@ -63,6 +147,54 @@
       "filename": "article-orlen-pens-agreements-to-strengthen-gas-supply-in-eastern-europe.html"
     },
     {
+      "title": "U.S. Oil Drillers Pick Up the Pace Just as Oil Prices Fall",
+      "link": "https://oilprice.com/Energy/Energy-General/US-Oil-Drillers-Pick-Up-the-Pace-Just-as-Oil-Prices-Fall.html",
+      "description": "The total number of active drilling rigs for oil and gas in the United States rose this week, according to new data that Baker Hughes published on Friday, with the total rig count in the US rising to 607, up 53 from this same time last year. The number of active oil rigs rose by 6 to 469 during the latest reporting period, according to the data. This is 50 above this same time last year. The number of gas rigs rose by 1, which is just 1 more than this time last year. Miscellaneous rigs fell by 1 to 10. The latest EIA data showed that weekly U.S.…",
+      "pub_date": "2026-11-20T12:09:09Z",
+      "pub_display": "November 20, 2026",
+      "category": "exploration",
+      "slug": "u-s-oil-drillers-pick-up-the-pace-just-as-oil-prices-fall",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-u-s-oil-drillers-pick-up-the-pace-just-as-oil-prices-fall.html"
+    },
+    {
+      "title": "Lufthansa to Slash 1,000 Jobs as Airlines Reel from High Fuel Costs",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Lufthansa-to-Slash-1000-Jobs-as-Airlines-Reel-from-High-Fuel-Costs.html",
+      "description": "Europe’s biggest airline group, Lufthansa, plans to eliminate as many as 1,000 jobs and reduce capacity on short and medium-haul destinations, Bloomberg reported on Friday, citing a letter to employees it had seen. Lufthansa and all other airlines have struggled this year with increasing pressure on profits from soaring fuel prices amid the Middle East conflict. Spiking crude and jet fuel prices are adding billions of dollars to every air carrier’s fuel costs. In early November, Lufthansa Group said that “strong demand and cost…",
+      "pub_date": "2026-11-20T11:30:00Z",
+      "pub_display": "November 20, 2026",
+      "category": "markets",
+      "slug": "lufthansa-to-slash-1-000-jobs-as-airlines-reel-from-high-fuel-costs",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-lufthansa-to-slash-1-000-jobs-as-airlines-reel-from-high-fuel-costs.html"
+    },
+    {
+      "title": "Tankers Are Being Hit Daily. So Why Is Oil Falling?",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Tankers-Are-Being-Hit-Daily-So-Why-Is-Oil-Falling.html",
+      "description": "Brent tumbled 5% to $91 this week, as recovering Gulf oil flows outweigh tanker attacks, Houthi threats and escalating geopolitical tensions. Friday, November 20, 2026 Oil prices are set to post a 5% weekly drop as sentiment is still swayed by ample Middle Eastern barrels flowing to Asian customers. That said, none of the bullish factors of the past months have lost their relevance – Iranian drone strikes on tankers in the Hormuz are running at one clear hit per day; the Russia-Ukraine war is as frenzied as it could be and the Houthis…",
+      "pub_date": "2026-11-20T11:11:05Z",
+      "pub_display": "November 20, 2026",
+      "category": "markets",
+      "slug": "tankers-are-being-hit-daily-so-why-is-oil-falling",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-tankers-are-being-hit-daily-so-why-is-oil-falling.html"
+    },
+    {
+      "title": "The 2026 Midterms Have Changed the Battle for American Energy",
+      "link": "https://oilprice.com/Energy/Energy-General/The-2026-Midterms-Have-Changed-the-Battle-for-American-Energy.html",
+      "description": "The 2026 midterm elections produced a major political shift in Washington. Democrats will control both chambers of Congress when the new session begins in January, during President Donald Trump’s final two years in the White House. That combination almost guarantees more conflict over energy policy, but it does not necessarily mean sweeping changes in federal law. The more consequential changes may occur somewhere else. Governors, state legislatures, and utility commissions have substantial authority over where power plants and transmission…",
+      "pub_date": "2026-11-20T11:00:00Z",
+      "pub_display": "November 20, 2026",
+      "category": "regulations",
+      "slug": "the-2026-midterms-have-changed-the-battle-for-american-energy",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-the-2026-midterms-have-changed-the-battle-for-american-energy.html"
+    },
+    {
       "title": "Shenzhen Summit Fuel Pledge Offers Little Near-Term Relief",
       "link": "https://www.rigzone.com/news/shenzhen_summit_fuel_pledge_offers_little_nearterm_relief-20-nov-2026-185132-article/?rss=true",
       "description": "Rystad Energy outlined that the Shenzhen summit fuel pledge between the U.S., China, and Russia 'offers little near-term relief'.",
@@ -73,6 +205,18 @@
       "read_time": 1,
       "source": "Rigzone Latest",
       "filename": "article-shenzhen-summit-fuel-pledge-offers-little-near-term-relief.html"
+    },
+    {
+      "title": "Norway’s Gas Sales Surge Nearly 20% as Europe Braces for Winter",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Norways-Gas-Sales-Surge-Nearly-20-as-Europe-Braces-for-Winter.html",
+      "description": "Norway’s daily gas sales jumped nearly 20% in October and were 5.6% above year-earlier levels. The rebound comes as the EU heads into winter with its gas storage facilities less than 70% full. Norway sold 11 billion cubic meters of natural gas in October, up 2.1 billion cubic meters from September, according to preliminary figures from the Norwegian Offshore Directorate. Daily sales averaged 355.6 million cubic meters, up from a revised 296.8 million in September and 2.2% above the regulator’s forecast. EU gas storage was 69.8% full…",
+      "pub_date": "2026-11-20T10:30:00Z",
+      "pub_display": "November 20, 2026",
+      "category": "lng",
+      "slug": "norway-s-gas-sales-surge-nearly-20-as-europe-braces-for-winter",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-norway-s-gas-sales-surge-nearly-20-as-europe-braces-for-winter.html"
     },
     {
       "title": "China’s Oil Imports from Persian Gulf Jump to Wartime High",
@@ -145,150 +289,6 @@
       "read_time": 1,
       "source": "Rigzone Latest",
       "filename": "article-gulf-sees-iran-oil-movement-as-us-widens-blockade.html"
-    },
-    {
-      "title": "Trump’s Ukraine Energy Truce Unravels as Russian Missiles Hit Kyiv",
-      "link": "https://oilprice.com/Energy/Energy-General/Trumps-Ukraine-Energy-Truce-Unravels-as-Russian-Missiles-Hit-Kyiv.html",
-      "description": "Politics, Geopolitics & Conflict Trump’s October “energy truce” between Russia and Ukraine in October is over, and Vladimir Putin has taken a new one off the table. After meeting Trump and Xi at the APEC summit on Thursday, Putin said Russia would not negotiate after Ukraine’s strikes on the Crimean Bridge. Russia hit Kyiv with ballistic missiles and drones Friday morning, killing at least three people, damaging three bridges and a critical infrastructure facility, and forcing power cuts in the capital and three western…",
-      "pub_date": "2026-11-20T06:30:00Z",
-      "pub_display": "November 20, 2026",
-      "category": "technology",
-      "slug": "trump-s-ukraine-energy-truce-unravels-as-russian-missiles-hit-kyiv",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-trump-s-ukraine-energy-truce-unravels-as-russian-missiles-hit-kyiv.html"
-    },
-    {
-      "title": "Iraq's Oil Crackdown Sparks New Showdown With Kurdistan",
-      "link": "https://oilprice.com/Energy/Energy-General/Iraqs-Oil-Crackdown-Sparks-New-Showdown-With-Kurdistan.html",
-      "description": "Iraq’s federal government is using its oil-smuggling case against the pro-Iranian militia Kata’ib Hezbollah south of Baghdad to force the Kurdistan Regional Government in the north to hand over more oil and open its fields to federal inspectors. South of Baghdad, the Iraqi PM has ordered federal forces to take over a pipeline at Jurf al-Sakhar (Babil province) that the pro-Iranian militia has been illegally tapping into since at least 2021. Iraqi officials estimate the group made away with hundreds of millions of dollars in crude. Baghdad…",
-      "pub_date": "2026-11-20T06:30:00Z",
-      "pub_display": "November 20, 2026",
-      "category": "markets",
-      "slug": "iraqs-oil-crackdown-sparks-new-showdown-with-kurdistan",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-iraqs-oil-crackdown-sparks-new-showdown-with-kurdistan.html"
-    },
-    {
-      "title": "WTI Crude Sinks More Than 5% as Global Oil Glut Fears Grow",
-      "link": "https://oilprice.com/Energy/Energy-General/WTI-Crude-Sinks-More-Than-5-as-Global-Oil-Glut-Fears-Grow.html",
-      "description": "The oil market spent the week weighing an increase in global supply against the risk of further disruptions in the Middle East. More crude is reaching buyers from the region, while U.S. inventories are building. Attacks on tankers and energy infrastructure remain a threat, but they have not been enough to stop the decline in prices. For now, the supply story appears to be winning. January West Texas Intermediate crude oil futures are down more than 5% for the week. The decline suggests traders are putting more weight on the barrels reaching the…",
-      "pub_date": "2026-11-20T06:30:00Z",
-      "pub_display": "November 20, 2026",
-      "category": "markets",
-      "slug": "wti-crude-sinks-more-than-5-as-global-oil-glut-fears-grow",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-wti-crude-sinks-more-than-5-as-global-oil-glut-fears-grow.html"
-    },
-    {
-      "title": "Iran Steps Up Hormuz Tanker Attacks as Oil Prices Slide",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Steps-Up-Hormuz-Tanker-Attacks-as-Oil-Prices-Slide.html",
-      "description": "Iran has intensified attacks on tankers in the Strait of Hormuz in recent weeks, just as crude oil flows from the Persian Gulf recover and oil prices fall amid expectations of oversupply within months. The number of attacks soared in October to the highest level since the Iran war began at the end of February, and has continued at nearly daily occurrences so far in November, according to data compiled by Bloomberg. Meanwhile, crude oil volumes flowing from the Strait of Hormuz have declined in recent days, although it’s unclear if this is…",
-      "pub_date": "2026-11-20T06:30:00Z",
-      "pub_display": "November 20, 2026",
-      "category": "markets",
-      "slug": "iran-steps-up-hormuz-tanker-attacks-as-oil-prices-slide",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-iran-steps-up-hormuz-tanker-attacks-as-oil-prices-slide.html"
-    },
-    {
-      "title": "Iran Refuses Nuclear Inspections as U.S. Military Threats Mount",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Refuses-Nuclear-Inspections-as-US-Military-Threats-Mount.html",
-      "description": "Iran has warned once again that it would not grant access to its nuclear sites and materials to UN inspectors amid continued U.S. threats of military strikes, a senior Iranian official was quoted as saying on Friday. “We will not accept being bombed on the one hand while being asked in a tone of entitlement, on the other, to provide detailed information about our materials and sites and grant unrestricted access to them,” Reza Najafi, Iran’s ambassador to international organizations in Vienna, told the International Atomic…",
-      "pub_date": "2026-11-20T05:30:00Z",
-      "pub_display": "November 20, 2026",
-      "category": "technology",
-      "slug": "iran-refuses-nuclear-inspections-as-u-s-military-threats-mount",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-iran-refuses-nuclear-inspections-as-u-s-military-threats-mount.html"
-    },
-    {
-      "title": "China’s Solar Exports Surge 21% as U.S. Tariff Deadline Looms",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Solar-Exports-Surge-21-as-US-Tariff-Deadline-Looms.html",
-      "description": "Chinese exports of solar cells jumped in October for the second consecutive month as importers are stocking up ahead of new U.S. tariffs on polysilicon coming into effect on December 4. China’s solar cell exports soared by 21% year-over-year to 1.55 billion units in October, Bloomberg reported on Friday, citing data from China’s General Administration of Customs. October was the second month in a row in which Chinese solar cell shipments overseas rose from a year earlier, after four consecutive months of declines between May and August…",
-      "pub_date": "2026-11-20T04:15:00Z",
-      "pub_display": "November 20, 2026",
-      "category": "lng",
-      "slug": "china-s-solar-exports-surge-21-as-u-s-tariff-deadline-looms",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-china-s-solar-exports-surge-21-as-u-s-tariff-deadline-looms.html"
-    },
-    {
-      "title": "Iran Moves to Restart Oil Exports Despite U.S. Naval Blockade",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Moves-to-Restart-Oil-Exports-Despite-US-Naval-Blockade.html",
-      "description": "Iran is preparing to relaunch crude oil exports even as the United States says it is going to tighten the naval blockade on Iranian ports it imposed earlier this year in response to Iran’s closing of the Strait of Hormuz. Bloomberg reported earlier today that a cargo of Iranian crude had been transferred from a Suezmax tanker under U.S. sanctions to a medium-range vessel that is not under sanctions. The information comes from an anti-Iran organization named United Against Nuclear Iran and vessel tracker Kpler. A Reuters report cited TankerTrackers.com…",
-      "pub_date": "2026-11-20T03:00:00Z",
-      "pub_display": "November 20, 2026",
-      "category": "regulations",
-      "slug": "iran-moves-to-restart-oil-exports-despite-u-s-naval-blockade",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-iran-moves-to-restart-oil-exports-despite-u-s-naval-blockade.html"
-    },
-    {
-      "title": "Senate Passes Sweeping Energy Permitting Reform Bill in 62-33 Vote",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Senate-Passes-Sweeping-Energy-Permitting-Reform-Bill-in-62-33-Vote.html",
-      "description": "The Senate has passed the Bipartisan American Affordability and Jobs Bill that aims to speed up the approval process for large-scale energy projects, including new power plants, grid upgrades, and data centers. Senators voted 62-33 for the bill, with the majority of Republican Senators supporting the bill and getting joined by 14 Democrat Senators and one independent. The bill is now headed for the House. The new Democratic majority will not take office until January 2027, but those Democrats in the Senate who voted against it feared it would mean…",
-      "pub_date": "2026-11-20T01:30:00Z",
-      "pub_display": "November 20, 2026",
-      "category": "technology",
-      "slug": "senate-passes-sweeping-energy-permitting-reform-bill-in-62-33-vote",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-senate-passes-sweeping-energy-permitting-reform-bill-in-62-33-vote.html"
-    },
-    {
-      "title": "Oil Prices Rebound as Houthi Attacks Reignite Middle East Supply Fears",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Rebound-as-Houthi-Attacks-Reignite-Middle-East-Supply-Fears.html",
-      "description": "Crude oil prices earlier today reversed a decline that began earlier in the week, gaining on reports of fresh Houthi attacks on Saudi targets and continued tanker trouble in the Strait of Hormuz. At the time of writing, Brent crude was trading at $92.67 per barrel, and West Texas Intermediate was changing hands for $83.06 per barrel, after media reported the Yemeni Houthis had struck targets in Riyadh, including the city’s financial district and the headquarters of the country’s sovereign wealth fund, as well as a petrochemicals company…",
-      "pub_date": "2026-11-19T23:51:00Z",
-      "pub_display": "November 19, 2026",
-      "category": "markets",
-      "slug": "oil-prices-rebound-as-houthi-attacks-reignite-middle-east-supply-fears",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-oil-prices-rebound-as-houthi-attacks-reignite-middle-east-supply-fears.html"
-    },
-    {
-      "title": "Oil Prices Swing on Middle East Uncertainty",
-      "link": "https://www.rigzone.com/news/wire/oil_prices_swing_on_middle_east_uncertainty-19-nov-2026-185129-article/?rss=true",
-      "description": "Oil prices fluctuated as renewed Iran tensions offset improving Middle East supplies.",
-      "pub_date": "2026-11-19T22:31:27Z",
-      "pub_display": "November 19, 2026",
-      "category": "markets",
-      "slug": "oil-prices-swing-on-middle-east-uncertainty",
-      "read_time": 1,
-      "source": "Rigzone Latest",
-      "filename": "article-oil-prices-swing-on-middle-east-uncertainty.html"
-    },
-    {
-      "title": "TPAO In Talks for $1B Loan",
-      "link": "https://www.rigzone.com/news/wire/tpao_in_talks_for_1b_loan-19-nov-2026-185125-article/?rss=true",
-      "description": "Turkey's state-owned oil and natural gas producer is in talks with banks for a loan of up to $1 billion, according to people familiar with the matter.",
-      "pub_date": "2026-11-19T20:00:00Z",
-      "pub_display": "November 19, 2026",
-      "category": "production",
-      "slug": "tpao-in-talks-for-1b-loan",
-      "read_time": 1,
-      "source": "Rigzone Latest",
-      "filename": "article-tpao-in-talks-for-1b-loan.html"
-    },
-    {
-      "title": "Canada Builds an Energy Exit From the U.S.",
-      "link": "https://oilprice.com/Energy/Energy-General/Canada-Builds-an-Energy-Exit-From-the-US.html",
-      "description": "Canada is building an energy export industry for a world beyond the tariff-chasing United States. In 2024, the U.S. bought all but 0.01% of Canada’s natural gas exports. Ottawa now wants 55% of those exports to go to other countries by the mid-2030s, and Germany’s state-owned Uniper has signed a 20-year deal for liquefied natural gas from a planned British Columbia terminal. Prime Minister Mark Carney has fast-tracked a state-backed pipeline to carry 1 million barrels a day of Alberta crude to the Pacific coast for Asian buyers, and…",
-      "pub_date": "2026-11-19T19:00:00Z",
-      "pub_display": "November 19, 2026",
-      "category": "lng",
-      "slug": "canada-builds-an-energy-exit-from-the-u-s",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-canada-builds-an-energy-exit-from-the-u-s.html"
     }
   ]
 }
