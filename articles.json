@@ -1,7 +1,79 @@
 {
-  "updated": "2026-11-21 15:45:55",
+  "updated": "2026-11-22 15:46:04",
   "count": 24,
   "articles": [
+    {
+      "title": "TechnipFMC to Supply Subsea Production Systems for Longtail Project",
+      "link": "https://www.rigzone.com/news/technipfmc_to_supply_subsea_production_systems_for_longtail_project-22-nov-2026-185136-article/?rss=true",
+      "description": "ExxonMobil awarded TechnipFMC a $500 million-$1 billion contract to supply production systems for the Longtail project in the Stabroek block offshore Guyana.",
+      "pub_date": "2026-11-22T11:00:00Z",
+      "pub_display": "November 22, 2026",
+      "category": "offshore",
+      "slug": "technipfmc-to-supply-subsea-production-systems-for-longtail-project",
+      "read_time": 1,
+      "source": "Rigzone Latest",
+      "filename": "article-technipfmc-to-supply-subsea-production-systems-for-longtail-project.html"
+    },
+    {
+      "title": "AI Boom Forces Massive Investment in Power Grids Worldwide",
+      "link": "https://oilprice.com/Energy/Crude-Oil/AI-Boom-Forces-Massive-Investment-in-Power-Grids-Worldwide.html",
+      "description": "The information technology industry is driving massive growth in global electricity demand, which is set to rise by more than 10,000 TWh over the next ten years. For this electricity to reach demand hubs, grids around the world will need urgent upgrades. The big question is who will pay for it. In its World Energy Outlook released this week, the International Energy Agency once again joined the growing chorus of forecasters warning that data centers are becoming a major drain on electricity supply. Some of these warnings and community opposition…",
+      "pub_date": "2026-11-21T18:00:00Z",
+      "pub_display": "November 21, 2026",
+      "category": "technology",
+      "slug": "ai-boom-forces-massive-investment-in-power-grids-worldwide",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-ai-boom-forces-massive-investment-in-power-grids-worldwide.html"
+    },
+    {
+      "title": "Wind Could Cut the Cost of Round-the-Clock Solar Power by 18%, Ember Says",
+      "link": "https://oilprice.com/Alternative-Energy/Wind-Power/Wind-Could-Cut-the-Cost-of-Round-the-Clock-Solar-Power-by-18-Ember-Says.html",
+      "description": "A new report from Ember Energy shows the enormous cost-saving potential of wind energy. While solar power and battery storage have taken off on a global level, wind power has been slower to expand. But according to the new report from the prominent energy think tank, this is a major missed opportunity for energy security, emissions goals, and economic returns. “Solar and batteries can already deliver firm power at a competitive cost across much of the world,” reads the report, titled Harnessing the Winds. “Adding wind makes it…",
+      "pub_date": "2026-11-21T16:00:00Z",
+      "pub_display": "November 21, 2026",
+      "category": "regulations",
+      "slug": "wind-could-cut-the-cost-of-round-the-clock-solar-power-by-18-ember-says",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-wind-could-cut-the-cost-of-round-the-clock-solar-power-by-18-ember-says.html"
+    },
+    {
+      "title": "Trump’s Coal Revival Is Costing Americans More Than Expected",
+      "link": "https://oilprice.com/Energy/Coal/Trumps-Coal-Revival-Is-Costing-Americans-More-Than-Expected.html",
+      "description": "United States President Trump has doubled down on his support for fossil fuels since coming into office almost two years ago, including the most polluting of them all – coal. Just as many coal plants were on their way to retirement, Trump stepped in and stopped them from closing, backing his decision with federal funds. Recent assessments suggest that the move has cost U.S. taxpayers billions of dollars with little to show for it. President Trump has issued several far-reaching executive orders in support of the coal industry, allowing coal…",
+      "pub_date": "2026-11-21T14:00:00Z",
+      "pub_display": "November 21, 2026",
+      "category": "regulations",
+      "slug": "trump-s-coal-revival-is-costing-americans-more-than-expected",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-trump-s-coal-revival-is-costing-americans-more-than-expected.html"
+    },
+    {
+      "title": "Thanksgiving Gas Prices Could Break a Record Despite Recent Plunge",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Thanksgiving-Gas-Prices-Could-Break-a-Record-Despite-Recent-Plunge.html",
+      "description": "Gasoline prices have fallen nearly 60 cents in a month, but Americans heading out for Thanksgiving could still pay more at the pump than during any previous Thanksgiving. The national average fell to $3.69 per gallon on Friday, according to AAA, down from approximately $4.30 a month ago. GasBuddy expects prices to average $3.62 on Thanksgiving Day, which would surpass the previous holiday record of $3.56 set in 2022. The declines are substantial. Gasoline prices have been falling for weeks as crude oil prices retreat and supplies recover from the…",
+      "pub_date": "2026-11-21T13:10:00Z",
+      "pub_display": "November 21, 2026",
+      "category": "markets",
+      "slug": "thanksgiving-gas-prices-could-break-a-record-despite-recent-plunge",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-thanksgiving-gas-prices-could-break-a-record-despite-recent-plunge.html"
+    },
+    {
+      "title": "Britain's Net Zero Revolution Has a China Problem",
+      "link": "https://oilprice.com/Energy/Energy-General/Britains-Net-Zero-Revolution-Has-a-China-Problem.html",
+      "description": "The Labour government has been accused of “capitulation” in its trade relations with China as Britain’s transition to net zero faces a number of security risks. A new report, published shortly before President Trump’s momentous trilateral meeting with Xi Jinping and Vladimir Putin, has highlighted the UK’s dependence on China for net zero-related technology and potential vulnerabilities in supply chains. Policy Exchange researchers found that China accounts for 91 per cent of the UK’s solar imports, plus…",
+      "pub_date": "2026-11-21T12:00:00Z",
+      "pub_display": "November 21, 2026",
+      "category": "technology",
+      "slug": "britains-net-zero-revolution-has-a-china-problem",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-britains-net-zero-revolution-has-a-china-problem.html"
+    },
     {
       "title": "Saudis Make Deal with Japan to Replenish Oil Stocks",
       "link": "https://www.rigzone.com/news/wire/saudis_make_deal_with_japan_to_replenish_oil_stocks-21-nov-2026-185137-article/?rss=true",
@@ -13,6 +85,18 @@
       "read_time": 1,
       "source": "Rigzone Latest",
       "filename": "article-saudis-make-deal-with-japan-to-replenish-oil-stocks.html"
+    },
+    {
+      "title": "UK Races to Rewrite Nuclear Rules by 2027",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/UK-Races-to-Rewrite-Nuclear-Rules-by-2027.html",
+      "description": "As part of its green transition plans, the U.K. government aims to accelerate the development of nuclear power. The government is already doubling down on expanding its renewable energy capacity, and it hopes nuclear power will become a major contributor to a more diverse energy mix that will support its decarbonisation aims. To achieve greater nuclear power deployment, the government plans to complete an overhaul of its nuclear regulations by the end of 2027. Much like in the United States, the United Kingdom plans to reduce the bureaucracy associated…",
+      "pub_date": "2026-11-21T10:00:00Z",
+      "pub_display": "November 21, 2026",
+      "category": "pipeline",
+      "slug": "uk-races-to-rewrite-nuclear-rules-by-2027",
+      "read_time": 1,
+      "source": "OilPrice.com",
+      "filename": "article-uk-races-to-rewrite-nuclear-rules-by-2027.html"
     },
     {
       "title": "Oil Posts Third Weekly Loss Amid Surplus",
@@ -205,90 +289,6 @@
       "read_time": 1,
       "source": "Rigzone Latest",
       "filename": "article-shenzhen-summit-fuel-pledge-offers-little-near-term-relief.html"
-    },
-    {
-      "title": "Norway’s Gas Sales Surge Nearly 20% as Europe Braces for Winter",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Norways-Gas-Sales-Surge-Nearly-20-as-Europe-Braces-for-Winter.html",
-      "description": "Norway’s daily gas sales jumped nearly 20% in October and were 5.6% above year-earlier levels. The rebound comes as the EU heads into winter with its gas storage facilities less than 70% full. Norway sold 11 billion cubic meters of natural gas in October, up 2.1 billion cubic meters from September, according to preliminary figures from the Norwegian Offshore Directorate. Daily sales averaged 355.6 million cubic meters, up from a revised 296.8 million in September and 2.2% above the regulator’s forecast. EU gas storage was 69.8% full…",
-      "pub_date": "2026-11-20T10:30:00Z",
-      "pub_display": "November 20, 2026",
-      "category": "lng",
-      "slug": "norway-s-gas-sales-surge-nearly-20-as-europe-braces-for-winter",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-norway-s-gas-sales-surge-nearly-20-as-europe-braces-for-winter.html"
-    },
-    {
-      "title": "China’s Oil Imports from Persian Gulf Jump to Wartime High",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Oil-Imports-from-Persian-Gulf-Jump-to-Wartime-High.html",
-      "description": "China’s crude oil imports from the Persian Gulf surged by 42.4% in October from September, to the highest level since the Iran war began, as supply via the Strait of Hormuz rebounded and Gulf producers slashed prices for their crude to attract buyers amid record-high freight rates. China imported 19.7 million tons of crude oil from the Persian Gulf producers, excluding Iran, in October, a 42.4% jump from the previous month, per calculations by the South China Morning Post based on Chinese customs data released on Friday. October…",
-      "pub_date": "2026-11-20T09:36:00Z",
-      "pub_display": "November 20, 2026",
-      "category": "markets",
-      "slug": "china-s-oil-imports-from-persian-gulf-jump-to-wartime-high",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-china-s-oil-imports-from-persian-gulf-jump-to-wartime-high.html"
-    },
-    {
-      "title": "Historic Superpower Summit Delivers Big Promises but Few Breakthroughs",
-      "link": "https://oilprice.com/Geopolitics/Asia/Historic-Superpower-Summit-Delivers-Big-Promises-but-Few-Breakthroughs.html",
-      "description": "US President Donald Trump, Chinese leader Xi Jinping, and Russian President Vladimir Putin held a historic meeting on the sidelines of the Asia-Pacific Economic Cooperation (APEC) summit in Shenzhen that delivered modest wins for all three men but no game-changing accords. The high-stakes summit on November 19 marked the first time the current heads of state of the three world’s largest nuclear powers have held a trilateral meeting without other leaders present, though Putin and Xi have met about 50 times. While the summit was more style…",
-      "pub_date": "2026-11-20T09:00:00Z",
-      "pub_display": "November 20, 2026",
-      "category": "markets",
-      "slug": "historic-superpower-summit-delivers-big-promises-but-few-breakthroughs",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-historic-superpower-summit-delivers-big-promises-but-few-breakthroughs.html"
-    },
-    {
-      "title": "Equinor Says Cyberattack Stopped",
-      "link": "https://www.rigzone.com/news/equinor_says_cyberattack_stopped-20-nov-2026-185131-article/?rss=true",
-      "description": "At least two Norwegian energy companies have reported a cyberattack or an attempted one around the same time this week.",
-      "pub_date": "2026-11-20T08:58:13Z",
-      "pub_display": "November 20, 2026",
-      "category": "production",
-      "slug": "equinor-says-cyberattack-stopped",
-      "read_time": 1,
-      "source": "Rigzone Latest",
-      "filename": "article-equinor-says-cyberattack-stopped.html"
-    },
-    {
-      "title": "Europe Has Already Drained 11% of Its Summer Gas Injections",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Europe-Has-Already-Drained-11-of-Its-Summer-Gas-Injections.html",
-      "description": "In less than a month, Europe has already sapped 11% of the natural gas volumes it had injected into storage during the summer, which, combined with a low starting point of gas in storage, intensifies concerns about winter supply. So far into the heating season, which officially began at the end of October, the net withdrawals of European countries have reached about 11% of the 51.2 billion cubic meters of gas they had injected into storage sites this summer, Azeri outlet APA-Economics reported on Friday, quoting data from Gas Infrastructure…",
-      "pub_date": "2026-11-20T08:30:00Z",
-      "pub_display": "November 20, 2026",
-      "category": "technology",
-      "slug": "europe-has-already-drained-11-of-its-summer-gas-injections",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-europe-has-already-drained-11-of-its-summer-gas-injections.html"
-    },
-    {
-      "title": "India’s LPG Consumption Hits 8-Month High as Supply Rebounds",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-LPG-Consumption-Hits-8-Month-High-as-Supply-Rebounds.html",
-      "description": "India’s consumption of liquefied petroleum gas (LPG) jumped to the highest level in eight months in October as supply has gradually recovered after the shock loss of shipments from the Middle East earlier this year. India’s demand for LPG, its primary cooking fuel, rose to 2.6 million tons in October, according to government data cited by local outlet Mint. LPG consumption last month hit the highest level since February, when India’s demand was 2.8 million tons just before the war began. Amid recovering supply, India’s LPG…",
-      "pub_date": "2026-11-20T07:30:00Z",
-      "pub_display": "November 20, 2026",
-      "category": "markets",
-      "slug": "india-s-lpg-consumption-hits-8-month-high-as-supply-rebounds",
-      "read_time": 1,
-      "source": "OilPrice.com",
-      "filename": "article-india-s-lpg-consumption-hits-8-month-high-as-supply-rebounds.html"
-    },
-    {
-      "title": "Gulf Sees Iran Oil Movement as US Widens Blockade",
-      "link": "https://www.rigzone.com/news/wire/gulf_sees_iran_oil_movement_as_us_widens_blockade-20-nov-2026-185130-article/?rss=true",
-      "description": "A cargo of Iranian crude was transferred between two tankers in the Persian Gulf this week, as the US warned its forces could target vessels that carry out the practice while enforcing a maritime blockade.",
-      "pub_date": "2026-11-20T07:09:34Z",
-      "pub_display": "November 20, 2026",
-      "category": "markets",
-      "slug": "gulf-sees-iran-oil-movement-as-us-widens-blockade",
-      "read_time": 1,
-      "source": "Rigzone Latest",
-      "filename": "article-gulf-sees-iran-oil-movement-as-us-widens-blockade.html"
     }
   ]
 }
